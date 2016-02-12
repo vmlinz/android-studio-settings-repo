@@ -1,0 +1,5 @@
+<application>
+  <component name="IntentionManagerSettings">
+    <ignoreAction name="Java/Control Flow/Convert '.compareTo()' method to '.equals()' (may change semantics)" />
+  </component>
+</application>
