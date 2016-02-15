@@ -152,12 +152,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherProvider.java" timestamp="1455526437199">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherProvider.java" timestamp="1455528484104">
         <mark key="'" line="320" column="23" />
-        <mark key="[" line="266" column="15" />
-        <mark key="]" line="266" column="15" />
-        <mark key="." line="266" column="15" />
-        <mark key="^" line="312" column="11" />
+        <mark key="[" line="272" column="48" />
+        <mark key="]" line="272" column="48" />
+        <mark key="." line="272" column="48" />
+        <mark key="^" line="272" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/android/training/Materialist/libraries/material-ripple-master/build.gradle" timestamp="1435055606055">
         <mark key="[" line="7" column="0" />
@@ -382,10 +382,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>DB</text>
+        <text>(</text>
       </register>
       <register name="-" type="4">
-        <text>DB</text>
+        <text>(</text>
       </register>
       <register name="/" type="4">
         <text>deleteAll</text>
@@ -394,31 +394,32 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50ID0gZGIudXBkYXRlKFdlYXRoZXJDb250cmFjdC5XZWF0aGVyRW50cnkuVEFCTEVfTkFNRSwgdmFsdWVzLCBzZWxlY3Rpb24sIHNlbGVjdGlvbkFyZ3MpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>DB</text>
+        <text>(</text>
       </register>
       <register name="2" type="4">
-        <text>delete</text>
-      </register>
-      <register name="3" type="4">
-        <text encoding="base64">bG9uZyA=</text>
-      </register>
-      <register name="4" type="4">
-        <text>0</text>
-      </register>
-      <register name="5" type="4">
-        <text>WeatherEntry</text>
-      </register>
-      <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="3" type="4">
+        <text>|</text>
+      </register>
+      <register name="4" type="4">
+        <text>|</text>
+      </register>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="6" type="4">
+        <text>)</text>
+      </register>
       <register name="7" type="4">
-        <text>,</text>
+        <text>(selection == null)</text>
       </register>
       <register name="8" type="4">
-        <text>i</text>
+        <text>|| 
+            getContext().</text>
       </register>
       <register name="9" type="4">
-        <text>r</text>
+        <text>(selection == null)) {</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
