@@ -38,7 +38,7 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" timestamp="1455536400557">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" timestamp="1455541825609">
         <mark key="'" line="465" column="13" />
         <mark key="[" line="104" column="28" />
         <mark key="]" line="104" column="38" />
@@ -52,11 +52,12 @@
         <mark key="^" line="87" column="54" />
         <mark key="." line="87" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherTask.java" timestamp="1455539093228">
-        <mark key="[" line="130" column="12" />
-        <mark key="]" line="130" column="15" />
-        <mark key="." line="130" column="15" />
-        <mark key="^" line="130" column="15" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherTask.java" timestamp="1455541644763">
+        <mark key="'" line="47" column="18" />
+        <mark key="[" line="129" column="16" />
+        <mark key="]" line="129" column="11" />
+        <mark key="^" line="129" column="11" />
+        <mark key="." line="129" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1455534966403">
         <mark key="'" line="93" column="19" />
@@ -65,6 +66,7 @@
         <mark key="^" line="90" column="46" />
         <mark key="." line="90" column="46" />
       </file>
+      <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/android/content/ContentResolver.class" timestamp="1455540546172" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" timestamp="1454164834361">
         <mark key="'" line="119" column="12" />
         <mark key="[" line="195" column="80" />
@@ -139,6 +141,9 @@
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/TestFetchWeatherTask.java" timestamp="1455541425890">
+        <mark key="'" line="33" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherProvider.java" timestamp="1455539372627">
         <mark key="'" line="320" column="23" />
@@ -244,16 +249,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1455258039171">
+      <file name="/fragment.java" timestamp="1455540010745">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="4" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
-      <jump line="15" column="76" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/WeatherDataParser.java" />
-      <jump line="82" column="8" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/WeatherDataParser.java" />
-      <jump line="26" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
-      <jump line="182" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
       <jump line="33" column="4" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
       <jump line="31" column="4" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
       <jump line="97" column="4" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
@@ -349,13 +349,18 @@
       <jump line="462" column="88" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
       <jump line="464" column="29" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
       <jump line="465" column="13" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
+      <jump line="49" column="18" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherTask.java" />
+      <jump line="30" column="11" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/TestFetchWeatherTask.java" />
+      <jump line="65" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/TestFetchWeatherTask.java" />
+      <jump line="34" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/TestFetchWeatherTask.java" />
+      <jump line="33" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/TestFetchWeatherTask.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVyaSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBjdXJzb3IgPSBtQ29udGV4dC5nZXRDb250ZW50UmVzb2x2ZXIoKS5xdWVyeSh1cmksIG51bGwsIG51bGwsIG51bGwsIG51bGwpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVyaSAhPSBudWxsKQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IG51bGw=</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
@@ -364,31 +369,31 @@
         <text encoding="base64">ICAgICAgICBjdXJzb3IuY2xvc2UoKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVyaSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBjdXJzb3IgPSBtQ29udGV4dC5nZXRDb250ZW50UmVzb2x2ZXIoKS5xdWVyeSh1cmksIG51bGwsIG51bGwsIG51bGwsIG51bGwpOwogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVyaSAhPSBudWxsKQo=</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IG51bGw=</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY3Vyc29yLmNsb3NlKCk7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>e</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgY3Vyc29yLmNsb3NlKCk7Cg==</text>
       </register>
       <register name="5" type="4">
-        <text>m</text>
+        <text>)</text>
       </register>
       <register name="6" type="4">
-        <text>a</text>
+        <text>(</text>
       </register>
       <register name="7" type="4">
-        <text>N</text>
+        <text>toString</text>
       </register>
-      <register name="8" type="4">
-        <text>y</text>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>t</text>
+        <text>LocationEntry</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
