@@ -28,6 +28,16 @@
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/AndroidManifest.xml" timestamp="1454753398861">
         <mark key="[" line="39" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/android/training/SampleDagger2/build.gradle" timestamp="1435653339760">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/android/training/NavigationDrawer/app/src/main/res/values/styles.xml" timestamp="1435220820144">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="." line="19" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/android/training/RecyclerSample/app/src/main/java/com/televpn/example/recyclersample/Person.java" timestamp="1435156289875">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -66,6 +76,18 @@
         <mark key="^" line="90" column="46" />
         <mark key="." line="90" column="46" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherDbHelper.java" timestamp="1454662301119">
+        <mark key="'" line="15" column="0" />
+        <mark key="[" line="79" column="56" />
+        <mark key="]" line="79" column="56" />
+        <mark key="^" line="79" column="55" />
+        <mark key="." line="79" column="56" />
+      </file>
+      <file name="$USER_HOME$/Projects/android/training/Materialist/settings.gradle" timestamp="1435131112405">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="." line="3" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" timestamp="1454164834361">
         <mark key="'" line="119" column="12" />
         <mark key="[" line="195" column="80" />
@@ -78,15 +100,56 @@
         <mark key="]" line="24" column="13" />
         <mark key="." line="24" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/android/training/SampleTabLayout/app/src/main/res/layout/include_viewpager.xml" timestamp="1435321143135">
+        <mark key="[" line="50" column="0" />
+        <mark key="]" line="50" column="0" />
+        <mark key="." line="50" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/android/training/Materialist/libraries/UndoBar/build.gradle" timestamp="1435055631878">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="55" />
+        <mark key="." line="22" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/android/training/SampleTabLayout/app/build.gradle" timestamp="1435309607682">
         <mark key="[" line="25" column="56" />
         <mark key="]" line="25" column="56" />
         <mark key="." line="25" column="56" />
       </file>
+      <file name="$USER_HOME$/Projects/android/telesocks/build.gradle" timestamp="1431510973657">
+        <mark key="[" line="17" column="0" />
+        <mark key="]" line="17" column="0" />
+        <mark key="." line="17" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestDb.java" timestamp="1454495482417">
+        <mark key="'" line="24" column="0" />
+        <mark key="[" line="17" column="18" />
+        <mark key="]" line="17" column="19" />
+        <mark key="^" line="17" column="19" />
+        <mark key="." line="17" column="19" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1454404871489">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/android/training/SampleEventBus/app/src/main/java/com/televpn/example/sampleeventbus/MainBus.java" timestamp="1435722990774">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="0" />
+        <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/gradle/wrapper/gradle-wrapper.properties" timestamp="1455521578829">
+        <mark key="[" line="0" column="69" />
+        <mark key="]" line="0" column="69" />
+        <mark key="." line="0" column="69" />
+        <mark key="^" line="0" column="69" />
+      </file>
       <file name="$USER_HOME$/Projects/android/MyActionBar/app/src/main/res/layout/toolbar.xml" timestamp="1430930251659">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestWeatherContract.java" timestamp="1454689447678">
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailActivity.java" timestamp="1454495556897">
         <mark key="'" line="0" column="0" />
@@ -120,6 +183,13 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestUtilities.java" timestamp="1455536409587">
+        <mark key="'" line="83" column="46" />
+        <mark key="[" line="50" column="71" />
+        <mark key="]" line="50" column="83" />
+        <mark key="^" line="50" column="83" />
+        <mark key="." line="50" column="83" />
+      </file>
       <file name="$USER_HOME$/Projects/android/training/NavigationDrawer/app/src/main/res/values/colors.xml" timestamp="1435220878708">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -134,96 +204,6 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/android/telesocks/app/src/main/res/values/ids.xml" timestamp="1431518308040">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/TestFetchWeatherTask.java" timestamp="1455541425890">
-        <mark key="'" line="33" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherProvider.java" timestamp="1455539372627">
-        <mark key="'" line="320" column="23" />
-        <mark key="[" line="272" column="48" />
-        <mark key="]" line="272" column="48" />
-        <mark key="." line="272" column="48" />
-        <mark key="^" line="272" column="48" />
-      </file>
-      <file name="$USER_HOME$/Projects/android/training/Materialist/libraries/material-ripple-master/build.gradle" timestamp="1435055606055">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="55" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/android/training/SampleDagger2/build.gradle" timestamp="1435653339760">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/android/training/NavigationDrawer/app/src/main/res/values/styles.xml" timestamp="1435220820144">
-        <mark key="[" line="19" column="0" />
-        <mark key="]" line="19" column="0" />
-        <mark key="." line="19" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherDbHelper.java" timestamp="1454662301119">
-        <mark key="'" line="15" column="0" />
-        <mark key="[" line="79" column="56" />
-        <mark key="]" line="79" column="56" />
-        <mark key="^" line="79" column="55" />
-        <mark key="." line="79" column="56" />
-      </file>
-      <file name="$USER_HOME$/Projects/android/training/Materialist/settings.gradle" timestamp="1435131112405">
-        <mark key="[" line="3" column="0" />
-        <mark key="]" line="3" column="0" />
-        <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/android/training/SampleTabLayout/app/src/main/res/layout/include_viewpager.xml" timestamp="1435321143135">
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="0" />
-        <mark key="." line="50" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/android/training/Materialist/libraries/UndoBar/build.gradle" timestamp="1435055631878">
-        <mark key="[" line="22" column="0" />
-        <mark key="]" line="22" column="55" />
-        <mark key="." line="22" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/android/telesocks/build.gradle" timestamp="1431510973657">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="0" />
-        <mark key="." line="17" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestDb.java" timestamp="1454495482417">
-        <mark key="'" line="24" column="0" />
-        <mark key="[" line="17" column="18" />
-        <mark key="]" line="17" column="19" />
-        <mark key="^" line="17" column="19" />
-        <mark key="." line="17" column="19" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1454404871489">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/android/training/SampleEventBus/app/src/main/java/com/televpn/example/sampleeventbus/MainBus.java" timestamp="1435722990774">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/gradle/wrapper/gradle-wrapper.properties" timestamp="1455521578829">
-        <mark key="[" line="0" column="69" />
-        <mark key="]" line="0" column="69" />
-        <mark key="." line="0" column="69" />
-        <mark key="^" line="0" column="69" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestWeatherContract.java" timestamp="1454689447678">
-        <mark key="[" line="29" column="0" />
-        <mark key="]" line="29" column="0" />
-        <mark key="." line="29" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestUtilities.java" timestamp="1455536409587">
-        <mark key="'" line="83" column="46" />
-        <mark key="[" line="50" column="71" />
-        <mark key="]" line="50" column="83" />
-        <mark key="^" line="50" column="83" />
-        <mark key="." line="50" column="83" />
-      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" timestamp="1454246276980">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="58" column="9" />
@@ -236,10 +216,30 @@
         <mark key="]" line="7" column="56" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/android/telesocks/app/src/main/res/values/ids.xml" timestamp="1431518308040">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/TestFetchWeatherTask.java" timestamp="1455541425890">
+        <mark key="'" line="33" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/android/training/Materialist/app/src/main/res/layout/main.xml" timestamp="1435137346787">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherProvider.java" timestamp="1455539372627">
+        <mark key="'" line="320" column="23" />
+        <mark key="[" line="272" column="48" />
+        <mark key="]" line="272" column="48" />
+        <mark key="." line="272" column="48" />
+        <mark key="^" line="272" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/android/training/Materialist/libraries/material-ripple-master/build.gradle" timestamp="1435055606055">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="55" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/android/training/Materialist/app/src/main/res/values-v21/styles.xml" timestamp="1435138578767">
         <mark key="[" line="13" column="0" />
