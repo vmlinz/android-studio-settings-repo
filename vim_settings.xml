@@ -44,8 +44,8 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" timestamp="1454770405460">
-        <mark key="'" line="318" column="43" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" timestamp="1455519617944">
+        <mark key="'" line="303" column="39" />
         <mark key="[" line="23" column="19" />
         <mark key="]" line="23" column="19" />
         <mark key="." line="23" column="19" />
@@ -93,11 +93,13 @@
         <mark key="^" line="27" column="19" />
         <mark key="." line="27" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/build.gradle" timestamp="1455519788055" />
       <file name="$USER_HOME$/Projects/android/MyActionBar/app/src/main/res/layout/toolbar.xml" timestamp="1430930251659">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build.gradle" timestamp="1455519772915" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailActivity.java" timestamp="1454495556897">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="68" column="8" />
@@ -231,6 +233,12 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/gradle/wrapper/gradle-wrapper.properties" timestamp="1455519879685">
+        <mark key="[" line="5" column="69" />
+        <mark key="]" line="5" column="69" />
+        <mark key="." line="5" column="69" />
+        <mark key="^" line="5" column="69" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestWeatherContract.java" timestamp="1454689447678">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="29" column="0" />
@@ -270,9 +278,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="192" column="24" filename="$USER_HOME$/Projects/android/teleportal/strongswan-android/app/src/main/java/org/strongswan/android/logic/CharonVpnService.java" />
-      <jump line="202" column="42" filename="$USER_HOME$/Projects/android/teleportal/strongswan-android/app/src/main/java/org/strongswan/android/logic/CharonVpnService.java" />
-      <jump line="210" column="24" filename="$USER_HOME$/Projects/android/teleportal/strongswan-android/app/src/main/java/org/strongswan/android/logic/CharonVpnService.java" />
       <jump line="263" column="17" filename="$USER_HOME$/Projects/android/teleportal/strongswan-android/app/src/main/java/org/strongswan/android/logic/CharonVpnService.java" />
       <jump line="270" column="12" filename="$USER_HOME$/Projects/android/teleportal/strongswan-android/app/src/main/java/org/strongswan/android/logic/CharonVpnService.java" />
       <jump line="284" column="16" filename="$USER_HOME$/Projects/android/teleportal/strongswan-android/app/src/main/java/org/strongswan/android/logic/CharonVpnService.java" />
@@ -370,55 +375,58 @@
       <jump line="466" column="43" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
       <jump line="253" column="43" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
       <jump line="318" column="43" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
+      <jump line="252" column="25" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
+      <jump line="302" column="73" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
+      <jump line="303" column="39" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>(uri, projection, sortOrder)</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>(uri, projection, sortOrder)</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
-        <text>parse</text>
+        <text>insert</text>
       </register>
       <register name="0" type="4">
         <text>(projection, selection, selectionArgs, sortOrder)</text>
       </register>
       <register name="1" type="4">
-        <text>(uri, projection, sortOrder)</text>
+        <text>0</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>(uri, projection, sortOrder)</text>
       </register>
       <register name="3" type="4">
-        <text>,</text>
-      </register>
-      <register name="4" type="4">
-        <text>uri</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
+      <register name="4" type="4">
         <text>,</text>
       </register>
+      <register name="5" type="4">
+        <text>uri</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
+      </register>
       <register name="7" type="4">
-        <text>i</text>
+        <text>,</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text>i</text>
       </register>
       <register name="9" type="4">
-        <text>u</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>parse</last-search>
+      <last-search>insert</last-search>
       <last-offset />
-      <last-pattern>parse</last-pattern>
+      <last-pattern>insert</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>bind</last-substitute>
       <last-dir>1</last-dir>
@@ -426,7 +434,6 @@
     </search>
     <history>
       <history-search>
-        <entry>notifyAll</entry>
         <entry>mNextProfile</entry>
         <entry>mCurrentProfile</entry>
         <entry>startConnection</entry>
@@ -446,6 +453,7 @@
         <entry>LOCATION_ID</entry>
         <entry>parseId</entry>
         <entry>parse</entry>
+        <entry>insert</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
