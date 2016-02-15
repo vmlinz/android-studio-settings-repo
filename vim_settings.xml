@@ -151,7 +151,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherProvider.java" timestamp="1454770798278">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherProvider.java" timestamp="1455521776928">
         <mark key="'" line="151" column="92" />
         <mark key="[" line="220" column="88" />
         <mark key="]" line="220" column="88" />
@@ -233,11 +233,11 @@
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/gradle/wrapper/gradle-wrapper.properties" timestamp="1455519879685">
-        <mark key="[" line="5" column="69" />
-        <mark key="]" line="5" column="69" />
-        <mark key="." line="5" column="69" />
-        <mark key="^" line="5" column="69" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/gradle/wrapper/gradle-wrapper.properties" timestamp="1455521578829">
+        <mark key="[" line="0" column="69" />
+        <mark key="]" line="0" column="69" />
+        <mark key="." line="0" column="69" />
+        <mark key="^" line="0" column="69" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestWeatherContract.java" timestamp="1454689447678">
         <mark key="[" line="29" column="0" />
