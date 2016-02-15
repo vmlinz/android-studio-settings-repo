@@ -38,8 +38,8 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" timestamp="1455534047329">
-        <mark key="'" line="465" column="16" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" timestamp="1455536400557">
+        <mark key="'" line="465" column="13" />
         <mark key="[" line="104" column="28" />
         <mark key="]" line="104" column="38" />
         <mark key="." line="104" column="38" />
@@ -52,16 +52,16 @@
         <mark key="^" line="87" column="54" />
         <mark key="." line="87" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherTask.java" timestamp="1455534570372">
-        <mark key="[" line="27" column="19" />
-        <mark key="]" line="27" column="19" />
-        <mark key="^" line="83" column="80" />
-        <mark key="." line="27" column="19" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherTask.java" timestamp="1455539093228">
+        <mark key="[" line="130" column="12" />
+        <mark key="]" line="130" column="15" />
+        <mark key="." line="130" column="15" />
+        <mark key="^" line="130" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1455534723900">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1455534966403">
         <mark key="'" line="93" column="19" />
-        <mark key="[" line="90" column="33" />
-        <mark key="]" line="90" column="46" />
+        <mark key="[" line="137" column="42" />
+        <mark key="]" line="137" column="46" />
         <mark key="^" line="90" column="46" />
         <mark key="." line="90" column="46" />
       </file>
@@ -140,7 +140,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherProvider.java" timestamp="1455534101023">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherProvider.java" timestamp="1455539372627">
         <mark key="'" line="320" column="23" />
         <mark key="[" line="272" column="48" />
         <mark key="]" line="272" column="48" />
@@ -215,7 +215,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestUtilities.java" timestamp="1454767841632">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestUtilities.java" timestamp="1455536409587">
         <mark key="'" line="83" column="46" />
         <mark key="[" line="50" column="71" />
         <mark key="]" line="50" column="83" />
@@ -249,26 +249,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="282" column="22" filename="$USER_HOME$/Projects/android/teleportal/strongswan-android/app/src/main/java/org/strongswan/android/logic/CharonVpnService.java" />
-      <jump line="269" column="16" filename="$USER_HOME$/Projects/android/teleportal/strongswan-android/app/src/main/java/org/strongswan/android/logic/CharonVpnService.java" />
-      <jump line="267" column="16" filename="$USER_HOME$/Projects/android/teleportal/strongswan-android/app/src/main/java/org/strongswan/android/logic/CharonVpnService.java" />
-      <jump line="265" column="22" filename="$USER_HOME$/Projects/android/teleportal/strongswan-android/app/src/main/java/org/strongswan/android/logic/CharonVpnService.java" />
-      <jump line="156" column="26" filename="$USER_HOME$/Projects/android/teleportal/strongswan-android/app/src/main/java/org/strongswan/android/logic/CharonVpnService.java" />
-      <jump line="154" column="12" filename="$USER_HOME$/Projects/android/teleportal/strongswan-android/app/src/main/java/org/strongswan/android/logic/CharonVpnService.java" />
-      <jump line="131" column="20" filename="$USER_HOME$/Projects/android/teleportal/strongswan-android/app/src/main/java/org/strongswan/android/logic/CharonVpnService.java" />
-      <jump line="109" column="28" filename="$USER_HOME$/Projects/android/teleportal/strongswan-android/app/src/main/java/org/strongswan/android/logic/CharonVpnService.java" />
-      <jump line="213" column="53" filename="$USER_HOME$/Projects/android/teleportal/strongswan-android/app/src/main/java/org/strongswan/android/logic/CharonVpnService.java" />
-      <jump line="505" column="22" filename="$USER_HOME$/Projects/android/teleportal/strongswan-android/app/src/main/java/org/strongswan/android/logic/CharonVpnService.java" />
-      <jump line="510" column="43" filename="$USER_HOME$/Projects/android/teleportal/strongswan-android/app/src/main/java/org/strongswan/android/logic/CharonVpnService.java" />
-      <jump line="526" column="17" filename="$USER_HOME$/Projects/android/teleportal/strongswan-android/app/src/main/java/org/strongswan/android/logic/CharonVpnService.java" />
-      <jump line="534" column="15" filename="$USER_HOME$/Projects/android/teleportal/strongswan-android/app/src/main/java/org/strongswan/android/logic/CharonVpnService.java" />
-      <jump line="217" column="0" filename="$USER_HOME$/Projects/android/teleportal/strongswan-android/app/src/main/java/org/strongswan/android/logic/CharonVpnService.java" />
-      <jump line="0" column="12" filename="/Dummy.txt" />
-      <jump line="9" column="26" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivityFragment.java" />
-      <jump line="29" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivityFragment.java" />
-      <jump line="57" column="23" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
-      <jump line="99" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
-      <jump line="2" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
       <jump line="62" column="4" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
       <jump line="15" column="76" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/WeatherDataParser.java" />
       <jump line="82" column="8" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/WeatherDataParser.java" />
@@ -347,58 +327,77 @@
       <jump line="302" column="73" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
       <jump line="303" column="39" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
       <jump line="320" column="23" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherProvider.java" />
-      <jump line="465" column="16" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
       <jump line="103" column="19" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
+      <jump line="296" column="68" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
+      <jump line="306" column="73" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
+      <jump line="308" column="34" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
+      <jump line="316" column="12" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
+      <jump line="338" column="71" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
+      <jump line="352" column="12" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
+      <jump line="353" column="30" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
+      <jump line="367" column="71" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
+      <jump line="382" column="72" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
+      <jump line="394" column="72" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
+      <jump line="405" column="72" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
+      <jump line="412" column="73" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
+      <jump line="414" column="13" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
+      <jump line="415" column="26" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
+      <jump line="425" column="32" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
+      <jump line="428" column="88" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
+      <jump line="429" column="47" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
+      <jump line="453" column="85" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
+      <jump line="462" column="88" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
+      <jump line="464" column="29" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
+      <jump line="465" column="13" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>(</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVyaSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBjdXJzb3IgPSBtQ29udGV4dC5nZXRDb250ZW50UmVzb2x2ZXIoKS5xdWVyeSh1cmksIG51bGwsIG51bGwsIG51bGwsIG51bGwpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>(</text>
+        <text encoding="base64">IG51bGw=</text>
       </register>
       <register name="/" type="4">
-        <text>deleteAll</text>
+        <text>id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGNvdW50ID0gZGIudXBkYXRlKFdlYXRoZXJDb250cmFjdC5XZWF0aGVyRW50cnkuVEFCTEVfTkFNRSwgdmFsdWVzLCBzZWxlY3Rpb24sIHNlbGVjdGlvbkFyZ3MpOwo=</text>
+        <text encoding="base64">ICAgICAgICBjdXJzb3IuY2xvc2UoKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>(</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKHVyaSAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBjdXJzb3IgPSBtQ29udGV4dC5nZXRDb250ZW50UmVzb2x2ZXIoKS5xdWVyeSh1cmksIG51bGwsIG51bGwsIG51bGwsIG51bGwpOwogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IG51bGw=</text>
       </register>
       <register name="3" type="4">
-        <text>|</text>
-      </register>
-      <register name="4" type="4">
-        <text>|</text>
-      </register>
-      <register name="5" type="4">
         <text encoding="base64">IA==</text>
       </register>
+      <register name="4" type="4">
+        <text>e</text>
+      </register>
+      <register name="5" type="4">
+        <text>m</text>
+      </register>
       <register name="6" type="4">
-        <text>)</text>
+        <text>a</text>
       </register>
       <register name="7" type="4">
-        <text>(selection == null)</text>
+        <text>N</text>
       </register>
       <register name="8" type="4">
-        <text>|| 
-            getContext().</text>
+        <text>y</text>
       </register>
       <register name="9" type="4">
-        <text>(selection == null)) {</text>
+        <text>t</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>deleteAll</last-search>
+      <last-search>id</last-search>
       <last-offset />
-      <last-pattern>deleteAll</last-pattern>
+      <last-pattern>id</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>bind</last-substitute>
       <last-dir>1</last-dir>
@@ -406,7 +405,6 @@
     </search>
     <history>
       <history-search>
-        <entry>mService</entry>
         <entry>builderAdapter</entry>
         <entry>BuilderAdapter</entry>
         <entry>task</entry>
@@ -426,6 +424,7 @@
         <entry>delete</entry>
         <entry>deleteall</entry>
         <entry>deleteAll</entry>
+        <entry>id</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
