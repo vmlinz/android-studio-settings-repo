@@ -72,11 +72,11 @@
         <mark key="." line="322" column="30" />
         <mark key="^" line="322" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1455703666349">
-        <mark key="[" line="99" column="29" />
-        <mark key="]" line="99" column="29" />
-        <mark key="^" line="99" column="28" />
-        <mark key="." line="99" column="29" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1455708385869">
+        <mark key="[" line="110" column="27" />
+        <mark key="]" line="110" column="27" />
+        <mark key="^" line="110" column="34" />
+        <mark key="." line="110" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" timestamp="1454164834361">
         <mark key="'" line="119" column="12" />
@@ -391,11 +391,11 @@
       <jump line="229" column="12" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherTask.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5qYWtld2hhcnRvbi5odWdvOmh1Z28tcGx1Z2luOjEuMi4xJwo=</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>Logger</text>
@@ -403,32 +403,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5qYWtld2hhcnRvbi5odWdvOmh1Z28tcGx1Z2luOjEuMi4xJwo=</text>
+      <register name="1" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmpha2V3aGFydG9uLmh1Z28nCg==</text>
+      <register name="2" type="4">
+        <text encoding="base64">PA==</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">cmVwb3NpdG9yaWVzIHsKICAgIGpjZW50ZXIoKQp9Cgo=</text>
+      <register name="3" type="4">
+        <text>Cursor</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIG1hdmVuIHsgdXJsICJodHRwczovL2ppdHBhY2suaW8iIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="4">
-        <text>d</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25Mb2FkRmluaXNoZWQoTG9hZGVyIGxvYWRlciwgT2JqZWN0IGRhdGEpIHsKCiAgICB9Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>,</text>
+        <text>null</text>
       </register>
-      <register name="7" type="4">
-        <text>e</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICApCg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG51bGwsCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>,</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5qYWtld2hhcnRvbi5odWdvOmh1Z28tcGx1Z2luOjEuMi4xJwo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
