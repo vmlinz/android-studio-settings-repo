@@ -14,7 +14,6 @@
         <mark key="." line="47" column="18" />
         <mark key="^" line="47" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build/intermediates/exploded-aar/com.github.orhanobut/logger/1.12/jars/classes.jar!/com/orhanobut/logger/Logger.class" timestamp="1455705047452" />
       <file name="$USER_HOME$/Projects/android/teleportal/ics-openvpn-demo/build.gradle" timestamp="1434005666332">
         <mark key="[" line="17" column="0" />
         <mark key="]" line="19" column="9" />
@@ -96,17 +95,18 @@
         <mark key="]" line="25" column="56" />
         <mark key="." line="25" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/build.gradle" timestamp="1455705537780">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="17" column="42" />
-        <mark key="." line="17" column="0" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/build.gradle" timestamp="1455705565465">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="57" />
+        <mark key="." line="8" column="57" />
+        <mark key="^" line="8" column="57" />
       </file>
       <file name="$USER_HOME$/Projects/android/MyActionBar/app/src/main/res/layout/toolbar.xml" timestamp="1430930251659">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build.gradle" timestamp="1455705470129">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build.gradle" timestamp="1455706150907">
         <mark key="[" line="0" column="38" />
         <mark key="]" line="1" column="35" />
         <mark key="^" line="1" column="35" />
@@ -264,7 +264,6 @@
         <mark key="^" line="50" column="83" />
         <mark key="." line="50" column="83" />
       </file>
-      <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/android/util/Log.class" timestamp="1455704646031" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" timestamp="1454246276980">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="58" column="9" />
