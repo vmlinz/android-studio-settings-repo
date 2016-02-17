@@ -95,22 +95,20 @@
         <mark key="]" line="25" column="56" />
         <mark key="." line="25" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/build.gradle" timestamp="1455705565465">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/build.gradle" timestamp="1455707307622">
         <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="57" />
-        <mark key="." line="8" column="57" />
-        <mark key="^" line="8" column="57" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/android/MyActionBar/app/src/main/res/layout/toolbar.xml" timestamp="1430930251659">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build.gradle" timestamp="1455706150907">
-        <mark key="[" line="0" column="38" />
-        <mark key="]" line="1" column="35" />
-        <mark key="^" line="1" column="35" />
-        <mark key="." line="1" column="35" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build.gradle" timestamp="1455707301985">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailActivity.java" timestamp="1454495556897">
         <mark key="'" line="0" column="0" />
@@ -394,7 +392,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">cmVwb3NpdG9yaWVzIHsKICAgIGpjZW50ZXIoKQp9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5qYWtld2hhcnRvbi5odWdvOmh1Z28tcGx1Z2luOjEuMi4xJwo=</text>
       </register>
       <register name="-" type="4">
         <text>d</text>
@@ -406,31 +404,31 @@
         <text encoding="base64">ICAgICAgICBqY2VudGVyKCkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">cmVwb3NpdG9yaWVzIHsKICAgIGpjZW50ZXIoKQp9Cgo=</text>
+        <text encoding="base64">ICAgICAgICBjbGFzc3BhdGggJ2NvbS5qYWtld2hhcnRvbi5odWdvOmh1Z28tcGx1Z2luOjEuMi4xJwo=</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">YXBwbHkgcGx1Z2luOiAnY29tLmpha2V3aGFydG9uLmh1Z28nCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">cmVwb3NpdG9yaWVzIHsKICAgIGpjZW50ZXIoKQp9Cgo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIG1hdmVuIHsgdXJsICJodHRwczovL2ppdHBhY2suaW8iIH0K</text>
       </register>
-      <register name="3" type="4">
+      <register name="5" type="4">
         <text>d</text>
       </register>
-      <register name="4" type="4">
-        <text>,</text>
-      </register>
-      <register name="5" type="4">
-        <text>e</text>
-      </register>
       <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+        <text>,</text>
       </register>
       <register name="7" type="4">
-        <text>,</text>
+        <text>e</text>
       </register>
       <register name="8" type="4">
-        <text>(</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>e</text>
+        <text>,</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
