@@ -72,11 +72,11 @@
         <mark key="." line="322" column="30" />
         <mark key="^" line="322" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1455766861965">
-        <mark key="[" line="98" column="53" />
-        <mark key="]" line="98" column="99" />
-        <mark key="." line="98" column="99" />
-        <mark key="^" line="98" column="99" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1455767034917">
+        <mark key="[" line="97" column="78" />
+        <mark key="]" line="97" column="77" />
+        <mark key="." line="97" column="77" />
+        <mark key="^" line="97" column="77" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" timestamp="1454164834361">
         <mark key="'" line="119" column="12" />
@@ -110,12 +110,11 @@
         <mark key="]" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailActivity.java" timestamp="1454495556897">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailActivity.java" timestamp="1455773357140">
         <mark key="'" line="0" column="0" />
-        <mark key="[" line="68" column="8" />
-        <mark key="]" line="68" column="13" />
-        <mark key="^" line="68" column="13" />
-        <mark key="." line="68" column="13" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/android/training/Materialist/app/src/main/res/values/styles.xml" timestamp="1435138549437">
         <mark key="[" line="10" column="0" />
@@ -391,44 +390,44 @@
       <jump line="63" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>)</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIG1TaGFyZUFjdGlvblByb3ZpZGVyID0gKFNoYXJlQWN0aW9uUHJvdmlkZXIpIE1lbnVJdGVtQ29tcGF0LmdldEFjdGlvblByb3ZpZGVyKG1lbnVJdGVtKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>null</text>
       </register>
       <register name="/" type="4">
         <text>Logger</text>
       </register>
-      <register name="0" type="4">
-        <text>ForecastFragment.</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBWaWV3IHJvb3QgPSBpbmZsYXRlci5pbmZsYXRlKFIubGF5b3V0LmZyYWdtZW50X2RldGFpbCwgY29udGFpbmVyLCBmYWxzZSk7Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>)</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIG1TaGFyZUFjdGlvblByb3ZpZGVyID0gKFNoYXJlQWN0aW9uUHJvdmlkZXIpIE1lbnVJdGVtQ29tcGF0LmdldEFjdGlvblByb3ZpZGVyKG1lbnVJdGVtKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text>WEATHER_ID</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGJvb2xlYW4gb25DcmVhdGVPcHRpb25zTWVudShNZW51IG1lbnUpIHsKICAgICAgICBnZXRNZW51SW5mbGF0ZXIoKS5pbmZsYXRlKFIubWVudS5tZW51X2RldGFpbCwgbWVudSk7CgogICAgICAgIC8vIGdldCB0aGUgc2hhcmUgYWN0aW9uIHByb3ZpZGVyCiAgICAgICAgTWVudUl0ZW0gbWVudUl0ZW0gPSBtZW51LmZpbmRJdGVtKFIuaWQuYWN0aW9uX3NoYXJlKTsKICAgICAgICBtU2hhcmVBY3Rpb25Qcm92aWRlciA9IChTaGFyZUFjdGlvblByb3ZpZGVyKSBNZW51SXRlbUNvbXBhdC5nZXRBY3Rpb25Qcm92aWRlcihtZW51SXRlbSk7CgogICAgICAgIC8vIGNyZWF0ZSB0aGUgc2hhcmUgaW50ZW50IGFuZCBzZXQgaXQgdG8gc2hhcmUgYWN0aW9uIHByb3ZpZGVyCiAgICAgICAgc2V0U2hhcmVJbnRlbnQoZ2V0U2hhcmVJbnRlbnQoKSk7CiAgICAgICAgcmV0dXJuIHRydWU7CiAgICB9CgogICAgQE92ZXJyaWRlCiAgICBwdWJsaWMgYm9vbGVhbiBvbk9wdGlvbnNJdGVtU2VsZWN0ZWQoTWVudUl0ZW0gaXRlbSkgewogICAgICAgIGludCBpZCA9IGl0ZW0uZ2V0SXRlbUlkKCk7CgogICAgICAgIGlmIChpZCA9PSBSLmlkLmFjdGlvbl9zZXR0aW5ncykgewogICAgICAgICAgICBJbnRlbnQgaW50ZW50ID0gbmV3IEludGVudCh0aGlzLCBTZXR0aW5nc0FjdGl2aXR5LmNsYXNzKTsKICAgICAgICAgICAgc3RhcnRBY3Rpdml0eShpbnRlbnQpOwoKICAgICAgICAgICAgcmV0dXJuIHRydWU7CiAgICAgICAgfQoKICAgICAgICByZXR1cm4gc3VwZXIub25PcHRpb25zSXRlbVNlbGVjdGVkKGl0ZW0pOwogICAgfQoKICAgIHByaXZhdGUgSW50ZW50IGdldFNoYXJlSW50ZW50KCkgewogICAgICAgIGZpbmFsIFN0cmluZyBIQVNIX1RBRyA9ICIgIyI7CiAgICAgICAgSW50ZW50IGludGVudCA9IG5ldyBJbnRlbnQoSW50ZW50LkFDVElPTl9TRU5EKTsKICAgICAgICBpbnRlbnQuYWRkRmxhZ3MoSW50ZW50LkZMQUdfQUNUSVZJVFlfQ0xFQVJfV0hFTl9UQVNLX1JFU0VUKTsKICAgICAgICBpbnRlbnQuc2V0VHlwZSgidGV4dC9wbGFpbiIpOwogICAgICAgIFN0cmluZyB0ZXh0ID0gU3RyaW5nLnZhbHVlT2YobVRleHRWaWV3LmdldFRleHQoKSkgKyBIQVNIX1RBRyArIGdldFN0cmluZyhSLnN0cmluZy5hcHBfbmFtZSk7CiAgICAgICAgaW50ZW50LnB1dEV4dHJhKEludGVudC5FWFRSQV9URVhULCB0ZXh0KTsKCiAgICAgICAgcmV0dXJuIGludGVudDsKICAgIH0KCiAgICBwcml2YXRlIHZvaWQgc2V0U2hhcmVJbnRlbnQoSW50ZW50IGludGVudCkgewogICAgICAgIGlmIChtU2hhcmVBY3Rpb25Qcm92aWRlciAhPSBudWxsKSB7CiAgICAgICAgICAgIG1TaGFyZUFjdGlvblByb3ZpZGVyLnNldFNoYXJlSW50ZW50KGludGVudCk7CiAgICAgICAgfQogICAgfQo=</text>
       </register>
-      <register name="3" type="4">
-        <text>_</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICB0ZXh0VmlldyA9IChUZXh0Vmlldykgcm9vdC5maW5kVmlld0J5SWQoUi5pZC5kZXRhaWxfdGV4dCk7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>L</text>
+        <text>null</text>
       </register>
       <register name="5" type="4">
-        <text>O</text>
+        <text>public</text>
       </register>
       <register name="6" type="4">
-        <text>C</text>
+        <text>+</text>
       </register>
       <register name="7" type="4">
-        <text>(</text>
+        <text>+</text>
       </register>
       <register name="8" type="4">
-        <text>g</text>
+        <text>+</text>
       </register>
       <register name="9" type="4">
-        <text>n</text>
+        <text>+</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -439,7 +438,7 @@
       <last-offset />
       <last-pattern>Logger</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute>bind</last-substitute>
+      <last-substitute>Logger</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
