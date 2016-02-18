@@ -8,11 +8,11 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForcastAdapter.java" timestamp="1455764085245">
-        <mark key="[" line="15" column="51" />
-        <mark key="]" line="75" column="18" />
-        <mark key="." line="75" column="18" />
-        <mark key="^" line="75" column="18" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForcastAdapter.java" timestamp="1455765466833">
+        <mark key="[" line="33" column="29" />
+        <mark key="]" line="33" column="46" />
+        <mark key="." line="33" column="29" />
+        <mark key="^" line="31" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/android/teleportal/ics-openvpn-demo/build.gradle" timestamp="1434005666332">
         <mark key="[" line="17" column="0" />
@@ -72,12 +72,8 @@
         <mark key="." line="322" column="30" />
         <mark key="^" line="322" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1455709286258">
-        <mark key="'" line="63" column="0" />
-        <mark key="[" line="119" column="8" />
-        <mark key="]" line="119" column="22" />
-        <mark key="^" line="119" column="22" />
-        <mark key="." line="119" column="22" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1455766082585">
+        <mark key="[" line="61" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" timestamp="1454164834361">
         <mark key="'" line="119" column="12" />
@@ -393,43 +389,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Q3Vyc29yTG9hZGVyIA==</text>
+        <text>ForecastFragment.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Q3Vyc29yTG9hZGVyIA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>Logger</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgbG9jYXRpb25TZXR0aW5nID0gVXRpbGl0eS5nZXRQcmVmZXJyZWRMb2NhdGlvbihnZXRBY3Rpdml0eSgpKTsKICAgICAgICBTdHJpbmcgc29ydE9yZGVyID0gV2VhdGhlckNvbnRyYWN0LldlYXRoZXJFbnRyeS5DT0xVTU5fREFURSArICIgQVNDIjsKICAgICAgICBVcmkgd2VhdGhlckZvckxvY2F0aW9uVXJpID0gV2VhdGhlckNvbnRyYWN0LldlYXRoZXJFbnRyeS5idWlsZFdlYXRoZXJMb2NhdGlvbldpdGhTdGFydERhdGUoCiAgICAgICAgICAgICAgICBsb2NhdGlvblNldHRpbmcsIFN5c3RlbS5jdXJyZW50VGltZU1pbGxpcygpKTsK</text>
+      <register name="0" type="4">
+        <text>ForecastFragment.</text>
       </register>
-      <register name="1" type="4">
-        <text encoding="base64">Q3Vyc29yTG9hZGVyIA==</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIC8vIFRoZXNlIGluZGljZXMgYXJlIHRpZWQgdG8gRk9SRUNBU1RfQ09MVU1OUy4gIElmIEZPUkVDQVNUX0NPTFVNTlMgY2hhbmdlcywgdGhlc2UKICAgIC8vIG11c3QgY2hhbmdlLgogICAgc3RhdGljIGZpbmFsIGludCBDT0xfV0VBVEhFUl9JRCA9IDA7CiAgICBzdGF0aWMgZmluYWwgaW50IENPTF9XRUFUSEVSX0RBVEUgPSAxOwogICAgc3RhdGljIGZpbmFsIGludCBDT0xfV0VBVEhFUl9ERVNDID0gMjsKICAgIHN0YXRpYyBmaW5hbCBpbnQgQ09MX1dFQVRIRVJfTUFYX1RFTVAgPSAzOwogICAgc3RhdGljIGZpbmFsIGludCBDT0xfV0VBVEhFUl9NSU5fVEVNUCA9IDQ7CiAgICBzdGF0aWMgZmluYWwgaW50IENPTF9MT0NBVElPTl9TRVRUSU5HID0gNTsKICAgIHN0YXRpYyBmaW5hbCBpbnQgQ09MX1dFQVRIRVJfQ09ORElUSU9OX0lEID0gNjsKICAgIHN0YXRpYyBmaW5hbCBpbnQgQ09MX0NPT1JEX0xBVCA9IDc7CiAgICBzdGF0aWMgZmluYWwgaW50IENPTF9DT09SRF9MT05HID0gODsK</text>
       </register>
-      <register name="2" type="4">
-        <text>null</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgQ3Vyc29yIGdldFdlYXRoZXJDdXJzb3IoKSB7CiAgICAgICAgU3RyaW5nIGxvY2F0aW9uU2V0dGluZyA9IFV0aWxpdHkuZ2V0UHJlZmVycmVkTG9jYXRpb24oZ2V0QWN0aXZpdHkoKSk7CiAgICAgICAgU3RyaW5nIHNvcnRPcmRlciA9IFdlYXRoZXJDb250cmFjdC5XZWF0aGVyRW50cnkuQ09MVU1OX0RBVEUgKyAiIEFTQyI7CiAgICAgICAgVXJpIHdlYXRoZXJGb3JMb2NhdGlvblVyaSA9IFdlYXRoZXJDb250cmFjdC5XZWF0aGVyRW50cnkuYnVpbGRXZWF0aGVyTG9jYXRpb25XaXRoU3RhcnREYXRlKAogICAgICAgICAgICAgICAgbG9jYXRpb25TZXR0aW5nLCBTeXN0ZW0uY3VycmVudFRpbWVNaWxsaXMoKSk7CiAgICAgICAgQ3Vyc29yIGN1cnNvciA9IGdldEFjdGl2aXR5KCkuZ2V0Q29udGVudFJlc29sdmVyKCkucXVlcnkod2VhdGhlckZvckxvY2F0aW9uVXJpLAogICAgICAgICAgICAgICAgbnVsbCwgbnVsbCwgbnVsbCwgc29ydE9yZGVyKTsKICAgICAgICByZXR1cm4gY3Vyc29yOwogICAgfQoK</text>
       </register>
       <register name="3" type="4">
-        <text>WeatherContract.WeatherEntry.CONTENT_URI,</text>
+        <text>)</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBnZXRMb2FkZXJNYW5hZ2VyKCkuaW5pdExvYWRlcihMT0FERVJfSUQsIG51bGwsIHRoaXMpOwo=</text>
+      <register name="4" type="4">
+        <text>(</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>getWeatherCursor</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAvLyBnZXQgcm93IGluZGljZXMgZm9yIG91ciBjdXJzb3IKICAgICAgICBpbnQgaWR4X21heF90ZW1wID0gQ09MX1dFQVRIRVJfTUFYX1RFTVA7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>Cursor</text>
+        <text>cursor.getColumnIndex(WeatherContract.WeatherEntry.COLUMN_SHORT_DESC);</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>cursor.getColumnIndex(WeatherContract.WeatherEntry.COLUMN_DATE);</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25Mb2FkRmluaXNoZWQoTG9hZGVyIGxvYWRlciwgT2JqZWN0IGRhdGEpIHsKCiAgICB9Cg==</text>
+      <register name="9" type="4">
+        <text>cursor.getColumnIndex(WeatherContract.WeatherEntry.COLUMN_MIN_TEMP);</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
