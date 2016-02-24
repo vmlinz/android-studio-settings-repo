@@ -88,6 +88,12 @@
         <mark key="^" line="195" column="90" />
         <mark key="." line="195" column="90" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast.xml" timestamp="1456310165732">
+        <mark key="[" line="13" column="33" />
+        <mark key="]" line="14" column="32" />
+        <mark key="^" line="14" column="32" />
+        <mark key="." line="14" column="32" />
+      </file>
       <file name="$USER_HOME$/Projects/android/training/cheesesquare/app/src/main/res/layout/nav_header.xml" timestamp="1435048512945">
         <mark key="[" line="24" column="13" />
         <mark key="]" line="24" column="13" />
@@ -399,43 +405,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkVuZD0iQGRtZW4vYWN0aXZpdHlfaG9yaXpvbnRhbF9tYXJnaW4iCg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>mTextView</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUZXh0VmlldyBkZXRhaWxUZXh0VmlldyA9IChUZXh0VmlldylnZXRWaWV3KCkuZmluZFZpZXdCeUlkKFIuaWQuZGV0YWlsX3RleHQpOwo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblN0YXJ0PSJAZGltZW4vYWN0aXZpdHlfaG9yaXpvbnRhbF9tYXJnaW4iCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkVuZD0iQGRtZW4vYWN0aXZpdHlfaG9yaXpvbnRhbF9tYXJnaW4iCg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>i</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblN0YXJ0PSJAZGltZW4vYWN0aXZpdHlfaG9yaXpvbnRhbF9tYXJnaW4iCg==</text>
       </register>
-      <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmdTdGFydD0iMWRwIgo=</text>
       </register>
-      <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjFkcCIK</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImNlbnRlcl92ZXJ0aWNhbCIK</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9ncmF2aXR5PSJjZW50ZXJfdmVydGljYWwiCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>Left</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCB1cGRhdGVXZWF0aGVyKCkgewogICAgICAgIEZldGNoV2VhdGhlclRhc2sgd2VhdGhlclRhc2sgPSBuZXcgRmV0Y2hXZWF0aGVyVGFzayhnZXRBY3Rpdml0eSgpKTsKICAgICAgICBTdHJpbmcgbG9jYXRpb24gPSBVdGlsaXR5LmdldFByZWZlcnJlZExvY2F0aW9uKGdldEFjdGl2aXR5KCkpOwogICAgICAgIHdlYXRoZXJUYXNrLmV4ZWN1dGUobG9jYXRpb24pOwogICAgfQo=</text>
+      <register name="9" type="4">
+        <text encoding="base64">YW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxIiA=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
