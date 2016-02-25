@@ -37,6 +37,12 @@
         <mark key="^" line="45" column="35" />
         <mark key="." line="45" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast_today.xml" timestamp="1456390179011">
+        <mark key="[" line="34" column="38" />
+        <mark key="]" line="35" column="41" />
+        <mark key="." line="35" column="41" />
+        <mark key="^" line="35" column="41" />
+      </file>
       <file name="$USER_HOME$/Projects/android/training/RecyclerSample/app/src/main/java/com/televpn/example/recyclersample/Person.java" timestamp="1435156289875">
         <mark key="[" line="16" column="0" />
         <mark key="]" line="16" column="0" />
@@ -88,9 +94,9 @@
         <mark key="^" line="195" column="90" />
         <mark key="." line="195" column="90" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast.xml" timestamp="1456386637118">
-        <mark key="[" line="4" column="37" />
-        <mark key="]" line="5" column="59" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast.xml" timestamp="1456390200586">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="60" />
         <mark key="." line="5" column="59" />
         <mark key="^" line="5" column="59" />
       </file>
@@ -159,10 +165,6 @@
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
         <mark key="." line="3" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestUriMatcher.java" timestamp="1454751758839">
-        <mark key="[" line="33" column="48" />
-        <mark key="]" line="33" column="87" />
       </file>
       <file name="$USER_HOME$/Projects/study/frontend/android/learning/RubyChinaAndroid/app/src/main/java/org/rubychinaandroid/api/WrappedTextHttpResponseHandler.java" timestamp="1444708014073">
         <mark key="[" line="4" column="0" />
@@ -249,7 +251,7 @@
         <mark key="^" line="17" column="19" />
         <mark key="." line="17" column="19" />
       </file>
-      <file name="/Dummy.txt" timestamp="1454404871489">
+      <file name="/Dummy.txt" timestamp="1456389336556">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/android/training/SampleEventBus/app/src/main/java/com/televpn/example/sampleeventbus/MainBus.java" timestamp="1435722990774">
@@ -404,47 +406,47 @@
       <jump line="153" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmdyYXZpdHk9IiIKICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCI+Cg==</text>
+      <register name="&quot;" type="4">
+        <text>wrap_content</text>
       </register>
       <register name="-" type="4">
-        <text>right</text>
+        <text>wrap_content</text>
       </register>
       <register name="/" type="4">
         <text>mTextView</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmdyYXZpdHk9InJpZ2h0Igo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bWluSGVpZ2h0PSI/YW5kcm9pZDphdHRyL2xpc3RQcmVmZXJyZWRJdGVtSGVpZ2h0Igo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmdyYXZpdHk9IiIKICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCI+Cg==</text>
+      <register name="1" type="4">
+        <text>wrap_content</text>
       </register>
       <register name="2" type="4">
-        <text>right</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmdyYXZpdHk9ImVuZCIK</text>
-      </register>
-      <register name="4" type="4">
-        <text>&quot;</text>
-      </register>
-      <register name="5" type="4">
-        <text>right</text>
-      </register>
-      <register name="6" type="4">
-        <text>3</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxIgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IjBkcCIK</text>
-      </register>
-      <register name="8" type="4">
         <text>0dp</text>
       </register>
+      <register name="3" type="4">
+        <text>wrap_content</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcCIK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>match_parent</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWQ6b3JpZW50YXRpb249Imhvcml6b250YWwiCg==</text>
+      </register>
+      <register name="8" type="4">
+        <text>vertical</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxIgo=</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmdyYXZpdHk9IiIKICAgICAgICBhbmRyb2lkOm9yaWVudGF0aW9uPSJ2ZXJ0aWNhbCI+Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text encoding="base64">JzwsJz53</text>
       </register>
     </registers>
     <search>
@@ -484,8 +486,8 @@
         <entry>search</entry>
         <entry>aw</entry>
         <entry>wa</entry>
-        <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry encoding="base64">JzwsJz53</entry>
       </history-cmd>
       <history-expr />
       <history-input />
