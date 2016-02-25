@@ -137,8 +137,11 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailFragment.java" timestamp="1456407356824">
-        <mark key="[" line="57" column="43" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailFragment.java" timestamp="1456407581768">
+        <mark key="[" line="140" column="33" />
+        <mark key="]" line="140" column="40" />
+        <mark key="." line="140" column="40" />
+        <mark key="^" line="140" column="40" />
       </file>
       <file name="$USER_HOME$/Projects/android/training/Materialist/app/src/main/res/values/styles.xml" timestamp="1435138549437">
         <mark key="[" line="10" column="0" />
@@ -221,12 +224,8 @@
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/fragment_detail.xml" timestamp="1456407110587">
-        <mark key="'" line="99" column="0" />
-        <mark key="[" line="24" column="42" />
-        <mark key="]" line="24" column="45" />
-        <mark key="^" line="24" column="45" />
-        <mark key="." line="24" column="45" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/fragment_detail.xml" timestamp="1456407918489">
+        <mark key="'" line="106" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DateUtils.java" timestamp="1456392001672">
         <mark key="[" line="0" column="0" />
@@ -430,44 +429,44 @@
       <jump line="69" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/fragment_detail.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>view</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwZHAiCg==</text>
       </register>
       <register name="-" type="4">
-        <text>view</text>
+        <text>wrap_content</text>
       </register>
       <register name="/" type="4">
         <text>mTextView</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9kZXRhaWxzX2RhdGVfdGV4dF92aWV3IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJUT0RBWSIvPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2VpZ2h0PSIxIgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>view</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIwZHAiCg==</text>
       </register>
-      <register name="2" type="4">
-        <text>view</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dlaWdodD0iMSIK</text>
       </register>
       <register name="3" type="4">
-        <text>view</text>
+        <text>wrap_content</text>
       </register>
       <register name="4" type="4">
-        <text>view</text>
+        <text>wrap_content</text>
       </register>
       <register name="5" type="4">
-        <text>view</text>
+        <text>mon</text>
       </register>
       <register name="6" type="4">
-        <text>view</text>
+        <text>formattedMonthDay</text>
       </register>
       <register name="7" type="4">
-        <text>view</text>
+        <text>getFriendlyDayString</text>
       </register>
       <register name="8" type="4">
-        <text>view</text>
+        <text>date_name_text_view</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkYXRlVGV4dFZpZXcgPSAoVGV4dFZpZXcpIHZpZXcuZmluZFZpZXdCeUlkKFIuaWQuZGV0YWlsc19kYXRlX25hbWVfdGV4dF92aWV3KTsKICAgICAgICBoaWdoVGV4dFZpZXcgPSAoVGV4dFZpZXcpIHZpZXcuZmluZFZpZXdCeUlkKFIuaWQuZGV0YWlsc19oaWdoX3RleHRfdmlldyk7CiAgICAgICAgbG93VGV4dFZpZXcgPSAoVGV4dFZpZXcpIHZpZXcuZmluZFZpZXdCeUlkKFIuaWQuZGV0YWlsc19sb3dfdGV4dF92aWV3KTsKICAgICAgICBkZXNjVGV4dFZpZXcgPSAoVGV4dFZpZXcpIHZpZXcuZmluZFZpZXdCeUlkKFIuaWQuZGV0YWlsc19kZXNjX3RleHRfdmlldyk7CiAgICAgICAgaHVtaWRpdHlUZXh0VmlldyA9IChUZXh0Vmlldykgdmlldy5maW5kVmlld0J5SWQoUi5pZC5kZXRhaWxzX2h1bWlkaXR5X3RleHRfdmlldyk7CiAgICAgICAgd2luZFRleHRWaWV3ID0gKFRleHRWaWV3KSB2aWV3LmZpbmRWaWV3QnlJZChSLmlkLmRldGFpbHNfd2luZF9zcGVlZF90ZXh0X3ZpZXcpOwogICAgICAgIHByZXNzdXJlVGV4dFZpZXcgPSAoVGV4dFZpZXcpIHZpZXcuZmluZFZpZXdCeUlkKFIuaWQuZGV0YWlsc19wcmVzc3VyZV90ZXh0X3ZpZXcpOwogICAgICAgIGljb25JbWFnZVZpZXcgPSAoSW1hZ2VWaWV3KSB2aWV3LmZpbmRWaWV3QnlJZChSLmlkLmRldGFpbHNfaWNvbl9pbWFnZV92aWV3KTsKCg==</text>
+      <register name="9" type="4">
+        <text>e</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
