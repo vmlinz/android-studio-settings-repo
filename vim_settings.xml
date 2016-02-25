@@ -8,10 +8,12 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForcastAdapter.java" timestamp="1456392350338">
-        <mark key="[" line="58" column="0" />
-        <mark key="]" line="58" column="0" />
-        <mark key="." line="58" column="0" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForcastAdapter.java" timestamp="1456393515408">
+        <mark key="'" line="41" column="0" />
+        <mark key="[" line="27" column="0" />
+        <mark key="]" line="27" column="0" />
+        <mark key="^" line="56" column="18" />
+        <mark key="." line="27" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/android/teleportal/ics-openvpn-demo/build.gradle" timestamp="1434005666332">
         <mark key="[" line="17" column="0" />
@@ -59,12 +61,12 @@
         <mark key="." line="104" column="38" />
         <mark key="^" line="104" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/Utility.java" timestamp="1456392381874">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/Utility.java" timestamp="1456393648558">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="44" column="0" />
-        <mark key="." line="44" column="0" />
-        <mark key="^" line="44" column="0" />
+        <mark key="[" line="134" column="12" />
+        <mark key="]" line="134" column="6" />
+        <mark key="." line="134" column="6" />
+        <mark key="^" line="134" column="6" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/WeatherDataParser.java" timestamp="1454166286320">
         <mark key="'" line="31" column="27" />
@@ -93,11 +95,11 @@
         <mark key="^" line="195" column="90" />
         <mark key="." line="195" column="90" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast.xml" timestamp="1456390200586">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="60" />
-        <mark key="." line="5" column="59" />
-        <mark key="^" line="5" column="59" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast.xml" timestamp="1456393370542">
+        <mark key="[" line="42" column="12" />
+        <mark key="]" line="42" column="48" />
+        <mark key="." line="42" column="48" />
+        <mark key="^" line="42" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/android/training/cheesesquare/app/src/main/res/layout/nav_header.xml" timestamp="1435048512945">
         <mark key="[" line="24" column="13" />
@@ -310,12 +312,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/fragment.java" timestamp="1456391942401">
+      <file name="/fragment.java" timestamp="1456393530248">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="174" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestDb.java" />
       <jump line="178" column="16" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestDb.java" />
       <jump line="158" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestDb.java" />
       <jump line="180" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestDb.java" />
@@ -415,46 +416,47 @@
       <jump line="8" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DateUtils.java" />
       <jump line="7" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DateUtils.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DateUtils.java" />
+      <jump line="65" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForcastAdapter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="&quot;" type="4">
+        <text>private</text>
       </register>
       <register name="-" type="4">
-        <text>TextView</text>
+        <text>private</text>
       </register>
       <register name="/" type="4">
         <text>mTextView</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUZXh0VmlldyBsb3dUZXh0VmlldyA9IChUZXh0Vmlldyl2aWV3LmZpbmRWaWV3QnlJZChSLmlkLmxpc3RfaXRlbV9sb3dfdGV4dHZpZXcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAvLyByZWFkIG1heCB0ZW1wIGFuZCBzZXQgaGlnaCB0ZXh0dmlldwogICAgICAgIGZsb2F0IGhpZ2ggPSBjdXJzb3IuZ2V0RmxvYXQoRm9yZWNhc3RGcmFnbWVudC5DT0xfV0VBVEhFUl9NQVhfVEVNUCk7CiAgICAgICAgaGlnaFRleHRWaWV3LnNldFRleHQoVXRpbGl0eS5mb3JtYXRUZW1wZXJhdHVyZShoaWdoLCBpc01ldHJpYykpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>private</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="2" type="4">
+        <text>private</text>
       </register>
       <register name="3" type="4">
-        <text>TextView</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>TextView</text>
+        <text>forcastAdapter</text>
       </register>
-      <register name="5" type="4">
-        <text>lowTextView</text>
+      <register name="5" type="2">
+        <text encoding="base64">Ly8gICAgICAgIFRleHRWaWV3IHR2ID0gKFRleHRWaWV3KXZpZXc7Ci8vICAgICAgICB0di5zZXRUZXh0KGNvbnZlcnRDdXJzb3JSb3dUb1VYRm9ybWF0KGN1cnNvcikpOwo=</text>
       </register>
       <register name="6" type="4">
-        <text>low_textview</text>
+        <text encoding="base64">YW5kcm9pZDp0ZXh0PSI4IiA=</text>
       </register>
       <register name="7" type="4">
-        <text>dateTextView</text>
+        <text>android:text=&quot;15&quot;</text>
       </register>
-      <register name="8" type="4">
-        <text>dateTextView</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJSYWlueSIK</text>
       </register>
-      <register name="9" type="4">
-        <text>dateTextView</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSJUb2RheSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
