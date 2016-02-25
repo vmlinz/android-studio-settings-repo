@@ -137,11 +137,8 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailFragment.java" timestamp="1456399541085">
-        <mark key="[" line="101" column="47" />
-        <mark key="]" line="101" column="60" />
-        <mark key="^" line="101" column="60" />
-        <mark key="." line="101" column="60" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailFragment.java" timestamp="1456402142251">
+        <mark key="[" line="52" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/android/training/Materialist/app/src/main/res/values/styles.xml" timestamp="1435138549437">
         <mark key="[" line="10" column="0" />
@@ -223,6 +220,12 @@
         <mark key="[" line="19" column="0" />
         <mark key="]" line="19" column="0" />
         <mark key="." line="19" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/fragment_detail.xml" timestamp="1456402524210">
+        <mark key="[" line="13" column="45" />
+        <mark key="]" line="13" column="44" />
+        <mark key="^" line="13" column="44" />
+        <mark key="." line="13" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DateUtils.java" timestamp="1456392001672">
         <mark key="[" line="0" column="0" />
@@ -425,44 +428,44 @@
       <jump line="8" column="30" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForcastAdapter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>wrap_content</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>wrap_content</text>
+        <text>match_parent</text>
       </register>
       <register name="/" type="4">
         <text>mTextView</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZGF0ZVZpZXcgPSAoVGV4dFZpZXcpIHZpZXcuZmluZFZpZXdCeUlkKFIuaWQubGlzdF9pdGVtX2RhdGVfdGV4dHZpZXcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDxUZXh0VmlldwogICAgICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSJ3cmFwX2NvbnRlbnQiCiAgICAgICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiIC8+Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>wrap_content</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZy5mb3JtYXQoIiUuMGYiLCB0ZW1wKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>(ImageView)view.findViewById(R.id.list_item_icon);</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgPFRleHRWaWV3CiAgICAgICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiIC8+Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>(TextView)view.findViewById(R.id.list_item_low_textview);</text>
+        <text>match_parent</text>
       </register>
       <register name="5" type="4">
-        <text>(TextView)view.findViewById(R.id.list_item_high_textview);</text>
+        <text>match_parent</text>
       </register>
-      <register name="6" type="4">
-        <text>(TextView)view.findViewById(R.id.list_item_forecast_textview);</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICA8VGV4dFZpZXcKICAgICAgICAgICAgYW5kcm9pZDppZD0iQCtpZC9kZXRhaWxfdGV4dCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSJ3cmFwX2NvbnRlbnQiIC8+Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>(TextView)view.findViewById(R.id.list_item_date_textview);</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvZGV0YWlsX3RleHQiCiAgICAgICAgYW5kcm9pZDpsYXlvdXRfd2lkdGg9IndyYXBfY29udGVudCIKICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIgLz4K</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="8" type="4">
+        <text>1</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>5</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
