@@ -8,7 +8,7 @@
         <mark key="]" line="27" column="0" />
         <mark key="." line="27" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForcastAdapter.java" timestamp="1456399660798">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForcastAdapter.java" timestamp="1456404207053">
         <mark key="'" line="8" column="30" />
         <mark key="[" line="81" column="54" />
         <mark key="]" line="81" column="62" />
@@ -61,12 +61,12 @@
         <mark key="." line="104" column="38" />
         <mark key="^" line="104" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/Utility.java" timestamp="1456399618617">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/Utility.java" timestamp="1456405229166">
         <mark key="'" line="6" column="0" />
-        <mark key="[" line="151" column="97" />
-        <mark key="]" line="151" column="105" />
-        <mark key="." line="151" column="105" />
-        <mark key="^" line="151" column="105" />
+        <mark key="[" line="153" column="5" />
+        <mark key="]" line="186" column="4" />
+        <mark key="." line="186" column="4" />
+        <mark key="^" line="186" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/WeatherDataParser.java" timestamp="1454166286320">
         <mark key="'" line="31" column="27" />
@@ -137,11 +137,11 @@
         <mark key="]" line="46" column="0" />
         <mark key="." line="46" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailFragment.java" timestamp="1456403286814">
-        <mark key="[" line="122" column="43" />
-        <mark key="]" line="122" column="48" />
-        <mark key="." line="122" column="48" />
-        <mark key="^" line="122" column="48" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailFragment.java" timestamp="1456406389512">
+        <mark key="[" line="100" column="0" />
+        <mark key="]" line="102" column="34" />
+        <mark key="." line="102" column="34" />
+        <mark key="^" line="102" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/android/training/Materialist/app/src/main/res/values/styles.xml" timestamp="1435138549437">
         <mark key="[" line="10" column="0" />
@@ -236,7 +236,7 @@
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherDbHelper.java" timestamp="1454662301119">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherDbHelper.java" timestamp="1456405900120">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="79" column="56" />
         <mark key="]" line="79" column="56" />
@@ -258,12 +258,12 @@
         <mark key="]" line="22" column="55" />
         <mark key="." line="22" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/values/strings.xml" timestamp="1456399095993">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/values/strings.xml" timestamp="1456405268296">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="82" column="72" />
-        <mark key="]" line="82" column="77" />
-        <mark key="^" line="82" column="77" />
-        <mark key="." line="82" column="77" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="3" />
+        <mark key="^" line="88" column="3" />
+        <mark key="." line="88" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/android/telesocks/build.gradle" timestamp="1431510973657">
         <mark key="[" line="17" column="0" />
@@ -296,6 +296,7 @@
         <mark key="]" line="29" column="0" />
         <mark key="." line="29" column="0" />
       </file>
+      <file name="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-v4/23.1.1/support-v4-23.1.1-sources.jar!/android/support/v4/app/Fragment.java" timestamp="1456406195549" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestUtilities.java" timestamp="1455536409587">
         <mark key="'" line="83" column="46" />
         <mark key="[" line="50" column="71" />
@@ -432,44 +433,44 @@
       <jump line="69" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/fragment_detail.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>wrap_content</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
-        <text>wrap_content</text>
+        <text>windSpeed</text>
       </register>
       <register name="/" type="4">
         <text>mTextView</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL2RldGFpbHNfZGVzY190ZXh0X3ZpZXciCg==</text>
+      <register name="0" type="4">
+        <text>COL_WEATHER_WIND_SPEED</text>
       </register>
-      <register name="1" type="4">
-        <text>wrap_content</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="2" type="4">
-        <text>wrap_content</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRMYXlvdXRJbmZsYXRlcihudWxsKS5pbmY7Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>wrap_content</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRMYXlvdXRJbmZsYXRlclYK</text>
       </register>
-      <register name="4" type="4">
-        <text>wrap_content</text>
-      </register>
-      <register name="5" type="4">
-        <text>text</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBTdHJpbmcgdGV4dCA9IFN0cmluZy52YWx1ZU9mKGRldGFpbFRleHRWaWV3LmdldFRleHQoKSkgKyBIQVNIX1RBRyArIGdldFN0cmluZyhSLnN0cmluZy5hcHBfbmFtZSk7Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBUZXh0VmlldyBkZXRhaWxUZXh0VmlldyA9IChUZXh0VmlldylnZXRWaWV3KCkuZmluZFZpZXdCeUlkKFIuaWQuZGV0YWlsX3RleHQpOwo=</text>
-      </register>
-      <register name="8" type="2">
+      <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBUZXh0VmlldyBkZXRhaWxUZXh0VmlldyA9IChUZXh0VmlldylnZXRWaWV3KCkuZmluZFZpZXdCeUlkKFIuaWQuZGV0YWlsX3RleHQpOwogICAgICAgIGRldGFpbFRleHRWaWV3LnNldFRleHQobUZvcmVjYXN0KTsK</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="4">
+        <text>windSpeed</text>
+      </register>
+      <register name="7" type="4">
+        <text>Speed</text>
+      </register>
+      <register name="8" type="4">
+        <text>)</text>
+      </register>
+      <register name="9" type="4">
+        <text>Long</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
