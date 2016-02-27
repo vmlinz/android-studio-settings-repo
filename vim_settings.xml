@@ -10,6 +10,9 @@
         <mark key="." line="68" column="56" />
         <mark key="^" line="68" column="56" />
       </file>
+      <file name="/Dummy.txt" timestamp="1456569108108">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast_today.xml" timestamp="1456565495073">
         <mark key="'" line="38" column="20" />
         <mark key="[" line="18" column="12" />
@@ -17,12 +20,34 @@
         <mark key="." line="18" column="48" />
         <mark key="^" line="18" column="48" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build.gradle" timestamp="1456561891705">
+        <mark key="[" line="22" column="92" />
+        <mark key="]" line="22" column="126" />
+        <mark key="." line="22" column="92" />
+        <mark key="^" line="22" column="91" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/local.properties" timestamp="1456561580374">
+        <mark key="[" line="12" column="23" />
+        <mark key="]" line="12" column="56" />
+        <mark key="^" line="12" column="23" />
+        <mark key="." line="12" column="57" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/Utility.java" timestamp="1456564143653">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="187" column="5" />
         <mark key="]" line="259" column="4" />
         <mark key="." line="259" column="4" />
         <mark key="^" line="259" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailFragment.java" timestamp="1456564794483">
+        <mark key="'" line="155" column="8" />
+        <mark key="[" line="155" column="8" />
+        <mark key="]" line="155" column="27" />
+        <mark key="." line="155" column="27" />
+        <mark key="^" line="155" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/fragment_detail.xml" timestamp="1456407918489">
+        <mark key="'" line="106" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherTask.java" timestamp="1456561624769">
         <mark key="'" line="229" column="12" />
@@ -38,45 +63,6 @@
         <mark key="." line="62" column="38" />
         <mark key="^" line="62" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/content_detail.xml" timestamp="1456569222096" />
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast.xml" timestamp="1456393370542">
-        <mark key="[" line="42" column="12" />
-        <mark key="]" line="42" column="48" />
-        <mark key="." line="42" column="48" />
-        <mark key="^" line="42" column="48" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/activity_main.xml" timestamp="1456569241929">
-        <mark key="[" line="8" column="18" />
-        <mark key="]" line="8" column="56" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailActivityFragment.java" timestamp="1456396127278">
-        <mark key="'" line="48" column="27" />
-        <mark key="[" line="27" column="19" />
-        <mark key="]" line="131" column="0" />
-        <mark key="." line="131" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build.gradle" timestamp="1456561891705">
-        <mark key="[" line="22" column="92" />
-        <mark key="]" line="22" column="126" />
-        <mark key="." line="22" column="92" />
-        <mark key="^" line="22" column="91" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailFragment.java" timestamp="1456564794483">
-        <mark key="'" line="155" column="8" />
-        <mark key="[" line="155" column="8" />
-        <mark key="]" line="155" column="27" />
-        <mark key="." line="155" column="27" />
-        <mark key="^" line="155" column="27" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/local.properties" timestamp="1456561580374">
-        <mark key="[" line="12" column="23" />
-        <mark key="]" line="12" column="56" />
-        <mark key="^" line="12" column="23" />
-        <mark key="." line="12" column="57" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/fragment_detail.xml" timestamp="1456407918489">
-        <mark key="'" line="106" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherDbHelper.java" timestamp="1456563205354">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="79" column="56" />
@@ -84,17 +70,6 @@
         <mark key="^" line="79" column="55" />
         <mark key="." line="79" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/values/strings.xml" timestamp="1456405268296">
-        <mark key="'" line="4" column="0" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="3" />
-        <mark key="^" line="88" column="3" />
-        <mark key="." line="88" column="3" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1456569108108">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-v4/23.1.1/support-v4-23.1.1-sources.jar!/android/support/v4/app/Fragment.java" timestamp="1456406195549" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" timestamp="1456563994431">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="58" column="9" />
@@ -102,11 +77,28 @@
         <mark key="^" line="58" column="18" />
         <mark key="." line="58" column="18" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast.xml" timestamp="1456580136193">
+        <mark key="[" line="42" column="12" />
+        <mark key="]" line="42" column="48" />
+        <mark key="." line="42" column="48" />
+        <mark key="^" line="42" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/activity_main.xml" timestamp="1456579792984">
+        <mark key="[" line="8" column="18" />
+        <mark key="]" line="8" column="56" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout-sw600dp/activity_main.xml" timestamp="1456569299204">
         <mark key="[" line="7" column="19" />
         <mark key="]" line="7" column="19" />
         <mark key="." line="7" column="19" />
         <mark key="^" line="14" column="62" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/values/strings.xml" timestamp="1456405268296">
+        <mark key="'" line="4" column="0" />
+        <mark key="[" line="88" column="0" />
+        <mark key="]" line="88" column="3" />
+        <mark key="^" line="88" column="3" />
+        <mark key="." line="88" column="3" />
       </file>
       <file name="/fragment.java" timestamp="1456407336357">
         <mark key="[" line="0" column="0" />
