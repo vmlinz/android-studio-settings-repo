@@ -1,4 +1,17 @@
 <keymap version="1" name="Mac Emacs+" parent="Emacs+">
+  <action id="Android.RunAndroidAvdManager">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl a" />
+  </action>
+  <action id="Android.RunAndroidSdkManager">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl alt s" />
+  </action>
+  <action id="Android.RunDdms">
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl m" />
+  </action>
+  <action id="ChooseRunConfiguration">
+    <keyboard-shortcut first-keystroke="shift alt f10" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl alt r" />
+  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="meta slash" />
   </action>
@@ -236,6 +249,13 @@
   <action id="MethodUp">
     <keyboard-shortcut first-keystroke="meta up" />
     <keyboard-shortcut first-keystroke="ctrl meta a" />
+  </action>
+  <action id="ReformatCode">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
+  <action id="Run">
+    <keyboard-shortcut first-keystroke="shift f10" />
+    <keyboard-shortcut first-keystroke="ctrl x" second-keystroke="ctrl r" />
   </action>
   <action id="ShowUsages">
     <keyboard-shortcut first-keystroke="ctrl meta f7" />
