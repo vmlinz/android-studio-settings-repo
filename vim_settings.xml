@@ -10,14 +10,10 @@
         <mark key="." line="68" column="56" />
         <mark key="^" line="68" column="56" />
       </file>
-      <file name="/Dummy.txt" timestamp="1456569108108">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/content_main.xml" timestamp="1456587013749">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="63" />
-        <mark key="^" line="8" column="31" />
-        <mark key="." line="8" column="31" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/content_main.xml" timestamp="1456632712602">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast_today.xml" timestamp="1456565495073">
         <mark key="'" line="38" column="20" />
@@ -25,12 +21,6 @@
         <mark key="]" line="18" column="48" />
         <mark key="." line="18" column="48" />
         <mark key="^" line="18" column="48" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build.gradle" timestamp="1456561891705">
-        <mark key="[" line="22" column="92" />
-        <mark key="]" line="22" column="126" />
-        <mark key="." line="22" column="92" />
-        <mark key="^" line="22" column="91" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/local.properties" timestamp="1456561580374">
         <mark key="[" line="12" column="23" />
@@ -50,25 +40,12 @@
         <mark key="^" line="55" column="3" />
         <mark key="." line="55" column="3" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailActivity.java" timestamp="1456585891820">
-        <mark key="[" line="21" column="0" />
-        <mark key="]" line="22" column="19" />
-        <mark key="^" line="22" column="19" />
-        <mark key="." line="22" column="19" />
-      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/Utility.java" timestamp="1456564143653">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="187" column="5" />
         <mark key="]" line="259" column="4" />
         <mark key="." line="259" column="4" />
         <mark key="^" line="259" column="4" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailFragment.java" timestamp="1456586137691">
-        <mark key="'" line="164" column="8" />
-        <mark key="[" line="128" column="21" />
-        <mark key="]" line="129" column="15" />
-        <mark key="." line="129" column="15" />
-        <mark key="^" line="129" column="15" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/fragment_detail.xml" timestamp="1456586366947">
         <mark key="'" line="105" column="0" />
@@ -104,13 +81,6 @@
         <mark key="^" line="79" column="55" />
         <mark key="." line="79" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" timestamp="1456585750605">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="39" column="32" />
-        <mark key="]" line="39" column="37" />
-        <mark key="^" line="39" column="37" />
-        <mark key="." line="39" column="37" />
-      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast.xml" timestamp="1456580136193">
         <mark key="[" line="42" column="12" />
         <mark key="]" line="42" column="48" />
@@ -121,12 +91,6 @@
         <mark key="[" line="8" column="18" />
         <mark key="]" line="8" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout-sw600dp/activity_main.xml" timestamp="1456584375401">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="7" column="19" />
-        <mark key="." line="7" column="19" />
-        <mark key="^" line="14" column="62" />
-      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/activity_detail.xml" timestamp="1456584564787" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/values/strings.xml" timestamp="1456405268296">
         <mark key="'" line="4" column="0" />
@@ -135,14 +99,49 @@
         <mark key="^" line="88" column="3" />
         <mark key="." line="88" column="3" />
       </file>
-      <file name="/fragment.java" timestamp="1456407336357">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout-sw600dp/content_main.xml" timestamp="1456587037182">
         <mark key="[" line="11" column="0" />
         <mark key="]" line="11" column="64" />
         <mark key="^" line="11" column="75" />
         <mark key="." line="11" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1456569108108">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build.gradle" timestamp="1456561891705">
+        <mark key="[" line="22" column="92" />
+        <mark key="]" line="22" column="126" />
+        <mark key="." line="22" column="92" />
+        <mark key="^" line="22" column="91" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailActivity.java" timestamp="1456585891820">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="22" column="19" />
+        <mark key="^" line="22" column="19" />
+        <mark key="." line="22" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailFragment.java" timestamp="1456586137691">
+        <mark key="'" line="164" column="8" />
+        <mark key="[" line="128" column="21" />
+        <mark key="]" line="129" column="15" />
+        <mark key="." line="129" column="15" />
+        <mark key="^" line="129" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" timestamp="1456585750605">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="39" column="32" />
+        <mark key="]" line="39" column="37" />
+        <mark key="^" line="39" column="37" />
+        <mark key="." line="39" column="37" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout-sw600dp/activity_main.xml" timestamp="1456584375401">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="19" />
+        <mark key="." line="7" column="19" />
+        <mark key="^" line="14" column="62" />
+      </file>
+      <file name="/fragment.java" timestamp="1456407336357">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -249,10 +248,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFwcDpsYXlvdXRfYmVoYXZpb3I9IkBzdHJpbmcvYXBwYmFyX3Njcm9sbGluZ192aWV3X2JlaGF2aW9yIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Left</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
         <text>src</text>
@@ -260,35 +259,35 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFwcDpsYXlvdXRfYmVoYXZpb3I9IkBzdHJpbmcvYXBwYmFyX3Njcm9sbGluZ192aWV3X2JlaGF2aW9yIgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>Left</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSIxNmRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblJpZ2h0PSIxNmRwIgo=</text>
+        <text encoding="base64">PCEtLS0tPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5MZWZ0PSIxNmRwIgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblJpZ2h0PSIxNmRwIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>Left</text>
+      <register name="4" type="2">
+        <text encoding="base64">PCEtLS0tPgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>Left</text>
+      <register name="5" type="2">
+        <text encoding="base64">PCEtLS0tPgo=</text>
       </register>
-      <register name="6" type="4">
-        <text>t</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>f</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIDwhLS0gIC0tPgo=</text>
       </register>
-      <register name="8" type="4">
-        <text>e</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIDwhLS0gIC0tPgo=</text>
       </register>
       <register name="9" type="4">
-        <text>L</text>
+        <text>1</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>vsplit</text>
       </register>
     </registers>
     <search>
@@ -330,6 +329,7 @@
         <entry>wa</entry>
         <entry encoding="base64">JzwsJz53</entry>
         <entry>w</entry>
+        <entry>vsplit</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -341,13 +341,13 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed N</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -356,7 +356,7 @@
       <shortcut-conflict owner="vim">
         <text>ctrl pressed OPEN_BRACKET</text>
       </shortcut-conflict>
-      <shortcut-conflict owner="ide">
+      <shortcut-conflict owner="vim">
         <text>ctrl pressed G</text>
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
@@ -397,6 +397,24 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>shift ctrl pressed 6</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed T</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
