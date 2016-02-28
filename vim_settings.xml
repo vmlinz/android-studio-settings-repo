@@ -82,6 +82,12 @@
         <mark key="." line="6" column="31" />
         <mark key="^" line="6" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/AppCompatPreferenceActivity.java" timestamp="1456635381525">
+        <mark key="[" line="64" column="5" />
+        <mark key="]" line="64" column="4" />
+        <mark key="." line="64" column="4" />
+        <mark key="^" line="64" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherDbHelper.java" timestamp="1456563205354">
         <mark key="'" line="15" column="0" />
         <mark key="[" line="79" column="56" />
@@ -255,11 +261,11 @@
       <jump line="522" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>u</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>u</text>
       </register>
       <register name="/" type="4">
         <text>src</text>
@@ -267,32 +273,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFwcDpsYXlvdXRfYmVoYXZpb3I9IkBzdHJpbmcvYXBwYmFyX3Njcm9sbGluZ192aWV3X2JlaGF2aW9yIgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>u</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">PCEtLS0tPgo=</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">PCEtLS0tPgo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">PCEtLS0tPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCEtLS0tPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIDwhLS0gIC0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgIDwhLS0gIC0tPgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>1</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIDwhLS0gIC0tPgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
