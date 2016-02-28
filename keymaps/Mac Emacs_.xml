@@ -14,7 +14,13 @@
   <action id="EditorCodeBlockStartWithSelection">
     <keyboard-shortcut first-keystroke="shift ctrl meta u" />
   </action>
+  <action id="EditorDecreaseFontSize">
+    <keyboard-shortcut first-keystroke="alt minus" />
+  </action>
   <action id="EditorDuplicate" />
+  <action id="EditorIncreaseFontSize">
+    <keyboard-shortcut first-keystroke="shift alt equals" />
+  </action>
   <action id="EditorJoinLines">
     <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="shift meta 6" />
     <keyboard-shortcut first-keystroke="ctrl u" second-keystroke="meta circumflex" />
@@ -27,6 +33,9 @@
   </action>
   <action id="EditorPreviousWord">
     <keyboard-shortcut first-keystroke="ctrl meta b" />
+  </action>
+  <action id="EditorResetFontSize">
+    <keyboard-shortcut first-keystroke="alt back_slash" />
   </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="meta at" />
