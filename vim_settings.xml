@@ -43,7 +43,13 @@
         <mark key="]" line="4" column="0" />
         <mark key="." line="4" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/values/values.xml" timestamp="1456587146322" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/values/values.xml" timestamp="1456631588424">
+        <mark key="'" line="176" column="0" />
+        <mark key="[" line="54" column="4" />
+        <mark key="]" line="55" column="3" />
+        <mark key="^" line="55" column="3" />
+        <mark key="." line="55" column="3" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailActivity.java" timestamp="1456585891820">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="22" column="19" />
@@ -140,9 +146,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="137" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestDb.java" />
-      <jump line="24" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestDb.java" />
-      <jump line="23" column="28" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
       <jump line="142" column="52" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
       <jump line="521" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
       <jump line="126" column="92" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherProvider.java" />
@@ -240,6 +243,9 @@
       <jump line="153" column="8" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailFragment.java" />
       <jump line="67" column="8" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForcastAdapter.java" />
       <jump line="42" column="20" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast_today.xml" />
+      <jump line="77" column="3" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/values/values.xml" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/values/values.xml" />
+      <jump line="176" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/values/values.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
