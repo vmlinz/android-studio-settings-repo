@@ -106,12 +106,12 @@
         <mark key="[" line="34" column="50" />
         <mark key="]" line="34" column="49" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/values/strings.xml" timestamp="1456405268296">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/values/strings.xml" timestamp="1457104703458">
         <mark key="'" line="4" column="0" />
-        <mark key="[" line="88" column="0" />
-        <mark key="]" line="88" column="3" />
+        <mark key="[" line="1" column="36" />
+        <mark key="]" line="1" column="36" />
         <mark key="^" line="88" column="3" />
-        <mark key="." line="88" column="3" />
+        <mark key="." line="1" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout-sw600dp/content_main.xml" timestamp="1457099924418">
         <mark key="[" line="22" column="0" />
@@ -254,10 +254,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>updateWe</text>
@@ -266,31 +266,31 @@
         <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkxlZnQ9IjE2ZHAiCg==</text>
       </register>
       <register name="1" type="4">
-        <text>t</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>n</text>
+        <text>App</text>
       </register>
       <register name="3" type="4">
-        <text>fragment</text>
+        <text>weatherUri</text>
       </register>
-      <register name="4" type="4">
-        <text>fragment_detail</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBVcmkgd2VhdGhlclVyaSA9IGdldEFjdGl2aXR5KCkuZ2V0SW50ZW50KCkuZ2V0RGF0YSgpOwo=</text>
       </register>
       <register name="5" type="4">
-        <text>Left</text>
+        <text>t</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="6" type="4">
+        <text>n</text>
       </register>
       <register name="7" type="4">
-        <text>0dp</text>
+        <text>fragment</text>
       </register>
       <register name="8" type="4">
-        <text>width</text>
+        <text>fragment_detail</text>
       </register>
       <register name="9" type="4">
-        <text>0dp</text>
+        <text>Left</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
