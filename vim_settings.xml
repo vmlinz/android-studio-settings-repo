@@ -69,9 +69,9 @@
         <mark key="." line="272" column="91" />
         <mark key="^" line="272" column="90" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1456564401043">
-        <mark key="'" line="153" column="0" />
-        <mark key="[" line="62" column="38" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1457079123105">
+        <mark key="'" line="167" column="57" />
+        <mark key="[" line="172" column="5" />
         <mark key="]" line="62" column="38" />
         <mark key="." line="62" column="38" />
         <mark key="^" line="62" column="38" />
@@ -106,7 +106,6 @@
         <mark key="[" line="8" column="18" />
         <mark key="]" line="8" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/activity_detail.xml" timestamp="1456584564787" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/values/strings.xml" timestamp="1456405268296">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="88" column="0" />
@@ -135,19 +134,19 @@
         <mark key="^" line="22" column="19" />
         <mark key="." line="22" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailFragment.java" timestamp="1456586137691">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailFragment.java" timestamp="1457078832159">
         <mark key="'" line="164" column="8" />
-        <mark key="[" line="128" column="21" />
-        <mark key="]" line="129" column="15" />
-        <mark key="." line="129" column="15" />
-        <mark key="^" line="129" column="15" />
+        <mark key="[" line="208" column="52" />
+        <mark key="]" line="209" column="0" />
+        <mark key="." line="209" column="0" />
+        <mark key="^" line="209" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" timestamp="1456585750605">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="39" column="32" />
-        <mark key="]" line="39" column="37" />
-        <mark key="^" line="39" column="37" />
-        <mark key="." line="39" column="37" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" timestamp="1457078607087">
+        <mark key="'" line="87" column="0" />
+        <mark key="[" line="67" column="13" />
+        <mark key="]" line="69" column="32" />
+        <mark key="^" line="69" column="32" />
+        <mark key="." line="69" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout-sw600dp/activity_main.xml" timestamp="1456584375401">
         <mark key="[" line="7" column="19" />
@@ -160,9 +159,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="318" column="43" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
-      <jump line="252" column="25" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
-      <jump line="302" column="73" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
       <jump line="303" column="39" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
       <jump line="320" column="23" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherProvider.java" />
       <jump line="103" column="19" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
@@ -260,43 +256,46 @@
       <jump line="96" column="4" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/AppCompatPreferenceActivity.java" />
       <jump line="105" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/AppCompatPreferenceActivity.java" />
       <jump line="12" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/AppCompatPreferenceActivity.java" />
+      <jump line="167" column="57" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
+      <jump line="21" column="27" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" />
+      <jump line="87" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>u</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="-" type="4">
         <text>u</text>
       </register>
       <register name="/" type="4">
-        <text>src</text>
+        <text>onRe</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGFwcDpsYXlvdXRfYmVoYXZpb3I9IkBzdHJpbmcvYXBwYmFyX3Njcm9sbGluZ192aWV3X2JlaGF2aW9yIgo=</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="2" type="4">
         <text>u</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
       <register name="3" type="2">
-        <text encoding="base64">PCEtLS0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCEtLS0tPgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">PCEtLS0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">PCEtLS0tPgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">PCEtLS0tPgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIDwhLS0gIC0tPgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIDwhLS0gIC0tPgo=</text>
@@ -306,9 +305,9 @@
       </register>
     </registers>
     <search>
-      <last-search>src</last-search>
+      <last-search>onRe</last-search>
       <last-offset />
-      <last-pattern>src</last-pattern>
+      <last-pattern>onRe</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>Logger</last-substitute>
       <last-dir>1</last-dir>
@@ -316,8 +315,6 @@
     </search>
     <history>
       <history-search>
-        <entry>addPref</entry>
-        <entry>bind</entry>
         <entry encoding="base64">XDxhcHBcPg==</entry>
         <entry encoding="base64">XDx9XD4=</entry>
         <entry>LOCATION_ID</entry>
@@ -336,6 +333,8 @@
         <entry>buildWe</entry>
         <entry>mTextView</entry>
         <entry>src</entry>
+        <entry>mLocation</entry>
+        <entry>onRe</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
