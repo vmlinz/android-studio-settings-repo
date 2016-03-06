@@ -137,7 +137,7 @@
         <mark key="." line="22" column="92" />
         <mark key="^" line="22" column="91" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailActivity.java" timestamp="1457276366667">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailActivity.java" timestamp="1457277227853">
         <mark key="[" line="39" column="21" />
         <mark key="]" line="39" column="28" />
         <mark key="." line="39" column="28" />
@@ -169,7 +169,7 @@
         <mark key="." line="37" column="19" />
         <mark key="^" line="44" column="62" />
       </file>
-      <file name="/fragment.java" timestamp="1457084643816">
+      <file name="/fragment.java" timestamp="1457277325578">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
@@ -276,8 +276,8 @@
       <jump line="162" column="13" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>add</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Y29udGVudF9tYWluCg==</text>
       </register>
       <register name="-" type="4">
         <text>add</text>
@@ -288,32 +288,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBsb2NhdGlvblNldHRpbmcgPSBVdGlsaXR5LmdldFByZWZlcnJlZExvY2F0aW9uKGdldEFjdGl2aXR5KCkpOwogICAgICAgICAgICAgICAgVXJpIHdlYXRoZXJVcmkgPSBXZWF0aGVyQ29udHJhY3QuV2VhdGhlckVudHJ5LmJ1aWxkV2VhdGhlckxvY2F0aW9uV2l0aERhdGUoCiAgICAgICAgICAgICAgICAgICAgICAgIGxvY2F0aW9uU2V0dGluZywgY3Vyc29yLmdldExvbmcoQ09MX1dFQVRIRVJfREFURSkpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>add</text>
+      <register name="1" type="2">
+        <text encoding="base64">Y29udGVudF9tYWluCg==</text>
       </register>
       <register name="2" type="4">
+        <text>add</text>
+      </register>
+      <register name="3" type="4">
         <text>android:padding=&quot;16dp&quot;</text>
       </register>
-      <register name="3" type="2">
+      <register name="4" type="2">
         <text encoding="base64">ICAgICAgICBsdi5zZXRDaG9pY2VNb2RlKExpc3RWaWV3LkNIT0lDRV9NT0RFX1NJTkdMRSk7Cg==</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>;</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>null</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>putString</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>)</text>
       </register>
-      <register name="8" type="4">
-        <text>(</text>
-      </register>
       <register name="9" type="4">
-        <text>toString</text>
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
