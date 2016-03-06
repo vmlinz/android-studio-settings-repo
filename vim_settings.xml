@@ -61,12 +61,12 @@
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/fragment_detail.xml" timestamp="1457112365901">
-        <mark key="'" line="96" column="0" />
-        <mark key="[" line="64" column="57" />
-        <mark key="]" line="64" column="57" />
-        <mark key="." line="64" column="57" />
-        <mark key="^" line="64" column="57" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/fragment_detail.xml" timestamp="1457276122220">
+        <mark key="'" line="95" column="0" />
+        <mark key="[" line="14" column="8" />
+        <mark key="]" line="14" column="38" />
+        <mark key="." line="14" column="38" />
+        <mark key="^" line="14" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherTask.java" timestamp="1457084596785">
         <mark key="'" line="229" column="12" />
@@ -80,7 +80,7 @@
         <mark key="]" line="106" column="0" />
         <mark key="." line="106" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/content_detail.xml" timestamp="1457100696395">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/content_detail.xml" timestamp="1457276319253">
         <mark key="[" line="7" column="64" />
         <mark key="]" line="8" column="33" />
         <mark key="." line="8" column="33" />
@@ -137,11 +137,11 @@
         <mark key="." line="22" column="92" />
         <mark key="^" line="22" column="91" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailActivity.java" timestamp="1457275651917">
-        <mark key="[" line="31" column="31" />
-        <mark key="]" line="31" column="31" />
-        <mark key="." line="31" column="31" />
-        <mark key="^" line="31" column="31" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailActivity.java" timestamp="1457276366667">
+        <mark key="[" line="39" column="21" />
+        <mark key="]" line="39" column="28" />
+        <mark key="." line="39" column="28" />
+        <mark key="^" line="39" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailFragment.java" timestamp="1457274898239">
         <mark key="'" line="214" column="63" />
@@ -276,11 +276,11 @@
       <jump line="162" column="13" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBsdi5zZXRDaG9pY2VNb2RlKExpc3RWaWV3LkNIT0lDRV9NT0RFX1NJTkdMRSk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>add</text>
       </register>
       <register name="-" type="4">
-        <text>;</text>
+        <text>add</text>
       </register>
       <register name="/" type="4">
         <text>move</text>
@@ -288,32 +288,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIFN0cmluZyBsb2NhdGlvblNldHRpbmcgPSBVdGlsaXR5LmdldFByZWZlcnJlZExvY2F0aW9uKGdldEFjdGl2aXR5KCkpOwogICAgICAgICAgICAgICAgVXJpIHdlYXRoZXJVcmkgPSBXZWF0aGVyQ29udHJhY3QuV2VhdGhlckVudHJ5LmJ1aWxkV2VhdGhlckxvY2F0aW9uV2l0aERhdGUoCiAgICAgICAgICAgICAgICAgICAgICAgIGxvY2F0aW9uU2V0dGluZywgY3Vyc29yLmdldExvbmcoQ09MX1dFQVRIRVJfREFURSkpOwo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBsdi5zZXRDaG9pY2VNb2RlKExpc3RWaWV3LkNIT0lDRV9NT0RFX1NJTkdMRSk7Cg==</text>
+      <register name="1" type="4">
+        <text>add</text>
       </register>
       <register name="2" type="4">
-        <text>;</text>
+        <text>android:padding=&quot;16dp&quot;</text>
       </register>
-      <register name="3" type="4">
-        <text>null</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBsdi5zZXRDaG9pY2VNb2RlKExpc3RWaWV3LkNIT0lDRV9NT0RFX1NJTkdMRSk7Cg==</text>
       </register>
       <register name="4" type="4">
-        <text>putString</text>
+        <text>;</text>
       </register>
       <register name="5" type="4">
-        <text>)</text>
+        <text>null</text>
       </register>
       <register name="6" type="4">
-        <text>(</text>
+        <text>putString</text>
       </register>
       <register name="7" type="4">
-        <text>toString</text>
+        <text>)</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>(</text>
       </register>
       <register name="9" type="4">
-        <text>WEATHER_URI</text>
+        <text>toString</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
