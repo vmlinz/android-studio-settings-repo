@@ -86,10 +86,10 @@
         <mark key="." line="272" column="91" />
         <mark key="^" line="272" column="90" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1457275480671">
-        <mark key="[" line="106" column="0" />
-        <mark key="]" line="106" column="0" />
-        <mark key="." line="106" column="0" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1457329089754">
+        <mark key="[" line="186" column="0" />
+        <mark key="]" line="186" column="0" />
+        <mark key="." line="186" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/content_detail.xml" timestamp="1457278042243">
         <mark key="[" line="9" column="0" />
@@ -162,7 +162,7 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" timestamp="1457113071910">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" timestamp="1457328982176">
         <mark key="'" line="23" column="4" />
         <mark key="[" line="138" column="12" />
         <mark key="]" line="139" column="19" />
@@ -283,7 +283,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6cGFkZGluZ0xlZnQ9IkBkaW1lbi9hY3Rpdml0eV9ob3Jpem9udGFsX21hcmdpbiIKICAgIGFuZHJvaWQ6cGFkZGluZ1JpZ2h0PSJAZGltZW4vYWN0aXZpdHlfaG9yaXpvbnRhbF9tYXJnaW4iCiAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IkBkaW1lbi9hY3Rpdml0eV92ZXJ0aWNhbF9tYXJnaW4iCiAgICBhbmRyb2lkOnBhZGRpbmdCb3R0b209IkBkaW1lbi9hY3Rpdml0eV92ZXJ0aWNhbF9tYXJnaW4iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>android:choiceMode=&quot;singleChoice&quot;</text>
@@ -295,31 +295,31 @@
         <text>tools:layout=&quot;@layout/fragment_detail&quot;</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6cGFkZGluZ0xlZnQ9IkBkaW1lbi9hY3Rpdml0eV9ob3Jpem9udGFsX21hcmdpbiIKICAgIGFuZHJvaWQ6cGFkZGluZ1JpZ2h0PSJAZGltZW4vYWN0aXZpdHlfaG9yaXpvbnRhbF9tYXJnaW4iCiAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IkBkaW1lbi9hY3Rpdml0eV92ZXJ0aWNhbF9tYXJnaW4iCiAgICBhbmRyb2lkOnBhZGRpbmdCb3R0b209IkBkaW1lbi9hY3Rpdml0eV92ZXJ0aWNhbF9tYXJnaW4iCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25QYXVzZSgpIHsKICAgIH0K</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlci5vblBhdXNlKCk7Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGFuZHJvaWQ6cGFkZGluZ0xlZnQ9IkBkaW1lbi9hY3Rpdml0eV9ob3Jpem9udGFsX21hcmdpbiIKICAgIGFuZHJvaWQ6cGFkZGluZ1JpZ2h0PSJAZGltZW4vYWN0aXZpdHlfaG9yaXpvbnRhbF9tYXJnaW4iCiAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IkBkaW1lbi9hY3Rpdml0eV92ZXJ0aWNhbF9tYXJnaW4iCiAgICBhbmRyb2lkOnBhZGRpbmdCb3R0b209IkBkaW1lbi9hY3Rpdml0eV92ZXJ0aWNhbF9tYXJnaW4iCg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgIGFuZHJvaWQ6cGFkZGluZ1JpZ2h0PSJAZGltZW4vYWN0aXZpdHlfaG9yaXpvbnRhbF9tYXJnaW4iCiAgICBhbmRyb2lkOnBhZGRpbmdCb3R0b209IkBkaW1lbi9hY3Rpdml0eV92ZXJ0aWNhbF9tYXJnaW4iCiAgICBhbmRyb2lkOnBhZGRpbmdMZWZ0PSJAZGltZW4vYWN0aXZpdHlfaG9yaXpvbnRhbF9tYXJnaW4iCiAgICBhbmRyb2lkOnBhZGRpbmdUb3A9IkBkaW1lbi9hY3Rpdml0eV92ZXJ0aWNhbF9tYXJnaW4iCg==</text>
       </register>
-      <register name="3" type="4">
+      <register name="6" type="4">
         <text>android:choiceMode=&quot;singleChoice&quot;</text>
       </register>
-      <register name="4" type="4">
+      <register name="7" type="4">
         <text>&quot;</text>
       </register>
-      <register name="5" type="4">
+      <register name="8" type="4">
         <text>&quot;</text>
-      </register>
-      <register name="6" type="4">
-        <text>Single</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJhbmRyb2lkOmNob2ljZU1vZGUiCg==</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">PC9GcmFtZUxheW91dD4=</text>
+        <text>Single</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
