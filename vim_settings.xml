@@ -166,12 +166,12 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" timestamp="1457331890335">
-        <mark key="'" line="23" column="4" />
-        <mark key="[" line="138" column="12" />
-        <mark key="]" line="139" column="19" />
-        <mark key="." line="139" column="19" />
-        <mark key="^" line="139" column="19" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" timestamp="1457334936089">
+        <mark key="'" line="24" column="4" />
+        <mark key="[" line="134" column="56" />
+        <mark key="]" line="134" column="56" />
+        <mark key="." line="134" column="56" />
+        <mark key="^" line="134" column="59" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout-sw600dp/activity_main.xml" timestamp="1457100104777">
         <mark key="[" line="37" column="19" />
@@ -286,11 +286,11 @@
       <jump line="25" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIuZCgib25BY3Rpdml0eUNyZWF0ZWQ6IG1MaXN0UG9zaXRpb24gPSAiICsgbUxpc3RQb3NpdGlvbik7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>l</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>mList</text>
@@ -298,32 +298,32 @@
       <register name="0" type="4">
         <text>tools:layout=&quot;@layout/fragment_detail&quot;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIuZCgib25BY3Rpdml0eUNyZWF0ZWQ6IG1MaXN0UG9zaXRpb24gPSAiICsgbUxpc3RQb3NpdGlvbik7Cg==</text>
+      <register name="1" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBMb2dnZXIuZCgib25TYXZlSW5zdGFuY2VTdGF0ZTogbUxpc3RQb3NpdGlvbiA9ICIsIG1MaXN0UG9zaXRpb24pOwo=</text>
+      <register name="2" type="4">
+        <text>&quot;</text>
       </register>
       <register name="3" type="4">
-        <text>l</text>
+        <text>t</text>
       </register>
       <register name="4" type="4">
-        <text>0</text>
+        <text>n</text>
       </register>
       <register name="5" type="4">
-        <text>)</text>
+        <text>I</text>
       </register>
-      <register name="6" type="4">
-        <text>(</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBMb2dnZXIuZCgib25BY3Rpdml0eUNyZWF0ZWQ6IG1MaXN0UG9zaXRpb24gPSAiICsgbUxpc3RQb3NpdGlvbik7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>getSelectedItemPosition</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBMb2dnZXIuZCgib25TYXZlSW5zdGFuY2VTdGF0ZTogbUxpc3RQb3NpdGlvbiA9ICIsIG1MaXN0UG9zaXRpb24pOwo=</text>
       </register>
       <register name="8" type="4">
-        <text>.</text>
+        <text>l</text>
       </register>
       <register name="9" type="4">
-        <text>listView</text>
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
