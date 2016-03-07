@@ -22,9 +22,9 @@
         <mark key="." line="29" column="54" />
         <mark key="^" line="29" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/content_main.xml" timestamp="1457274587776">
-        <mark key="[" line="8" column="25" />
-        <mark key="]" line="8" column="31" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/content_main.xml" timestamp="1457346030922">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="63" />
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
@@ -53,11 +53,6 @@
         <mark key="]" line="55" column="3" />
         <mark key="^" line="55" column="3" />
         <mark key="." line="55" column="3" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/values/styles.xml" timestamp="1457279135515">
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/Utility.java" timestamp="1456564143653">
         <mark key="'" line="0" column="0" />
@@ -145,6 +140,7 @@
         <mark key="^" line="6" column="54" />
         <mark key="." line="6" column="54" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/activity_main.xml" timestamp="1457345895441" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/values/strings.xml" timestamp="1457104703458">
         <mark key="'" line="4" column="0" />
         <mark key="[" line="1" column="36" />
@@ -152,11 +148,11 @@
         <mark key="^" line="88" column="3" />
         <mark key="." line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout-sw600dp/content_main.xml" timestamp="1457277875582">
-        <mark key="[" line="17" column="0" />
-        <mark key="]" line="22" column="17" />
-        <mark key="." line="10" column="37" />
-        <mark key="^" line="10" column="37" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout-sw600dp/content_main.xml" timestamp="1457346100750">
+        <mark key="[" line="22" column="50" />
+        <mark key="]" line="23" column="28" />
+        <mark key="." line="23" column="28" />
+        <mark key="^" line="23" column="28" />
       </file>
       <file name="/Dummy.txt" timestamp="1457341052384">
         <mark key="[" line="0" column="0" />
@@ -186,7 +182,7 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" timestamp="1457345330908">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" timestamp="1457345750449">
         <mark key="'" line="50" column="19" />
         <mark key="[" line="57" column="30" />
         <mark key="]" line="57" column="30" />
@@ -307,40 +303,40 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>setTwoPane</text>
+        <text>Left</text>
       </register>
       <register name="-" type="4">
-        <text>setTwoPane</text>
+        <text>Left</text>
       </register>
       <register name="/" type="4">
         <text>appbar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDxpdGVtIG5hbWU9ImZyYWdtZW50X2RldGFpbCIgdHlwZT0ibGF5b3V0Ij5AbGF5b3V0L2ZyYWdtZW50X2RldGFpbF93aWRlPC9pdGVtPgo=</text>
+        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkxlZnQ9IjE2ZHAiCg==</text>
       </register>
       <register name="1" type="4">
-        <text>setTwoPane</text>
+        <text>Left</text>
       </register>
-      <register name="2" type="4">
-        <text>!</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgo=</text>
       </register>
-      <register name="3" type="4">
-        <text>(</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBmb3JlY2FzdEFkYXB0ZXIuc2V0VXNlU3BlY2lhbFRvYWR5KCFtVHdvUGFuZSk7Cg==</text>
-      </register>
-      <register name="6" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFR3b1BhbmUoYm9vbGVhbiBtVHdvUGFuZSkgewogICAgICAgIHRoaXMubVR3b1BhbmUgPSBtVHdvUGFuZTsKICAgIH0KCiAgICBwcml2YXRlIGJvb2xlYW4gbVR3b1BhbmUgPSBmYWxzZTsK</text>
+      <register name="4" type="4">
+        <text>setTwoPane</text>
       </register>
-      <register name="8" type="4">
-        <text>t</text>
+      <register name="5" type="4">
+        <text>!</text>
+      </register>
+      <register name="6" type="4">
+        <text>(</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBmb3JlY2FzdEFkYXB0ZXIuc2V0VXNlU3BlY2lhbFRvYWR5KCFtVHdvUGFuZSk7Cg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
