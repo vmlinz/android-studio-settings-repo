@@ -16,10 +16,11 @@
         <mark key="^" line="20" column="51" />
         <mark key="." line="20" column="51" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastAdapter.java" timestamp="1457273663371">
-        <mark key="]" line="26" column="20" />
-        <mark key="^" line="26" column="20" />
-        <mark key="." line="26" column="20" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastAdapter.java" timestamp="1457345011945">
+        <mark key="[" line="20" column="20" />
+        <mark key="]" line="29" column="54" />
+        <mark key="." line="29" column="54" />
+        <mark key="^" line="29" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/content_main.xml" timestamp="1457274587776">
         <mark key="[" line="8" column="25" />
@@ -46,8 +47,8 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="11" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/values/values.xml" timestamp="1456631588424">
-        <mark key="'" line="176" column="0" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/values/values.xml" timestamp="1457344803201">
+        <mark key="'" line="29" column="24" />
         <mark key="[" line="54" column="4" />
         <mark key="]" line="55" column="3" />
         <mark key="^" line="55" column="3" />
@@ -98,17 +99,18 @@
         <mark key="^" line="272" column="90" />
       </file>
       <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/android/widget/BaseAdapter.class" timestamp="1457329811638" />
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1457333654492">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1457345305217">
         <mark key="'" line="24" column="0" />
-        <mark key="[" line="96" column="0" />
-        <mark key="]" line="96" column="76" />
-        <mark key="." line="96" column="0" />
-        <mark key="^" line="142" column="8" />
+        <mark key="[" line="76" column="38" />
+        <mark key="]" line="77" column="62" />
+        <mark key="." line="77" column="62" />
+        <mark key="^" line="77" column="62" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/content_detail.xml" timestamp="1457342057231">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/content_detail.xml" timestamp="1457344850834">
+        <mark key="[" line="6" column="64" />
+        <mark key="]" line="6" column="63" />
+        <mark key="." line="6" column="63" />
+        <mark key="^" line="6" column="63" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/AppCompatPreferenceActivity.java" timestamp="1457020495362">
         <mark key="'" line="12" column="0" />
@@ -184,12 +186,12 @@
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" timestamp="1457334936089">
-        <mark key="'" line="24" column="4" />
-        <mark key="[" line="134" column="56" />
-        <mark key="]" line="134" column="56" />
-        <mark key="." line="134" column="56" />
-        <mark key="^" line="134" column="59" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" timestamp="1457345330908">
+        <mark key="'" line="50" column="19" />
+        <mark key="[" line="57" column="30" />
+        <mark key="]" line="57" column="30" />
+        <mark key="." line="57" column="30" />
+        <mark key="^" line="57" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout-sw600dp/activity_main.xml" timestamp="1457100104777">
         <mark key="[" line="37" column="19" />
@@ -202,19 +204,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="323" column="8" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherTask.java" />
-      <jump line="305" column="12" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherTask.java" />
-      <jump line="317" column="20" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherTask.java" />
-      <jump line="322" column="8" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherTask.java" />
-      <jump line="327" column="12" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherTask.java" />
-      <jump line="27" column="21" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherTask.java" />
-      <jump line="30" column="29" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherTask.java" />
-      <jump line="49" column="4" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherTask.java" />
-      <jump line="227" column="12" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherTask.java" />
-      <jump line="229" column="12" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherTask.java" />
-      <jump line="159" column="44" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
-      <jump line="166" column="29" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
-      <jump line="376" column="29" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
       <jump line="387" column="29" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
       <jump line="399" column="29" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
       <jump line="158" column="29" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" />
@@ -302,55 +291,68 @@
       <jump line="76" column="7" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/fragment_detail_wide.xml" />
+      <jump line="22" column="42" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" />
+      <jump line="128" column="28" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" />
+      <jump line="134" column="49" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" />
+      <jump line="50" column="19" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" />
+      <jump line="62" column="31" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/values/values.xml" />
+      <jump line="131" column="20" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/values/values.xml" />
+      <jump line="132" column="20" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/values/values.xml" />
+      <jump line="14" column="139" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/values/values.xml" />
+      <jump line="18" column="133" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/values/values.xml" />
+      <jump line="24" column="90" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/values/values.xml" />
+      <jump line="61" column="18" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/values/values.xml" />
+      <jump line="125" column="45" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/values/values.xml" />
+      <jump line="29" column="24" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/values/values.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>detail_forecast_textview</text>
+        <text>setTwoPane</text>
       </register>
       <register name="-" type="4">
-        <text>detail_forecast_textview</text>
+        <text>setTwoPane</text>
       </register>
       <register name="/" type="4">
-        <text>mList</text>
+        <text>appbar</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIDxpdGVtIG5hbWU9ImZyYWdtZW50X2RldGFpbCIgdHlwZT0ibGF5b3V0Ij5AbGF5b3V0L2ZyYWdtZW50X2RldGFpbF93aWRlPC9pdGVtPgo=</text>
       </register>
       <register name="1" type="4">
-        <text>detail_forecast_textview</text>
+        <text>setTwoPane</text>
       </register>
       <register name="2" type="4">
-        <text>detail_icon</text>
+        <text>!</text>
       </register>
       <register name="3" type="4">
-        <text>detail_wind_textview</text>
+        <text>(</text>
       </register>
-      <register name="4" type="4">
-        <text>detail_pressure_textview</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>detail_humidity_textview</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBmb3JlY2FzdEFkYXB0ZXIuc2V0VXNlU3BlY2lhbFRvYWR5KCFtVHdvUGFuZSk7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>detail_low_textview</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>detail_high_textview</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyB2b2lkIHNldFR3b1BhbmUoYm9vbGVhbiBtVHdvUGFuZSkgewogICAgICAgIHRoaXMubVR3b1BhbmUgPSBtVHdvUGFuZTsKICAgIH0KCiAgICBwcml2YXRlIGJvb2xlYW4gbVR3b1BhbmUgPSBmYWxzZTsK</text>
       </register>
       <register name="8" type="4">
-        <text>detail_date_textview</text>
+        <text>t</text>
       </register>
-      <register name="9" type="4">
-        <text>detail_day_textview</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mList</last-search>
+      <last-search>appbar</last-search>
       <last-offset />
-      <last-pattern>mList</last-pattern>
+      <last-pattern>appbar</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>move</last-substitute>
       <last-dir>1</last-dir>
@@ -358,10 +360,6 @@
     </search>
     <history>
       <history-search>
-        <entry>parse</entry>
-        <entry>insert</entry>
-        <entry>delete</entry>
-        <entry>deleteall</entry>
         <entry>deleteAll</entry>
         <entry>id</entry>
         <entry>log</entry>
@@ -378,6 +376,10 @@
         <entry>mUri</entry>
         <entry>move</entry>
         <entry>mList</entry>
+        <entry>TWOPANE</entry>
+        <entry>behavier</entry>
+        <entry>behavior</entry>
+        <entry>appbar</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
