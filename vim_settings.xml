@@ -28,6 +28,9 @@
         <mark key="^" line="8" column="31" />
         <mark key="." line="8" column="31" />
       </file>
+      <file name="/a.dummy" timestamp="1457427181467">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast_today.xml" timestamp="1457279605920">
         <mark key="'" line="39" column="20" />
         <mark key="[" line="3" column="40" />
@@ -53,6 +56,12 @@
         <mark key="]" line="55" column="3" />
         <mark key="^" line="55" column="3" />
         <mark key="." line="55" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/values/styles.xml" timestamp="1457427737492">
+        <mark key="[" line="17" column="35" />
+        <mark key="]" line="17" column="50" />
+        <mark key="." line="17" column="50" />
+        <mark key="^" line="17" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/Utility.java" timestamp="1456564143653">
         <mark key="'" line="0" column="0" />
@@ -131,11 +140,6 @@
         <mark key="]" line="6" column="47" />
         <mark key="." line="6" column="47" />
         <mark key="^" line="6" column="47" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/values/colors.xml" timestamp="1457279829398">
-        <mark key="]" line="6" column="54" />
-        <mark key="^" line="6" column="54" />
-        <mark key="." line="6" column="54" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/values/strings.xml" timestamp="1457104703458">
         <mark key="'" line="4" column="0" />
@@ -298,10 +302,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>fragment</text>
+        <text>_launcher</text>
       </register>
       <register name="-" type="4">
-        <text>fragment</text>
+        <text>_launcher</text>
       </register>
       <register name="/" type="4">
         <text>appbar</text>
@@ -310,31 +314,31 @@
         <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkxlZnQ9IjE2ZHAiCg==</text>
       </register>
       <register name="1" type="4">
-        <text>fragment</text>
+        <text>_launcher</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgLgo=</text>
+      <register name="2" type="4">
+        <text>c</text>
       </register>
       <register name="3" type="4">
-        <text>android.support.v7.widget.ContentFrameLayout</text>
+        <text>i</text>
       </register>
       <register name="4" type="4">
-        <text>FrameLayout</text>
+        <text>/</text>
       </register>
       <register name="5" type="4">
-        <text>Left</text>
+        <text>mipmap</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHhtbG5zOmFwcD0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vYXBrL3Jlcy1hdXRvIgo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>setTwoPane</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>!</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
