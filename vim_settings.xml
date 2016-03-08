@@ -36,12 +36,12 @@
       <file name="/a.dummy" timestamp="1457427181467">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast_today.xml" timestamp="1457448315565">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast_today.xml" timestamp="1457448486132">
         <mark key="'" line="22" column="0" />
-        <mark key="[" line="66" column="0" />
-        <mark key="]" line="66" column="0" />
-        <mark key="." line="66" column="0" />
-        <mark key="^" line="55" column="34" />
+        <mark key="[" line="4" column="24" />
+        <mark key="]" line="4" column="52" />
+        <mark key="." line="4" column="52" />
+        <mark key="^" line="4" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/local.properties" timestamp="1456561580374">
         <mark key="[" line="12" column="23" />
@@ -87,12 +87,12 @@
         <mark key="]" line="0" column="38" />
         <mark key="." line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/fragment_detail.xml" timestamp="1457341909882">
-        <mark key="'" line="91" column="0" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
-        <mark key="^" line="10" column="38" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/fragment_detail.xml" timestamp="1457449495196">
+        <mark key="'" line="93" column="0" />
+        <mark key="[" line="83" column="42" />
+        <mark key="]" line="84" column="33" />
+        <mark key="^" line="84" column="33" />
+        <mark key="." line="84" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/values-sw600dp/layouts.xml" timestamp="1457341236510">
         <mark key="[" line="2" column="0" />
@@ -332,43 +332,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXIiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iNGRwIgo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">YW5kcm9pZDpwYWRkaW5nTGVmdD0iOGRwIiA=</text>
+        <text>condensed</text>
       </register>
       <register name="/" type="4">
         <text>Size</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpmb250RmFtaWx5PSJzYW5zLXNlcmlmLWNvbmRlbnNlZCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0QXBwZWFyYW5jZT0iQGFuZHJvaWQ6c3R5bGUvVGV4dEFwcGVhcmFuY2UuTGFyZ2UiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3Ivc3Vuc2hpbmVDb2xvclRleHQiIC8+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iNGRwIgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXIiIC8+Cg==</text>
+      <register name="1" type="4">
+        <text>condensed</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">YW5kcm9pZDpwYWRkaW5nTGVmdD0iOGRwIiA=</text>
+        <text>condensed</text>
       </register>
       <register name="3" type="4">
-        <text>2</text>
+        <text>condensed</text>
       </register>
       <register name="4" type="4">
-        <text>7</text>
+        <text>condensed</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>condensed</text>
       </register>
-      <register name="6" type="4">
-        <text>/</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0ic3RhcnQiCg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">Pg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfZ3Jhdml0eT0ic3RhcnQiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRBcHBlYXJhbmNlPSIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRTaXplPSI0OHNwIgo=</text>
       </register>
-      <register name="9" type="4">
-        <text>72sp</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBhbmRyb2lkOnRleHRBcHBlYXJhbmNlPSJAYW5kcm9pZDpzdHlsZS9UZXh0QXBwZWFyYW5jZS5NZWRpdW0iCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
