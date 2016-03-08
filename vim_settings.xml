@@ -175,7 +175,7 @@
         <mark key="^" line="88" column="3" />
         <mark key="." line="1" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout-sw600dp/content_main.xml" timestamp="1457446588852">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout-sw600dp/content_main.xml" timestamp="1457451713395">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
@@ -338,7 +338,7 @@
         <text>condensed</text>
       </register>
       <register name="/" type="4">
-        <text>Size</text>
+        <text>AppCompat</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpblRvcD0iNGRwIgo=</text>
@@ -375,9 +375,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Size</last-search>
+      <last-search>AppCompat</last-search>
       <last-offset />
-      <last-pattern>Size</last-pattern>
+      <last-pattern>AppCompat</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>move</last-substitute>
       <last-dir>1</last-dir>
@@ -385,7 +385,6 @@
     </search>
     <history>
       <history-search>
-        <entry>log</entry>
         <entry>Log</entry>
         <entry>logger</entry>
         <entry>Logger</entry>
@@ -405,6 +404,7 @@
         <entry>appbar</entry>
         <entry>size</entry>
         <entry>Size</entry>
+        <entry>AppCompat</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
