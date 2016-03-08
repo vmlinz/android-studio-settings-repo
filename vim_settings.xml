@@ -36,12 +36,12 @@
       <file name="/a.dummy" timestamp="1457427181467">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast_today.xml" timestamp="1457279605920">
-        <mark key="'" line="39" column="20" />
-        <mark key="[" line="3" column="40" />
-        <mark key="]" line="4" column="47" />
-        <mark key="." line="4" column="47" />
-        <mark key="^" line="4" column="47" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast_today.xml" timestamp="1457448315565">
+        <mark key="'" line="22" column="0" />
+        <mark key="[" line="66" column="0" />
+        <mark key="]" line="66" column="0" />
+        <mark key="." line="66" column="0" />
+        <mark key="^" line="55" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/local.properties" timestamp="1456561580374">
         <mark key="[" line="12" column="23" />
@@ -229,7 +229,6 @@
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.0/res/values/values.xml" timestamp="1457432240706" />
     </filemarks>
     <jumps>
-      <jump line="63" column="28" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
       <jump line="161" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
       <jump line="153" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
       <jump line="81" column="4" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/values/strings.xml" />
@@ -329,46 +328,47 @@
       <jump line="58" column="24" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast.xml" />
       <jump line="50" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast.xml" />
       <jump line="57" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast.xml" />
+      <jump line="22" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast_today.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMjJzcCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXIiIC8+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>bold</text>
+        <text encoding="base64">YW5kcm9pZDpwYWRkaW5nTGVmdD0iOGRwIiA=</text>
       </register>
       <register name="/" type="4">
         <text>Size</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpmb250RmFtaWx5PSJzYW5zLXNlcmlmLWNvbmRlbnNlZCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U3R5bGU9Im5vcm1hbCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMjJzcCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpmb250RmFtaWx5PSJzYW5zLXNlcmlmLWNvbmRlbnNlZCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0QXBwZWFyYW5jZT0iQGFuZHJvaWQ6c3R5bGUvVGV4dEFwcGVhcmFuY2UuTGFyZ2UiCiAgICAgICAgICAgIGFuZHJvaWQ6dGV4dENvbG9yPSJAY29sb3Ivc3Vuc2hpbmVDb2xvclRleHQiIC8+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMjJzcCIK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpncmF2aXR5PSJjZW50ZXIiIC8+Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTRzcCIK</text>
+      <register name="2" type="4">
+        <text encoding="base64">YW5kcm9pZDpwYWRkaW5nTGVmdD0iOGRwIiA=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMjJzcCIK</text>
+      <register name="3" type="4">
+        <text>2</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMTRzcCIK</text>
+      <register name="4" type="4">
+        <text>7</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpmb250RmFtaWx5PSJzYW5zLXNlcmlmIgogICAgICAgICAgICBhbmRyb2lkOnRleHRTdHlsZT0iYm9sZCIKICAgICAgICAgICAgYW5kcm9pZDp0ZXh0U2l6ZT0iMjJzcCIK</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>bold</text>
+        <text>/</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnBhZGRpbmc9IjE2ZHAiCg==</text>
+      <register name="7" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X21hcmdpbkxlZnQ9IjE2ZHAiCiAgICBhbmRyb2lkOmxheW91dF9tYXJnaW5SaWdodD0iMTZkcCIK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRBcHBlYXJhbmNlPSIiCg==</text>
       </register>
       <register name="9" type="4">
-        <text>2</text>
+        <text>72sp</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
