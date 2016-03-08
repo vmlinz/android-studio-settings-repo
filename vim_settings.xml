@@ -28,11 +28,10 @@
         <mark key="^" line="27" column="53" />
         <mark key="." line="27" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/content_main.xml" timestamp="1457430730332">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="63" />
-        <mark key="^" line="8" column="31" />
-        <mark key="." line="8" column="31" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/content_main.xml" timestamp="1457444995105">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="." line="7" column="0" />
       </file>
       <file name="/a.dummy" timestamp="1457427181467">
         <mark key="[" line="0" column="0" />
@@ -82,6 +81,11 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout-land/refs.xml" timestamp="1457341104674">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="38" />
+        <mark key="." line="0" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/fragment_detail.xml" timestamp="1457341909882">
         <mark key="'" line="91" column="0" />
@@ -136,11 +140,11 @@
         <mark key="." line="76" column="54" />
         <mark key="^" line="76" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast.xml" timestamp="1457444641829">
-        <mark key="[" line="5" column="61" />
-        <mark key="]" line="6" column="47" />
-        <mark key="." line="6" column="47" />
-        <mark key="^" line="6" column="47" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast.xml" timestamp="1457445649847">
+        <mark key="[" line="23" column="42" />
+        <mark key="]" line="24" column="51" />
+        <mark key="." line="24" column="51" />
+        <mark key="^" line="24" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/values/colors.xml" timestamp="1457435219744">
         <mark key="[" line="6" column="37" />
@@ -325,11 +329,11 @@
       <jump line="29" column="24" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/values/values.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Dark</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSI/YW5kcm9pZDpmb250RmFtaWx5Igo=</text>
       </register>
       <register name="-" type="4">
-        <text>Dark</text>
+        <text>end</text>
       </register>
       <register name="/" type="4">
         <text>appbar</text>
@@ -337,32 +341,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJjb2xvclByaW1hcnkiPkBjb2xvci9zdW5zaGluZUNvbG9yUHJpbWFyeURhcms8L2l0ZW0+CiAgICAgICAgPGl0ZW0gbmFtZT0iY29sb3JQcmltYXJ5RGFyayI+QGNvbG9yL3N1bnNoaW5lQ29sb3JQcmltYXJ5PC9pdGVtPgogICAgICAgIDxpdGVtIG5hbWU9ImNvbG9yQWNjZW50Ij5AY29sb3Ivc3Vuc2hpbmVDb2xvckFjY2VudDwvaXRlbT4K</text>
       </register>
-      <register name="1" type="4">
-        <text>Dark</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0ZXh0PSI/YW5kcm9pZDpmb250RmFtaWx5Igo=</text>
       </register>
       <register name="2" type="4">
-        <text>Dark</text>
+        <text>end</text>
       </register>
       <register name="3" type="4">
-        <text>Dark</text>
+        <text>e</text>
       </register>
       <register name="4" type="4">
-        <text>#02ffd1</text>
+        <text>g</text>
       </register>
       <register name="5" type="4">
-        <text>#ff1ca8f4</text>
+        <text>r</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="6" type="4">
+        <text>a</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8aXRlbSBuYW1lPSJjb2xvclByaW1hcnkiPkBjb2xvci9zdW5zaGluZUNvbG9yUHJpbWFyeTwvaXRlbT4KICAgICAgICA8aXRlbSBuYW1lPSJjb2xvclByaW1hcnlEYXJrIj5AY29sb3Ivc3Vuc2hpbmVDb2xvclByaW1hcnlEYXJrPC9pdGVtPgogICAgICAgIDxpdGVtIG5hbWU9ImNvbG9yQWNjZW50Ij5AY29sb3Ivc3Vuc2hpbmVDb2xvckFjY2VudDwvaXRlbT4K</text>
+      <register name="7" type="4">
+        <text>L</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6bGF5b3V0X2JlaGF2aW9yPSJAc3RyaW5nL2FwcGJhcl9zY3JvbGxpbmdfdmlld19iZWhhdmlvciIK</text>
+      <register name="8" type="4">
+        <text>.</text>
       </register>
       <register name="9" type="4">
-        <text>colorPrimaryDark</text>
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
