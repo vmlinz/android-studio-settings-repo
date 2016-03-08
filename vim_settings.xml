@@ -10,11 +10,11 @@
         <mark key="." line="68" column="56" />
         <mark key="^" line="68" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/values-sw600dp/styles.xml" timestamp="1457279272290">
-        <mark key="[" line="20" column="40" />
-        <mark key="]" line="20" column="51" />
-        <mark key="^" line="20" column="51" />
-        <mark key="." line="20" column="51" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/values-sw600dp/styles.xml" timestamp="1457432920240">
+        <mark key="[" line="6" column="45" />
+        <mark key="]" line="6" column="68" />
+        <mark key="^" line="6" column="68" />
+        <mark key="." line="6" column="68" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastAdapter.java" timestamp="1457345011945">
         <mark key="[" line="20" column="20" />
@@ -22,10 +22,11 @@
         <mark key="." line="29" column="54" />
         <mark key="^" line="29" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/AndroidManifest.xml" timestamp="1457432409284">
-        <mark key="]" line="35" column="55" />
-        <mark key="^" line="35" column="55" />
-        <mark key="." line="35" column="55" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/AndroidManifest.xml" timestamp="1457432628327">
+        <mark key="[" line="27" column="34" />
+        <mark key="]" line="27" column="53" />
+        <mark key="^" line="27" column="53" />
+        <mark key="." line="27" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/content_main.xml" timestamp="1457430730332">
         <mark key="[" line="9" column="0" />
@@ -81,11 +82,6 @@
         <mark key="]" line="16" column="0" />
         <mark key="^" line="16" column="0" />
         <mark key="." line="16" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout-land/refs.xml" timestamp="1457341104674">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="38" />
-        <mark key="." line="0" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/fragment_detail.xml" timestamp="1457341909882">
         <mark key="'" line="91" column="0" />
@@ -146,11 +142,21 @@
         <mark key="." line="6" column="47" />
         <mark key="^" line="6" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/activity_main.xml" timestamp="1457432368177">
-        <mark key="[" line="19" column="59" />
-        <mark key="]" line="19" column="58" />
-        <mark key="." line="19" column="58" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/values/colors.xml" timestamp="1457432856244">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="^" line="5" column="40" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/activity_main.xml" timestamp="1457432702498">
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="." line="21" column="0" />
         <mark key="^" line="19" column="58" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/activity_detail.xml" timestamp="1457432687790">
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="19" column="59" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/values/strings.xml" timestamp="1457104703458">
         <mark key="'" line="4" column="0" />
@@ -314,43 +320,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>colorPrimaryDark</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>colorPrimaryDark</text>
       </register>
       <register name="/" type="4">
         <text>appbar</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIGFwcDpsYXlvdXRfYmVoYXZpb3I9IkBzdHJpbmcvYXBwYmFyX3Njcm9sbGluZ192aWV3X2JlaGF2aW9yIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSI/YXR0ci9jb2xvclByaW1hcnkiCiAgICAgICAgICAgIGFwcDpwb3B1cFRoZW1lPSJAc3R5bGUvQXBwVGhlbWUuUG9wdXBPdmVybGF5IiAvPgo=</text>
       </register>
       <register name="1" type="4">
-        <text>.</text>
+        <text>colorPrimaryDark</text>
       </register>
       <register name="2" type="4">
-        <text>AppTheme</text>
+        <text>colorPrimary</text>
       </register>
-      <register name="3" type="4">
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJjb2xvclByaW1hcnkiPiMzRjUxQjU8L2NvbG9yPgogICAgPGNvbG9yIG5hbWU9ImNvbG9yUHJpbWFyeURhcmsiPiMzMDNGOUY8L2NvbG9yPgo=</text>
+      </register>
+      <register name="4" type="4">
         <text>Dark</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9zdW5zaGluZUNvbG9yUHJpbWFyeSIK</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpiYWNrZ3JvdW5kPSJAY29sb3Ivc3Vuc2hpbmVDb2xvclByaW1hcnkiCiAgICAgICAgICAgIGFwcDpwb3B1cFRoZW1lPSJAc3R5bGUvQXBwVGhlbWUuUG9wdXBPdmVybGF5IiAvPgo=</text>
       </register>
-      <register name="5" type="4">
-        <text>Dark</text>
-      </register>
-      <register name="6" type="4">
-        <text>Dark</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRoZW1lPSJAc3R5bGUvQXBwVGhlbWUuQXBwQmFyT3ZlcmxheSI+Cg==</text>
       </register>
       <register name="7" type="4">
         <text>y</text>
       </register>
       <register name="8" type="4">
-        <text>r</text>
+        <text>a</text>
       </register>
       <register name="9" type="4">
-        <text>a</text>
+        <text>l</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
