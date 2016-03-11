@@ -40,11 +40,12 @@
         <mark key="." line="4" column="52" />
         <mark key="^" line="4" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MyView.java" timestamp="1457680564100">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="^" line="47" column="47" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MyView.java" timestamp="1457689719870">
+        <mark key="'" line="16" column="17" />
+        <mark key="[" line="57" column="15" />
+        <mark key="]" line="57" column="19" />
+        <mark key="." line="57" column="19" />
+        <mark key="^" line="57" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/local.properties" timestamp="1456561580374">
         <mark key="[" line="12" column="23" />
@@ -141,6 +142,7 @@
         <mark key="." line="96" column="51" />
         <mark key="^" line="96" column="51" />
       </file>
+      <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/java/util/List.class" timestamp="1457689556885" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast.xml" timestamp="1457490268412">
         <mark key="'" line="52" column="0" />
         <mark key="[" line="25" column="0" />
@@ -222,9 +224,6 @@
       <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/android/graphics/Color.class" timestamp="1457680174583" />
     </filemarks>
     <jumps>
-      <jump line="153" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
-      <jump line="81" column="4" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/values/strings.xml" />
-      <jump line="4" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/values/strings.xml" />
       <jump line="93" column="4" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DateUtils.java" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DateUtils.java" />
       <jump line="94" column="69" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DateUtils.java" />
@@ -322,13 +321,16 @@
       <jump line="57" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast.xml" />
       <jump line="22" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast_today.xml" />
       <jump line="29" column="75" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/fragment_detail_wide.xml" />
+      <jump line="56" column="28" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MyView.java" />
+      <jump line="59" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MyView.java" />
+      <jump line="16" column="17" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MyView.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBjYW52YXMuZHJhd0NvbG9yKENvbG9yLkJMVUUpOwo=</text>
+      <register name="&quot;" type="4">
+        <text>uper.dispatchPopulateAccessibilityEvent(event);</text>
       </register>
       <register name="-" type="4">
-        <text>ffff</text>
+        <text>uper.dispatchPopulateAccessibilityEvent(event);</text>
       </register>
       <register name="/" type="4">
         <text>AppCompat</text>
@@ -336,32 +338,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dEFwcGVhcmFuY2U9IkBhbmRyb2lkOnN0eWxlL1RleHRBcHBlYXJhbmNlLkxhcmdlIgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBjYW52YXMuZHJhd0NvbG9yKENvbG9yLkJMVUUpOwo=</text>
+      <register name="1" type="4">
+        <text>uper.dispatchPopulateAccessibilityEvent(event);</text>
       </register>
       <register name="2" type="4">
-        <text>ffff</text>
+        <text>s</text>
       </register>
       <register name="3" type="4">
-        <text>f</text>
+        <text>int</text>
       </register>
-      <register name="4" type="4">
-        <text>f</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBjYW52YXMuZHJhd0NvbG9yKENvbG9yLkJMVUUpOwo=</text>
       </register>
       <register name="5" type="4">
-        <text>x</text>
+        <text>ffff</text>
       </register>
       <register name="6" type="4">
-        <text>0</text>
+        <text>f</text>
       </register>
       <register name="7" type="4">
-        <text>&quot;</text>
+        <text>f</text>
       </register>
       <register name="8" type="4">
-        <text>&quot;0xffffff</text>
+        <text>x</text>
       </register>
       <register name="9" type="4">
-        <text>.RED</text>
+        <text>0</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
