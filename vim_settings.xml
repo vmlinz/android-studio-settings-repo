@@ -43,11 +43,10 @@
         <mark key="." line="4" column="52" />
         <mark key="^" line="4" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MyView.java" timestamp="1457671200394">
-        <mark key="[" line="26" column="5" />
-        <mark key="]" line="30" column="7" />
-        <mark key="^" line="30" column="7" />
-        <mark key="." line="30" column="7" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MyView.java" timestamp="1457673357377">
+        <mark key="[" line="35" column="42" />
+        <mark key="]" line="37" column="0" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/local.properties" timestamp="1456561580374">
         <mark key="[" line="12" column="23" />
@@ -338,7 +337,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjIwc3AiCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbkRyYXcoY2FudmFzKTsK</text>
       </register>
       <register name="-" type="4">
         <text>p</text>
@@ -350,31 +349,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dEFwcGVhcmFuY2U9IkBhbmRyb2lkOnN0eWxlL1RleHRBcHBlYXJhbmNlLkxhcmdlIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjIwc3AiCg==</text>
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbkRyYXcoY2FudmFzKTsK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9Ijk2c3AiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9IjIwc3AiCg==</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9Ijk2c3AiCg==</text>
       </register>
-      <register name="4" type="4">
-        <text>p</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dFNpemU9Ijk2c3AiCg==</text>
       </register>
       <register name="5" type="4">
-        <text>s</text>
+        <text>p</text>
       </register>
       <register name="6" type="4">
-        <text>6</text>
+        <text>s</text>
       </register>
       <register name="7" type="4">
-        <text>9</text>
+        <text>6</text>
       </register>
       <register name="8" type="4">
-        <text>&quot;</text>
+        <text>9</text>
       </register>
       <register name="9" type="4">
-        <text>=</text>
+        <text>&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
