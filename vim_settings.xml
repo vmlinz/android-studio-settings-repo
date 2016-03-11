@@ -40,11 +40,11 @@
         <mark key="." line="4" column="52" />
         <mark key="^" line="4" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MyView.java" timestamp="1457679056216">
-        <mark key="[" line="46" column="31" />
-        <mark key="]" line="46" column="31" />
-        <mark key="." line="46" column="31" />
-        <mark key="^" line="46" column="32" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MyView.java" timestamp="1457680564100">
+        <mark key="[" line="48" column="0" />
+        <mark key="]" line="48" column="0" />
+        <mark key="." line="48" column="0" />
+        <mark key="^" line="47" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/local.properties" timestamp="1456561580374">
         <mark key="[" line="12" column="23" />
@@ -219,6 +219,7 @@
         <mark key="." line="37" column="19" />
         <mark key="^" line="44" column="62" />
       </file>
+      <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/android/graphics/Color.class" timestamp="1457680174583" />
     </filemarks>
     <jumps>
       <jump line="153" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
@@ -324,10 +325,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8Y29tLmV4YW1wbGUuc3Vuc2hpbmUuYXBwLk15VmlldwogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIgLz4K</text>
+        <text encoding="base64">ICAgICAgICBjYW52YXMuZHJhd0NvbG9yKENvbG9yLkJMVUUpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>f</text>
+        <text>ffff</text>
       </register>
       <register name="/" type="4">
         <text>AppCompat</text>
@@ -336,31 +337,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dEFwcGVhcmFuY2U9IkBhbmRyb2lkOnN0eWxlL1RleHRBcHBlYXJhbmNlLkxhcmdlIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8Y29tLmV4YW1wbGUuc3Vuc2hpbmUuYXBwLk15VmlldwogICAgICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgICAgICBhbmRyb2lkOmxheW91dF9oZWlnaHQ9IndyYXBfY29udGVudCIgLz4K</text>
+        <text encoding="base64">ICAgICAgICBjYW52YXMuZHJhd0NvbG9yKENvbG9yLkJMVUUpOwo=</text>
       </register>
       <register name="2" type="4">
-        <text>f</text>
+        <text>ffff</text>
       </register>
       <register name="3" type="4">
         <text>f</text>
       </register>
       <register name="4" type="4">
-        <text>0</text>
+        <text>f</text>
       </register>
       <register name="5" type="4">
+        <text>x</text>
+      </register>
+      <register name="6" type="4">
         <text>0</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdXBlci5vbk1lYXN1cmUod2lkdGhNZWFzdXJlU3BlYywgaGVpZ2h0TWVhc3VyZVNwZWMpOwo=</text>
-      </register>
       <register name="7" type="4">
-        <text>)</text>
+        <text>&quot;</text>
       </register>
       <register name="8" type="4">
-        <text>(</text>
+        <text>&quot;0xffffff</text>
       </register>
       <register name="9" type="4">
-        <text>getDesiredHeight</text>
+        <text>.RED</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
