@@ -40,11 +40,11 @@
         <mark key="." line="4" column="52" />
         <mark key="^" line="4" column="52" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MyView.java" timestamp="1457676346073">
-        <mark key="[" line="40" column="45" />
-        <mark key="]" line="40" column="45" />
-        <mark key="." line="40" column="45" />
-        <mark key="^" line="40" column="45" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MyView.java" timestamp="1457678412835">
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="." line="41" column="0" />
+        <mark key="^" line="37" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/local.properties" timestamp="1456561580374">
         <mark key="[" line="12" column="23" />
@@ -90,7 +90,7 @@
         <mark key="]" line="0" column="38" />
         <mark key="." line="0" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/fragment_detail.xml" timestamp="1457675986448">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/fragment_detail.xml" timestamp="1457678279967">
         <mark key="'" line="96" column="0" />
         <mark key="[" line="12" column="39" />
         <mark key="]" line="15" column="50" />
@@ -326,11 +326,11 @@
       <jump line="29" column="75" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/fragment_detail_wide.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>0</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbk1lYXN1cmUod2lkdGhNZWFzdXJlU3BlYywgaGVpZ2h0TWVhc3VyZVNwZWMpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>AppCompat</text>
@@ -338,32 +338,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIGFuZHJvaWQ6dGV4dEFwcGVhcmFuY2U9IkBhbmRyb2lkOnN0eWxlL1RleHRBcHBlYXJhbmNlLkxhcmdlIgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>0</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBzdXBlci5vbk1lYXN1cmUod2lkdGhNZWFzdXJlU3BlYywgaGVpZ2h0TWVhc3VyZVNwZWMpOwo=</text>
       </register>
       <register name="2" type="4">
-        <text>ffffff</text>
-      </register>
-      <register name="3" type="4">
-        <text>new Paint().setColor(0xffffff));</text>
-      </register>
-      <register name="4" type="4">
-        <text>;</text>
-      </register>
-      <register name="5" type="4">
-        <text>&quot;</text>
-      </register>
-      <register name="6" type="4">
-        <text>&quot;</text>
-      </register>
-      <register name="7" type="4">
         <text>)</text>
       </register>
-      <register name="8" type="4">
+      <register name="3" type="4">
         <text>(</text>
       </register>
+      <register name="4" type="4">
+        <text>getDesiredHeight</text>
+      </register>
+      <register name="5" type="4">
+        <text>)</text>
+      </register>
+      <register name="6" type="4">
+        <text>(</text>
+      </register>
+      <register name="7" type="4">
+        <text>getDesiredWidth</text>
+      </register>
+      <register name="8" type="4">
+        <text>0</text>
+      </register>
       <register name="9" type="4">
-        <text>d</text>
+        <text>ffffff</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
