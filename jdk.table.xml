@@ -112,6 +112,7 @@
     <jdk version="2">
       <name value="Android API 23 Platform" />
       <type value="Android SDK" />
+      <version value="java version &quot;1.8.0_74&quot;" />
       <homePath value="/usr/local/opt/android-sdk" />
       <roots>
         <annotationsPath>
