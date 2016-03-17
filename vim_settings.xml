@@ -28,11 +28,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/build.gradle" timestamp="1458222520849">
-        <mark key="[" line="32" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="32" column="0" />
-        <mark key="^" line="31" column="0" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/build.gradle" timestamp="1458225541621">
+        <mark key="'" line="2" column="0" />
+        <mark key="[" line="39" column="54" />
+        <mark key="]" line="42" column="36" />
+        <mark key="." line="42" column="36" />
+        <mark key="^" line="42" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/values/values.xml" timestamp="1457344803201">
         <mark key="'" line="29" column="24" />
@@ -274,10 +275,11 @@
         <mark key="." line="15" column="55" />
         <mark key="^" line="15" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/build.gradle" timestamp="1458212647882">
-        <mark key="]" line="17" column="41" />
-        <mark key="^" line="17" column="41" />
-        <mark key="." line="17" column="41" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/build.gradle" timestamp="1458224952995">
+        <mark key="[" line="8" column="12" />
+        <mark key="]" line="8" column="7" />
+        <mark key="." line="8" column="7" />
+        <mark key="^" line="8" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/AccountAuthenticator.java" timestamp="1458028071314">
         <mark key="[" line="49" column="0" />
@@ -306,7 +308,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="124" column="22" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" />
       <jump line="27" column="11" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" />
       <jump line="157" column="7" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailFragment.java" />
       <jump line="92" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
@@ -406,10 +407,11 @@
       <jump line="56" column="12" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherUtils.java" />
       <jump line="313" column="12" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherUtils.java" />
       <jump line="240" column="4" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
+      <jump line="2" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/build.gradle" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5mYWNlYm9vay5zdGV0aG86c3RldGhvLW9raHR0cDoxLjIuMCcK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
         <text>t</text>
@@ -421,28 +423,28 @@
         <text encoding="base64">ICAgIHRlc3RDb21waWxlICdqdW5pdDpqdW5pdDo0LjEyJwogICAgY29tcGlsZSAnY29tLmFuZHJvaWQuc3VwcG9ydDphcHBjb21wYXQtdjc6MjMuMi4xJwogICAgY29tcGlsZSAnY29tLmFuZHJvaWQuc3VwcG9ydDpkZXNpZ246MjMuMi4xJwogICAgY29tcGlsZSAnY29tLmZhY2Vib29rLnN0ZXRobzpzdGV0aG86MS4yLjAnCiAgICBjb21waWxlICdjb20uZmFjZWJvb2suc3RldGhvOnN0ZXRoby1va2h0dHA6MS4yLjAnCiAgICBjb21waWxlICdjb20uYW5kcm9pZC5zdXBwb3J0OnN1cHBvcnQtdjQ6MjMuMi4xJwogICAgY29tcGlsZSAnY29tLmdpdGh1Yi5vcmhhbm9idXQ6bG9nZ2VyOjEuMTInCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5mYWNlYm9vay5zdGV0aG86c3RldGhvLW9raHR0cDoxLjIuMCcK</text>
+        <text encoding="base64">ICAgICAgICB9Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5mYWNlYm9vay5zdGV0aG86c3RldGhvOjEuMi4wJwo=</text>
+        <text encoding="base64">ICAgICAgICBkZXBlbmRlbmNpZXMgewogICAgICAgICAgICAvLyBvdGhlciBjbGFzc3BhdGggZGVmaW5pdGlvbnMgaGVyZQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5mYWNlYm9vay5zdGV0aG86c3RldGhvLW9raHR0cDoxLjIuMCcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5mYWNlYm9vay5zdGV0aG86c3RldGhvOjEuMi4wJwo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5naXRodWIuYnVtcHRlY2guZ2xpZGU6Z2xpZGU6My43LjAnCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6c3VwcG9ydC12NDoyMy4yLjEnCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6c3VwcG9ydC12NDoyMy4yLjEnCg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5naXRodWIuYnVtcHRlY2guZ2xpZGU6Z2xpZGU6My43LjAnCgo=</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5hbmRyb2lkLnN1cHBvcnQ6c3VwcG9ydC12NDoyMy4yLjEnCg==</text>
