@@ -127,11 +127,11 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MovieService.java" timestamp="1458284343664">
-        <mark key="[" line="28" column="23" />
-        <mark key="]" line="28" column="23" />
-        <mark key="." line="28" column="23" />
-        <mark key="^" line="28" column="23" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MovieService.java" timestamp="1458285279640">
+        <mark key="[" line="37" column="0" />
+        <mark key="]" line="37" column="0" />
+        <mark key="^" line="36" column="15" />
+        <mark key="." line="37" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/build.gradle" timestamp="1458210985392" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build.gradle" timestamp="1458211721824">
@@ -284,11 +284,11 @@
         <mark key="." line="143" column="47" />
         <mark key="^" line="143" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieListActivity.java" timestamp="1458284120383">
-        <mark key="[" line="85" column="10" />
-        <mark key="]" line="85" column="9" />
-        <mark key="^" line="85" column="9" />
-        <mark key="." line="85" column="9" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieListActivity.java" timestamp="1458284652044">
+        <mark key="[" line="79" column="23" />
+        <mark key="]" line="79" column="31" />
+        <mark key="^" line="79" column="31" />
+        <mark key="." line="79" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/local.properties" timestamp="1458282294915">
         <mark key="[" line="12" column="2" />
@@ -474,10 +474,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>add</text>
+        <text>TAG</text>
       </register>
       <register name="-" type="4">
-        <text>add</text>
+        <text>TAG</text>
       </register>
       <register name="/" type="4">
         <text>key</text>
@@ -486,31 +486,31 @@
         <text>me.zaicheng.app.popularmovies.data.model;</text>
       </register>
       <register name="1" type="4">
-        <text>add</text>
+        <text>TAG</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text>Logger</text>
       </register>
-      <register name="3" type="4">
-        <text>)</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBtb3ZpZXNSZXNwb25zZUNhbGwuZW5xdWV1ZSgpOwo=</text>
       </register>
       <register name="4" type="4">
-        <text>(</text>
+        <text>.getPopularMovies</text>
       </register>
       <register name="5" type="4">
-        <text>s</text>
+        <text>movieService</text>
       </register>
-      <register name="6" type="4">
-        <text>r</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>o</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIEBHRVQoIm1vdmllL3tpZH0iKQogICAgdm9pZCBnZXRNb3ZpZUJ5SWQoQ2FsbGJhY2s8TW92aWU+IHJlc3VsdCwgQFBhdGgoImlkIikgbG9uZyBpZCk7Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>?</text>
       </register>
-      <register name="9" type="4">
-        <text>p</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
