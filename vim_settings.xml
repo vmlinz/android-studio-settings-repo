@@ -23,12 +23,13 @@
         <mark key="^" line="12" column="57" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/build.gradle" timestamp="1458279019834">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/build.gradle" timestamp="1458282408262">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="49" column="0" />
-        <mark key="]" line="49" column="0" />
-        <mark key="^" line="49" column="38" />
-        <mark key="." line="49" column="0" />
+        <mark key="i" line="24" column="12" />
+        <mark key="[" line="25" column="39" />
+        <mark key="]" line="25" column="50" />
+        <mark key="." line="25" column="50" />
+        <mark key="^" line="25" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/values/values.xml" timestamp="1457344803201">
         <mark key="'" line="29" column="24" />
@@ -123,11 +124,11 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MovieService.java" timestamp="1458279839006">
-        <mark key="[" line="18" column="30" />
-        <mark key="]" line="18" column="30" />
-        <mark key="." line="18" column="30" />
-        <mark key="^" line="18" column="30" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MovieService.java" timestamp="1458282463575">
+        <mark key="[" line="54" column="58" />
+        <mark key="]" line="55" column="81" />
+        <mark key="." line="55" column="81" />
+        <mark key="^" line="55" column="81" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/build.gradle" timestamp="1458210985392" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build.gradle" timestamp="1458211721824">
@@ -279,6 +280,12 @@
         <mark key="]" line="143" column="47" />
         <mark key="." line="143" column="47" />
         <mark key="^" line="143" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/local.properties" timestamp="1458282294915">
+        <mark key="[" line="12" column="2" />
+        <mark key="]" line="12" column="5" />
+        <mark key="." line="12" column="5" />
+        <mark key="^" line="12" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/xml/syncadapter.xml" timestamp="1458027728516">
         <mark key="[" line="0" column="38" />
@@ -455,10 +462,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>key</text>
@@ -467,31 +474,31 @@
         <text>me.zaicheng.app.popularmovies.data.model;</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="2" type="4">
-        <text>o</text>
+        <text>&quot;</text>
       </register>
       <register name="3" type="4">
-        <text>t</text>
+        <text>OPEN_WEATHER_MAP_API_KEY</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>myOpenWeatherMapApiKey</text>
       </register>
       <register name="5" type="4">
-        <text>Function</text>
+        <text>myOpenWeatherMapApiKey</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Ly8gZXhwbGljaXRseSBkZXBlbmQgb24gUnhKYXZhJ3MgbGF0ZXN0IHZlcnNpb24gZm9yIGJ1ZyBmaXhlcyBhbmQgbmV3IGZlYXR1cmVzLgo=</text>
+        <text encoding="base64">ICAgIE9QRU5fV0VBVEhFUl9NQVBfQVBJX0tFWQo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Ly8gQmVjYXVzZSBSeEFuZHJvaWQgcmVsZWFzZXMgYXJlIGZldyBhbmQgZmFyIGJldHdlZW4sIGl0IGlzIHJlY29tbWVuZGVkIHlvdSBhbHNvCg==</text>
+      <register name="7" type="4">
+        <text>p</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEBHRVQoKQo=</text>
+      <register name="8" type="4">
+        <text>a</text>
       </register>
       <register name="9" type="4">
-        <text>Object</text>
+        <text>M</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
