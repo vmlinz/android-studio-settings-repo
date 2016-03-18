@@ -23,13 +23,13 @@
         <mark key="^" line="12" column="57" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/build.gradle" timestamp="1458282408262">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/build.gradle" timestamp="1458292677740">
         <mark key="'" line="2" column="0" />
         <mark key="i" line="24" column="12" />
-        <mark key="[" line="25" column="39" />
-        <mark key="]" line="25" column="50" />
-        <mark key="." line="25" column="50" />
-        <mark key="^" line="25" column="50" />
+        <mark key="[" line="56" column="4" />
+        <mark key="]" line="56" column="11" />
+        <mark key="." line="56" column="11" />
+        <mark key="^" line="56" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/values/values.xml" timestamp="1457344803201">
         <mark key="'" line="29" column="24" />
@@ -127,7 +127,7 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MovieService.java" timestamp="1458285279640">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MovieService.java" timestamp="1458292882221">
         <mark key="[" line="37" column="0" />
         <mark key="]" line="37" column="0" />
         <mark key="^" line="36" column="15" />
@@ -284,7 +284,7 @@
         <mark key="." line="143" column="47" />
         <mark key="^" line="143" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieListActivity.java" timestamp="1458284652044">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieListActivity.java" timestamp="1458292839596">
         <mark key="[" line="79" column="23" />
         <mark key="]" line="79" column="31" />
         <mark key="^" line="79" column="31" />
