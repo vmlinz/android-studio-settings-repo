@@ -28,12 +28,12 @@
         <mark key="]" line="9" column="0" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/build.gradle" timestamp="1458226743945">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/build.gradle" timestamp="1458275091263">
         <mark key="'" line="2" column="0" />
-        <mark key="[" line="39" column="54" />
-        <mark key="]" line="42" column="36" />
-        <mark key="." line="42" column="36" />
-        <mark key="^" line="42" column="36" />
+        <mark key="[" line="44" column="45" />
+        <mark key="]" line="45" column="51" />
+        <mark key="." line="45" column="51" />
+        <mark key="^" line="45" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/values/values.xml" timestamp="1457344803201">
         <mark key="'" line="29" column="24" />
@@ -156,11 +156,11 @@
         <mark key="." line="28" column="22" />
         <mark key="^" line="28" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" timestamp="1458272740116">
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-        <mark key="^" line="24" column="17" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" timestamp="1458275136412">
+        <mark key="[" line="2" column="38" />
+        <mark key="]" line="2" column="38" />
+        <mark key="." line="2" column="38" />
+        <mark key="^" line="2" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailFragment.java" timestamp="1458110770241">
         <mark key="'" line="214" column="63" />
@@ -461,7 +461,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5hcGFjaGUuY29tbW9uczpjb21tb25zLWxhbmczOjMuMy4yJwo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IFBhYnJjZWxhYmxl</text>
@@ -469,35 +469,35 @@
       <register name="/" type="4">
         <text>key</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHRlc3RDb21waWxlICdqdW5pdDpqdW5pdDo0LjEyJwogICAgY29tcGlsZSAnY29tLmFuZHJvaWQuc3VwcG9ydDphcHBjb21wYXQtdjc6MjMuMi4xJwogICAgY29tcGlsZSAnY29tLmFuZHJvaWQuc3VwcG9ydDpkZXNpZ246MjMuMi4xJwogICAgY29tcGlsZSAnY29tLmZhY2Vib29rLnN0ZXRobzpzdGV0aG86MS4yLjAnCiAgICBjb21waWxlICdjb20uZmFjZWJvb2suc3RldGhvOnN0ZXRoby1va2h0dHA6MS4yLjAnCiAgICBjb21waWxlICdjb20uYW5kcm9pZC5zdXBwb3J0OnN1cHBvcnQtdjQ6MjMuMi4xJwogICAgY29tcGlsZSAnY29tLmdpdGh1Yi5vcmhhbm9idXQ6bG9nZ2VyOjEuMTInCg==</text>
+      <register name="0" type="4">
+        <text>me.zaicheng.app.popularmovies.data.model;</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ29yZy5hcGFjaGUuY29tbW9uczpjb21tb25zLWxhbmczOjMuMy4yJwo=</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text encoding="base64">IFBhYnJjZWxhYmxl</text>
-      </register>
-      <register name="3" type="4">
-        <text>implements</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">LS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS1tZS56YWljaGVuZy5hcHAucG9wdWxhcm1vdmllcy5kYXRhLm1vZGVsLk1vdmllLmphdmEtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="4">
+        <text encoding="base64">IFBhYnJjZWxhYmxl</text>
+      </register>
+      <register name="8" type="4">
+        <text>implements</text>
+      </register>
+      <register name="9" type="2">
         <text encoding="base64">ICAgIGsK</text>
-      </register>
-      <register name="5" type="4">
-        <text>class</text>
-      </register>
-      <register name="6" type="4">
-        <text>class</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEJ1cyBwcm92aWRlRXZlbnRCdXMoKSB7CiAgICAgICAgcmV0dXJuIG5ldyBCdXMoKTsKICAgIH0KICAgIAogICAgCg==</text>
-      </register>
-      <register name="9" type="4">
-        <text>class</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
