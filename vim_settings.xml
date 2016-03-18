@@ -38,6 +38,9 @@
         <mark key="^" line="55" column="3" />
         <mark key="." line="55" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/AndroidManifest.xml" timestamp="1458283266522">
+        <mark key="[" line="4" column="65" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/values/styles.xml" timestamp="1457435232935">
         <mark key="[" line="6" column="65" />
         <mark key="]" line="6" column="68" />
@@ -124,11 +127,11 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MovieService.java" timestamp="1458282463575">
-        <mark key="[" line="54" column="58" />
-        <mark key="]" line="55" column="81" />
-        <mark key="." line="55" column="81" />
-        <mark key="^" line="55" column="81" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MovieService.java" timestamp="1458284343664">
+        <mark key="[" line="28" column="23" />
+        <mark key="]" line="28" column="23" />
+        <mark key="." line="28" column="23" />
+        <mark key="^" line="28" column="23" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/build.gradle" timestamp="1458210985392" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build.gradle" timestamp="1458211721824">
@@ -209,11 +212,11 @@
         <mark key="." line="15" column="0" />
         <mark key="^" line="15" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/component/ActivityComponent.java" timestamp="1458227600865">
-        <mark key="[" line="13" column="52" />
-        <mark key="]" line="13" column="52" />
-        <mark key="^" line="13" column="52" />
-        <mark key="." line="13" column="52" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/component/ActivityComponent.java" timestamp="1458283217528">
+        <mark key="[" line="11" column="72" />
+        <mark key="]" line="12" column="77" />
+        <mark key="^" line="12" column="77" />
+        <mark key="." line="12" column="77" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/fragment_detail.xml" timestamp="1457675986448">
         <mark key="'" line="96" column="0" />
@@ -280,6 +283,12 @@
         <mark key="]" line="143" column="47" />
         <mark key="." line="143" column="47" />
         <mark key="^" line="143" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieListActivity.java" timestamp="1458284120383">
+        <mark key="[" line="85" column="10" />
+        <mark key="]" line="85" column="9" />
+        <mark key="^" line="85" column="9" />
+        <mark key="." line="85" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/local.properties" timestamp="1458282294915">
         <mark key="[" line="12" column="2" />
@@ -356,6 +365,9 @@
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="6" column="45" />
+      </file>
+      <file name="/fragment.java" timestamp="1458282886198">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -462,10 +474,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>add</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>add</text>
       </register>
       <register name="/" type="4">
         <text>key</text>
@@ -474,31 +486,31 @@
         <text>me.zaicheng.app.popularmovies.data.model;</text>
       </register>
       <register name="1" type="4">
-        <text>&quot;</text>
+        <text>add</text>
       </register>
       <register name="2" type="4">
-        <text>&quot;</text>
+        <text>.</text>
       </register>
       <register name="3" type="4">
-        <text>OPEN_WEATHER_MAP_API_KEY</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text>myOpenWeatherMapApiKey</text>
+        <text>(</text>
       </register>
       <register name="5" type="4">
-        <text>myOpenWeatherMapApiKey</text>
+        <text>s</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIE9QRU5fV0VBVEhFUl9NQVBfQVBJX0tFWQo=</text>
+      <register name="6" type="4">
+        <text>r</text>
       </register>
       <register name="7" type="4">
-        <text>p</text>
+        <text>o</text>
       </register>
       <register name="8" type="4">
-        <text>a</text>
+        <text>t</text>
       </register>
       <register name="9" type="4">
-        <text>M</text>
+        <text>p</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
