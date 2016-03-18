@@ -3,33 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForcastAdapter.java" timestamp="1457273629126">
-        <mark key="'" line="67" column="8" />
-        <mark key="[" line="21" column="14" />
-        <mark key="]" line="68" column="56" />
-        <mark key="." line="68" column="56" />
-        <mark key="^" line="68" column="56" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast_today.xml" timestamp="1457448486132">
-        <mark key="'" line="22" column="0" />
-        <mark key="[" line="4" column="24" />
-        <mark key="]" line="4" column="52" />
-        <mark key="." line="4" column="52" />
-        <mark key="^" line="4" column="52" />
-      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/xml/pref_notification.xml" timestamp="1458106210099">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="12" column="57" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/build.gradle" timestamp="1458292677740">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/menu/menu_detail.xml" timestamp="1458110734478">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="0" />
+        <mark key="." line="9" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/build.gradle" timestamp="1458313868787">
         <mark key="'" line="2" column="0" />
         <mark key="i" line="24" column="12" />
-        <mark key="[" line="56" column="4" />
-        <mark key="]" line="56" column="11" />
-        <mark key="." line="56" column="11" />
-        <mark key="^" line="56" column="11" />
+        <mark key="[" line="29" column="32" />
+        <mark key="]" line="29" column="32" />
+        <mark key="." line="29" column="32" />
+        <mark key="^" line="29" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieDetailActivity.java" timestamp="1458298053937">
         <mark key="[" line="57" column="76" />
@@ -37,42 +28,22 @@
         <mark key="." line="57" column="78" />
         <mark key="^" line="57" column="78" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build/intermediates/exploded-aar/com.android.support/design/23.2.0/res/values/values.xml" timestamp="1457344803201">
-        <mark key="'" line="29" column="24" />
-        <mark key="[" line="54" column="4" />
-        <mark key="]" line="55" column="3" />
-        <mark key="^" line="55" column="3" />
-        <mark key="." line="55" column="3" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/menu/menu_main.xml" timestamp="1458110458036">
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/AndroidManifest.xml" timestamp="1458283266522">
-        <mark key="[" line="4" column="65" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/AndroidManifest.xml" timestamp="1458314699991">
+        <mark key="[" line="6" column="16" />
+        <mark key="]" line="7" column="38" />
+        <mark key="^" line="7" column="38" />
+        <mark key="." line="7" column="38" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/values/styles.xml" timestamp="1457435232935">
         <mark key="[" line="6" column="65" />
         <mark key="]" line="6" column="68" />
         <mark key="." line="6" column="68" />
         <mark key="^" line="6" column="68" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/SyncService.java" timestamp="1458031458901">
-        <mark key="'" line="14" column="71" />
-        <mark key="[" line="15" column="43" />
-        <mark key="]" line="15" column="49" />
-        <mark key="." line="15" column="49" />
-        <mark key="^" line="15" column="49" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/Utility.java" timestamp="1458038898646">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="16" column="20" />
-        <mark key="]" line="16" column="17" />
-        <mark key="." line="16" column="17" />
-        <mark key="^" line="16" column="17" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/data/TestProvider.java" timestamp="1456634663559">
-        <mark key="'" line="522" column="0" />
-        <mark key="[" line="16" column="0" />
-        <mark key="]" line="16" column="0" />
-        <mark key="^" line="16" column="0" />
-        <mark key="." line="16" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherTask.java" timestamp="1458041397342">
         <mark key="[" line="41" column="0" />
@@ -81,32 +52,11 @@
         <mark key="." line="41" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/dummy/DummyContent.java" timestamp="1458271581655" />
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1458110788651">
-        <mark key="'" line="241" column="4" />
-        <mark key="[" line="159" column="45" />
-        <mark key="]" line="159" column="53" />
-        <mark key="^" line="159" column="53" />
-        <mark key="." line="159" column="53" />
-      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/content_detail.xml" timestamp="1457344850834">
         <mark key="[" line="6" column="64" />
         <mark key="]" line="6" column="63" />
         <mark key="." line="6" column="63" />
         <mark key="^" line="6" column="63" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/AppCompatPreferenceActivity.java" timestamp="1457854196362">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="64" column="5" />
-        <mark key="]" line="64" column="4" />
-        <mark key="." line="64" column="4" />
-        <mark key="^" line="64" column="4" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/fragment_detail_wide.xml" timestamp="1457491194291">
-        <mark key="'" line="29" column="75" />
-        <mark key="[" line="95" column="76" />
-        <mark key="]" line="96" column="51" />
-        <mark key="." line="96" column="51" />
-        <mark key="^" line="96" column="51" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/values/colors.xml" timestamp="1457435219744">
         <mark key="[" line="6" column="37" />
@@ -119,6 +69,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="19" column="58" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" timestamp="1458106672169">
+        <mark key="[" line="225" column="0" />
+        <mark key="]" line="225" column="0" />
+        <mark key="." line="225" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/ProductionCompany.java" timestamp="1458277054345" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/Utils.java" timestamp="1458107929521">
@@ -133,11 +88,11 @@
         <mark key="." line="12" column="33" />
         <mark key="^" line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MovieService.java" timestamp="1458298438337">
-        <mark key="[" line="70" column="75" />
-        <mark key="]" line="72" column="75" />
-        <mark key="^" line="72" column="75" />
-        <mark key="." line="72" column="75" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MovieService.java" timestamp="1458313735522">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="^" line="71" column="82" />
+        <mark key="." line="72" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/build.gradle" timestamp="1458210985392" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build.gradle" timestamp="1458211721824">
@@ -158,17 +113,12 @@
         <mark key="." line="28" column="22" />
         <mark key="^" line="28" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" timestamp="1458312933145">
-        <mark key="[" line="62" column="0" />
-        <mark key="]" line="62" column="0" />
-        <mark key="." line="62" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailFragment.java" timestamp="1458110770241">
-        <mark key="'" line="214" column="63" />
-        <mark key="[" line="106" column="43" />
-        <mark key="]" line="106" column="43" />
-        <mark key="." line="106" column="43" />
-        <mark key="^" line="106" column="43" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" timestamp="1458314528861">
+        <mark key="'" line="290" column="15" />
+        <mark key="[" line="23" column="36" />
+        <mark key="]" line="23" column="36" />
+        <mark key="." line="23" column="36" />
+        <mark key="^" line="23" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/xml/touch_selector.xml" timestamp="1457273431061">
         <mark key="[" line="0" column="0" />
@@ -194,6 +144,11 @@
         <mark key="." line="29" column="54" />
         <mark key="^" line="29" column="54" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/menu/menu_detailfragment.xml" timestamp="1458110650494">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MyView.java" timestamp="1457676346073">
         <mark key="[" line="40" column="45" />
         <mark key="]" line="40" column="45" />
@@ -212,6 +167,18 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="11" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/local/MovieDatabase.java" timestamp="1458314133874">
+        <mark key="[" line="9" column="45" />
+        <mark key="]" line="9" column="45" />
+        <mark key="." line="9" column="45" />
+        <mark key="^" line="9" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieApplication.java" timestamp="1458314681940">
+        <mark key="[" line="12" column="25" />
+        <mark key="]" line="13" column="28" />
+        <mark key="^" line="13" column="28" />
+        <mark key="." line="13" column="28" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/PerActivity.java" timestamp="1458227037337">
         <mark key="[" line="14" column="1" />
         <mark key="]" line="15" column="0" />
@@ -223,13 +190,6 @@
         <mark key="]" line="12" column="77" />
         <mark key="^" line="12" column="77" />
         <mark key="." line="12" column="77" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/fragment_detail.xml" timestamp="1457675986448">
-        <mark key="'" line="96" column="0" />
-        <mark key="[" line="12" column="39" />
-        <mark key="]" line="15" column="50" />
-        <mark key="^" line="15" column="50" />
-        <mark key="." line="15" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/values-sw600dp/layouts.xml" timestamp="1457491088447">
         <mark key="[" line="2" column="0" />
@@ -243,25 +203,10 @@
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherDbHelper.java" timestamp="1458029429109">
-        <mark key="'" line="27" column="13" />
-        <mark key="[" line="30" column="48" />
-        <mark key="]" line="30" column="48" />
-        <mark key="^" line="30" column="48" />
-        <mark key="." line="30" column="48" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherUtils.java" timestamp="1458109153089">
-        <mark key="'" line="313" column="12" />
-        <mark key="[" line="328" column="8" />
-        <mark key="]" line="328" column="11" />
-        <mark key="^" line="328" column="11" />
-        <mark key="." line="328" column="11" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieDetailFragment.java" timestamp="1458305137011">
-        <mark key="[" line="53" column="37" />
-        <mark key="]" line="53" column="44" />
-        <mark key="^" line="53" column="44" />
-        <mark key="." line="53" column="44" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieDetailFragment.java" timestamp="1458316031399">
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/services/FetchWeatherService.java" timestamp="1458039389001">
         <mark key="[" line="52" column="16" />
@@ -269,39 +214,18 @@
         <mark key="^" line="53" column="28" />
         <mark key="." line="53" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/values/strings.xml" timestamp="1458109661818">
-        <mark key="'" line="100" column="18" />
-        <mark key="[" line="100" column="70" />
-        <mark key="]" line="108" column="12" />
-        <mark key="^" line="108" column="12" />
-        <mark key="." line="108" column="12" />
-      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout-sw600dp/content_main.xml" timestamp="1457490165397">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="24" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherService.java" timestamp="1457772192243">
-        <mark key="'" line="35" column="0" />
-        <mark key="[" line="49" column="17" />
-        <mark key="]" line="49" column="40" />
-        <mark key="^" line="49" column="40" />
-        <mark key="." line="49" column="40" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/SyncAdapter.java" timestamp="1458106067573">
-        <mark key="'" line="0" column="0" />
-        <mark key="[" line="142" column="0" />
-        <mark key="]" line="143" column="47" />
-        <mark key="." line="143" column="47" />
-        <mark key="^" line="143" column="47" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieListActivity.java" timestamp="1458298033139">
-        <mark key="'" line="36" column="76" />
-        <mark key="[" line="134" column="95" />
-        <mark key="]" line="134" column="94" />
-        <mark key="." line="134" column="94" />
-        <mark key="^" line="134" column="94" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieListActivity.java" timestamp="1458315706634">
+        <mark key="'" line="38" column="76" />
+        <mark key="[" line="126" column="64" />
+        <mark key="]" line="126" column="78" />
+        <mark key="." line="126" column="78" />
+        <mark key="^" line="126" column="78" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/local.properties" timestamp="1458282294915">
         <mark key="[" line="12" column="2" />
@@ -315,7 +239,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MoviesResponse.java" timestamp="1458294514783">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MoviesResponse.java" timestamp="1458315068097">
         <mark key="'" line="48" column="20" />
         <mark key="[" line="55" column="32" />
         <mark key="]" line="55" column="36" />
@@ -347,25 +271,11 @@
         <mark key="." line="49" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Genre.java" timestamp="1458277129547" />
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/module/ActivityModule.java" timestamp="1458227287969">
-        <mark key="'" line="0" column="19" />
-        <mark key="[" line="29" column="24" />
-        <mark key="]" line="29" column="24" />
-        <mark key="^" line="29" column="24" />
-        <mark key="." line="29" column="24" />
-      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/component/ApplicationComponent.java" timestamp="1458227750027">
         <mark key="[" line="18" column="29" />
         <mark key="]" line="18" column="29" />
         <mark key="^" line="18" column="29" />
         <mark key="." line="18" column="29" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" timestamp="1458111820755">
-        <mark key="'" line="49" column="19" />
-        <mark key="[" line="88" column="50" />
-        <mark key="]" line="88" column="58" />
-        <mark key="." line="88" column="58" />
-        <mark key="^" line="88" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout-sw600dp/activity_main.xml" timestamp="1457430331144">
         <mark key="[" line="37" column="19" />
@@ -384,21 +294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="21" column="27" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" />
-      <jump line="58" column="12" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" />
-      <jump line="113" column="40" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
-      <jump line="190" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
-      <jump line="114" column="15" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
-      <jump line="181" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
-      <jump line="189" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
-      <jump line="108" column="29" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" />
-      <jump line="23" column="4" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" />
-      <jump line="168" column="12" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailFragment.java" />
-      <jump line="226" column="12" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailFragment.java" />
-      <jump line="74" column="16" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailFragment.java" />
-      <jump line="130" column="19" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailFragment.java" />
-      <jump line="132" column="25" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailFragment.java" />
       <jump line="222" column="18" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailFragment.java" />
       <jump line="225" column="63" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailFragment.java" />
       <jump line="115" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
@@ -484,55 +379,70 @@
       <jump line="68" column="8" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieListActivity.java" />
       <jump line="115" column="17" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieListActivity.java" />
       <jump line="36" column="76" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieListActivity.java" />
+      <jump line="32" column="25" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
+      <jump line="89" column="10" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
+      <jump line="379" column="15" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
+      <jump line="376" column="15" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
+      <jump line="43" column="14" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
+      <jump line="53" column="30" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
+      <jump line="68" column="42" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
+      <jump line="1" column="31" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
+      <jump line="64" column="19" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
+      <jump line="331" column="14" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
+      <jump line="326" column="15" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
+      <jump line="323" column="15" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
+      <jump line="62" column="30" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
+      <jump line="98" column="31" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
+      <jump line="289" column="15" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgT2JzZXJ2YWJsZTxNb3ZpZT4gCg==</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>getOverview</text>
       </register>
       <register name="/" type="4">
-        <text>setup</text>
+        <text>overview</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBmaW5hbCBNb3ZpZVNlcnZpY2UgbW92aWVTZXJ2aWNlID0gTW92aWVTZXJ2aWNlLkNyZWF0b3IubmV3TW92aWVTZXJ2aWNlKCk7CiAgICAgICAgT2JzZXJ2YWJsZTxNb3ZpZT4gbW92aWVzT2JzZXJ2YWJsZSA9IG1vdmllU2VydmljZS5nZXRNb3ZpZU9ic2VydmFibGVCeUlkKG1vdmllSWQpOwo=</text>
       </register>
-      <register name="1" type="4">
-        <text>.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgT2JzZXJ2YWJsZTxNb3ZpZT4gCg==</text>
       </register>
       <register name="2" type="4">
-        <text>)</text>
+        <text>getOverview</text>
       </register>
       <register name="3" type="4">
-        <text>(</text>
+        <text>)</text>
       </register>
       <register name="4" type="4">
-        <text>getExtras</text>
+        <text>(</text>
       </register>
       <register name="5" type="4">
-        <text>get</text>
+        <text>getOriginalTitle</text>
       </register>
       <register name="6" type="4">
-        <text>Extra</text>
+        <text>)</text>
       </register>
       <register name="7" type="4">
-        <text>g</text>
+        <text>(</text>
       </register>
       <register name="8" type="4">
-        <text>n</text>
+        <text>.getResults</text>
       </register>
       <register name="9" type="4">
-        <text>o</text>
+        <text>moviesResponse</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>setup</last-search>
+      <last-search>overview</last-search>
       <last-offset />
-      <last-pattern>setup</last-pattern>
+      <last-pattern>overview</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>mContext</last-substitute>
       <last-dir>1</last-dir>
@@ -540,12 +450,6 @@
     </search>
     <history>
       <history-search>
-        <entry>buildWe</entry>
-        <entry>mTextView</entry>
-        <entry>src</entry>
-        <entry>mLocation</entry>
-        <entry>onRe</entry>
-        <entry>updateWe</entry>
         <entry>mUri</entry>
         <entry>move</entry>
         <entry>mList</entry>
@@ -560,6 +464,12 @@
         <entry>Log</entry>
         <entry>key</entry>
         <entry>setup</entry>
+        <entry>release</entry>
+        <entry>title</entry>
+        <entry>movie</entry>
+        <entry>poster</entry>
+        <entry>vote</entry>
+        <entry>overview</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
