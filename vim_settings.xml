@@ -10,6 +10,12 @@
         <mark key="." line="68" column="56" />
         <mark key="^" line="68" column="56" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/local/PopularMovies.java" timestamp="1458406145555">
+        <mark key="[" line="9" column="37" />
+        <mark key="]" line="9" column="36" />
+        <mark key="^" line="9" column="36" />
+        <mark key="." line="9" column="36" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast_today.xml" timestamp="1457448486132">
         <mark key="'" line="22" column="0" />
         <mark key="[" line="4" column="24" />
@@ -157,12 +163,11 @@
         <mark key="." line="28" column="22" />
         <mark key="^" line="28" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" timestamp="1458405441675">
-        <mark key="'" line="7" column="25" />
-        <mark key="[" line="24" column="0" />
-        <mark key="]" line="24" column="0" />
-        <mark key="^" line="33" column="14" />
-        <mark key="." line="24" column="0" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" timestamp="1458405977980">
+        <mark key="[" line="18" column="36" />
+        <mark key="]" line="18" column="36" />
+        <mark key="^" line="18" column="36" />
+        <mark key="." line="18" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailFragment.java" timestamp="1458110770241">
         <mark key="'" line="214" column="63" />
@@ -388,13 +393,14 @@
         <mark key="." line="37" column="19" />
         <mark key="^" line="44" column="62" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow/3.0.0-beta5/b2797e3f30d55097d89af3249b5155c4b6c9fe86/dbflow-3.0.0-beta5-sources.jar!/com/raizlabs/android/dbflow/runtime/transaction/process/SaveModelTransaction.java" timestamp="1458406220659" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/menu/menu_forecastfragment.xml" timestamp="1458110448347">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="." line="8" column="0" />
         <mark key="^" line="6" column="45" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow-core/3.0.0-beta5/41e9a63342385efdcf1f5347bac52f2b5fc2744b/dbflow-core-3.0.0-beta5-sources.jar!/com/raizlabs/android/dbflow/annotation/Table.java" timestamp="1458394618980" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow-core/3.0.0-beta5/41e9a63342385efdcf1f5347bac52f2b5fc2744b/dbflow-core-3.0.0-beta5-sources.jar!/com/raizlabs/android/dbflow/annotation/Table.java" timestamp="1458405898348" />
     </filemarks>
     <jumps>
       <jump line="22" column="42" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MainActivity.java" />
@@ -500,10 +506,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>getPopularMoviesObservable</text>
+        <text>BaseModel</text>
       </register>
       <register name="-" type="4">
-        <text>getPopularMoviesObservable</text>
+        <text>BaseModel</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
@@ -512,31 +518,31 @@
         <text encoding="base64">ICAgICAgICBmaW5hbCBNb3ZpZVNlcnZpY2UgbW92aWVTZXJ2aWNlID0gTW92aWVTZXJ2aWNlLkNyZWF0b3IubmV3TW92aWVTZXJ2aWNlKCk7CiAgICAgICAgT2JzZXJ2YWJsZTxNb3ZpZT4gbW92aWVzT2JzZXJ2YWJsZSA9IG1vdmllU2VydmljZS5nZXRNb3ZpZU9ic2VydmFibGVCeUlkKG1vdmllSWQpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>getPopularMoviesObservable</text>
+        <text>BaseModel</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJpZCIpCiAgICBAUHJpbWFyeUtleShhdXRvaW5jcmVtZW50ID0gdHJ1ZSkKICAgIHB1YmxpYyBsb25nIF9pZDsK</text>
+      <register name="2" type="4">
+        <text>,</text>
       </register>
       <register name="3" type="4">
-        <text>PrimaryKey</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text>Unique</text>
+        <text>d</text>
       </register>
       <register name="5" type="4">
-        <text>getTopRatedMoviesObservable</text>
+        <text>= {Movie}, inheritedPrimaryKeys = Movie.class)</text>
       </register>
       <register name="6" type="4">
-        <text>id</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>id</text>
+        <text>inheritedColumns</text>
       </register>
       <register name="8" type="4">
-        <text>id</text>
+        <text>Movie</text>
       </register>
       <register name="9" type="4">
-        <text>id</text>
+        <text>NAME</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
