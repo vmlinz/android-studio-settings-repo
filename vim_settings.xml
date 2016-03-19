@@ -98,7 +98,7 @@
         <mark key="." line="28" column="22" />
         <mark key="^" line="28" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" timestamp="1458377374109">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" timestamp="1458379818045">
         <mark key="'" line="290" column="15" />
         <mark key="[" line="23" column="36" />
         <mark key="]" line="23" column="36" />
@@ -123,6 +123,7 @@
         <mark key="." line="6" column="68" />
         <mark key="^" line="6" column="68" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow/3.0.0-beta5/b2797e3f30d55097d89af3249b5155c4b6c9fe86/dbflow-3.0.0-beta5-sources.jar!/com/raizlabs/android/dbflow/sql/language/Select.java" timestamp="1458379526512" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastAdapter.java" timestamp="1457345011945">
         <mark key="[" line="20" column="20" />
         <mark key="]" line="29" column="54" />
@@ -220,7 +221,7 @@
         <mark key="^" line="1" column="0" />
         <mark key="." line="1" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MoviesResponse.java" timestamp="1458377401724">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MoviesResponse.java" timestamp="1458378981661">
         <mark key="'" line="48" column="20" />
         <mark key="[" line="55" column="32" />
         <mark key="]" line="55" column="36" />
@@ -270,6 +271,7 @@
         <mark key="." line="8" column="0" />
         <mark key="^" line="6" column="45" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow-core/3.0.0-beta5/41e9a63342385efdcf1f5347bac52f2b5fc2744b/dbflow-core-3.0.0-beta5-sources.jar!/com/raizlabs/android/dbflow/annotation/Table.java" timestamp="1458379074267" />
       <file name="/fragment.java" timestamp="1458295860920">
         <mark key="[" line="0" column="0" />
       </file>
