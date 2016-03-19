@@ -278,11 +278,11 @@
         <mark key="^" line="328" column="11" />
         <mark key="." line="328" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieDetailFragment.java" timestamp="1458400896854">
-        <mark key="[" line="105" column="96" />
-        <mark key="]" line="105" column="103" />
-        <mark key="." line="105" column="103" />
-        <mark key="^" line="105" column="103" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieDetailFragment.java" timestamp="1458403191836">
+        <mark key="[" line="78" column="91" />
+        <mark key="]" line="78" column="97" />
+        <mark key="." line="78" column="97" />
+        <mark key="^" line="78" column="97" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/services/FetchWeatherService.java" timestamp="1458039389001">
         <mark key="[" line="52" column="16" />
@@ -317,12 +317,12 @@
         <mark key="." line="143" column="47" />
         <mark key="^" line="143" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieListActivity.java" timestamp="1458402718105">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieListActivity.java" timestamp="1458403683238">
         <mark key="'" line="38" column="76" />
-        <mark key="[" line="101" column="91" />
-        <mark key="]" line="101" column="91" />
-        <mark key="." line="101" column="91" />
-        <mark key="^" line="101" column="91" />
+        <mark key="[" line="78" column="75" />
+        <mark key="]" line="78" column="103" />
+        <mark key="." line="78" column="103" />
+        <mark key="^" line="78" column="103" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/local.properties" timestamp="1458282294915">
         <mark key="[" line="12" column="2" />
@@ -388,7 +388,6 @@
         <mark key="." line="88" column="58" />
         <mark key="^" line="88" column="58" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/build/generated/source/apt/debug/com/raizlabs/android/dbflow/config/GeneratedDatabaseHolder.java" timestamp="1458397805838" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout-sw600dp/activity_main.xml" timestamp="1457430331144">
         <mark key="[" line="37" column="19" />
         <mark key="]" line="37" column="19" />
@@ -510,10 +509,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>getPopularMoviesObservable</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>getPopularMoviesObservable</text>
       </register>
       <register name="/" type="4">
         <text>overview</text>
@@ -522,31 +521,31 @@
         <text encoding="base64">ICAgICAgICBmaW5hbCBNb3ZpZVNlcnZpY2UgbW92aWVTZXJ2aWNlID0gTW92aWVTZXJ2aWNlLkNyZWF0b3IubmV3TW92aWVTZXJ2aWNlKCk7CiAgICAgICAgT2JzZXJ2YWJsZTxNb3ZpZT4gbW92aWVzT2JzZXJ2YWJsZSA9IG1vdmllU2VydmljZS5nZXRNb3ZpZU9ic2VydmFibGVCeUlkKG1vdmllSWQpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>getPopularMoviesObservable</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">PA==</text>
+        <text>d</text>
       </register>
       <register name="3" type="4">
-        <text>Movie</text>
+        <text>i</text>
       </register>
       <register name="4" type="4">
-        <text>)</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="5" type="4">
-        <text>(</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name="6" type="4">
-        <text>getResults</text>
+        <text>Movie</text>
       </register>
       <register name="7" type="4">
-        <text>remote</text>
+        <text>)</text>
       </register>
       <register name="8" type="4">
-        <text>remote</text>
+        <text>(</text>
       </register>
       <register name="9" type="4">
-        <text>model</text>
+        <text>getResults</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
