@@ -16,11 +16,11 @@
         <mark key="^" line="7" column="25" />
         <mark key="." line="7" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/local/PopularMovie.java" timestamp="1458453853983">
-        <mark key="[" line="31" column="29" />
-        <mark key="]" line="32" column="31" />
-        <mark key="^" line="32" column="31" />
-        <mark key="." line="32" column="31" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/local/PopularMovie.java" timestamp="1458457431923">
+        <mark key="[" line="68" column="39" />
+        <mark key="]" line="68" column="50" />
+        <mark key="^" line="68" column="50" />
+        <mark key="." line="68" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/list_item_forecast_today.xml" timestamp="1457448486132">
         <mark key="'" line="22" column="0" />
@@ -131,6 +131,7 @@
         <mark key="^" line="19" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/ProductionCompany.java" timestamp="1458277054345" />
+      <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/java/util/ArrayList.class" timestamp="1458454927080" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/Utils.java" timestamp="1458107929521">
         <mark key="[" line="44" column="4" />
         <mark key="]" line="44" column="10" />
@@ -290,6 +291,13 @@
         <mark key="." line="78" column="97" />
         <mark key="^" line="78" column="97" />
       </file>
+      <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/java/util/List.class" timestamp="1458454948177" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/local/TopRatedMovie.java" timestamp="1458457362417">
+        <mark key="[" line="69" column="0" />
+        <mark key="]" line="69" column="83" />
+        <mark key="." line="68" column="7" />
+        <mark key="^" line="68" column="7" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/services/FetchWeatherService.java" timestamp="1458039389001">
         <mark key="[" line="52" column="16" />
         <mark key="]" line="53" column="28" />
@@ -323,13 +331,7 @@
         <mark key="." line="143" column="47" />
         <mark key="^" line="143" column="47" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieListActivity.java" timestamp="1458405485315">
-        <mark key="'" line="38" column="76" />
-        <mark key="[" line="78" column="75" />
-        <mark key="]" line="78" column="103" />
-        <mark key="." line="78" column="103" />
-        <mark key="^" line="78" column="103" />
-      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieListActivity.java" timestamp="1458457124875" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/local.properties" timestamp="1458282294915">
         <mark key="[" line="12" column="2" />
         <mark key="]" line="12" column="5" />
@@ -512,44 +514,44 @@
       <jump line="54" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>colomn</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBNb3ZpZVNlcnZpY2UgbW92aWVTZXJ2aWNlID0gTW92aWVTZXJ2aWNlLkNyZWF0b3IubmV3TW92aWVTZXJ2aWNlKCk7CiAgICAgICAgT2JzZXJ2YWJsZTxNb3ZpZT4gbW92aWVzT2JzZXJ2YWJsZSA9IG1vdmllU2VydmljZS5nZXRNb3ZpZU9ic2VydmFibGVCeUlkKG1vdmllSWQpOwo=</text>
+        <text encoding="base64">ICAgICAgICBMb2cuZCgiVEFHIiwgbmV3IFNlbGVjdCgpLmZyb20oVG9wUmF0ZWRNb3ZpZS5jbGFzcykucXVlcnlMaXN0KCkudG9TdHJpbmcoKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>)</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBsb25nIHZvdGVDb3VudDsK</text>
+      <register name="2" type="4">
+        <text>(</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIHZpZGVvOwo=</text>
+      <register name="3" type="4">
+        <text>query</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBDb2x1bW4obmFtZSA9ICJ2b3RlX2F2ZXJhZ2UiKQo=</text>
+      <register name="4" type="4">
+        <text>Movie</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgb3JpZ2luYWxMYW5ndWFnZTsKICAgIHB1YmxpYyBTdHJpbmcgb3JpZ2luYWxUaXRsZTsK</text>
+      <register name="5" type="4">
+        <text>Movie</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGFkdWx0OwogICAgcHVibGljIFN0cmluZyBiYWNrZHJvcFBhdGg7CiAgICBwdWJsaWMgTGlzdDxMb25nPiBnZW5yZUlkcyA9IG5ldyBBcnJheUxpc3Q8TG9uZz4oKTsK</text>
+      <register name="6" type="4">
+        <text>TopRatedMovie</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBTdHJpbmcgb3ZlcnZpZXc7Cg==</text>
+        <text encoding="base64">ICAgICAgICBbXQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBsb25nIGlkOwogICAgcHVibGljIFN0cmluZyBvcmlnaW5hbExhbmd1YWdlOwogICAgcHVibGljIFN0cmluZyBvcmlnaW5hbFRpdGxlOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgTG9nLmQoIlRBRyIsIG5ldyBTZWxlY3QoKS5mcm9tKFRvcFJhdGVkTW92aWUuY2xhc3MpLnF1ZXJ5TGlzdCgpLnRvU3RyaW5nKCkpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBib29sZWFuIGFkdWx0OwogICAgcHVibGljIFN0cmluZyBiYWNrZHJvcFBhdGg7CiAgICBwdWJsaWMgTGlzdDxMb25nPiBnZW5yZUlkcyA9IG5ldyBBcnJheUxpc3Q8TG9uZz4oKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
