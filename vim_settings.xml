@@ -194,7 +194,7 @@
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieDetailFragment.java" timestamp="1458545531608">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieDetailFragment.java" timestamp="1458545673106">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
         <mark key="^" line="75" column="76" />
@@ -219,11 +219,8 @@
         <mark key="." line="21" column="0" />
         <mark key="^" line="24" column="44" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieListActivity.java" timestamp="1458472705593">
-        <mark key="[" line="145" column="67" />
-        <mark key="]" line="145" column="73" />
-        <mark key="." line="145" column="73" />
-        <mark key="^" line="145" column="73" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieListActivity.java" timestamp="1458546592503">
+        <mark key="[" line="80" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/local.properties" timestamp="1458282294915">
         <mark key="[" line="12" column="2" />
