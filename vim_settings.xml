@@ -155,10 +155,11 @@
         <mark key="^" line="53" column="28" />
         <mark key="." line="53" column="28" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieListActivity.java" timestamp="1458641495497">
-        <mark key="[" line="101" column="0" />
-        <mark key="]" line="101" column="0" />
-        <mark key="." line="101" column="0" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieListActivity.java" timestamp="1458643077629">
+        <mark key="[" line="105" column="0" />
+        <mark key="]" line="106" column="43" />
+        <mark key="." line="106" column="43" />
+        <mark key="^" line="106" column="43" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow/3.0.0-beta5/b2797e3f30d55097d89af3249b5155c4b6c9fe86/dbflow-3.0.0-beta5-sources.jar!/com/raizlabs/android/dbflow/runtime/transaction/process/ProcessModelInfo.java" timestamp="1458557965961" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/local.properties" timestamp="1458282294915">
@@ -397,11 +398,11 @@
       <jump line="94" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>(new DeleteModelListTransaction().processModel(Movie.class))</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
@@ -409,17 +410,17 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBMb2cuZCgiVEFHIiwgbmV3IFNlbGVjdCgpLmZyb20oVG9wUmF0ZWRNb3ZpZS5jbGFzcykucXVlcnlMaXN0KCkudG9TdHJpbmcoKSk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
+      <register name="1" type="4">
+        <text>.</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVHJhbnNhY3Rpb25NYW5hZ2VyLmdldEluc3RhbmNlKCkuYWRkVHJhbnNhY3Rpb24pOwo=</text>
+      <register name="2" type="4">
+        <text>)</text>
       </register>
       <register name="3" type="4">
-        <text>(new DeleteModelListTransaction().processModel(Movie.class))</text>
+        <text>(</text>
       </register>
       <register name="4" type="4">
-        <text>;</text>
+        <text>where</text>
       </register>
       <register name="5" type="4">
         <text>.class</text>
@@ -427,11 +428,11 @@
       <register name="6" type="4">
         <text>Movie</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbmV3IERlbGV0ZSgpLmZyb20oTW92aWUuY2xhc3MpLmV4ZWN1dGUoKTsK</text>
+      <register name="7" type="4">
+        <text>Movie</text>
       </register>
       <register name="8" type="4">
-        <text>getTopRatedMoviesObservable</text>
+        <text>)</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgCg==</text>
