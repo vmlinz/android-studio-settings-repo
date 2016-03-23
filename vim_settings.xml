@@ -15,23 +15,25 @@
         <mark key="^" line="68" column="50" />
         <mark key="." line="68" column="50" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow/3.0.0-beta5/b2797e3f30d55097d89af3249b5155c4b6c9fe86/dbflow-3.0.0-beta5-sources.jar!/com/raizlabs/android/dbflow/runtime/transaction/TransactionListenerAdapter.java" timestamp="1458728481289" />
+      <file name="/a.dummy" timestamp="1458744903551">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/xml/pref_notification.xml" timestamp="1458106210099">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
         <mark key="^" line="12" column="57" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/build.gradle" timestamp="1458742147802">
-        <mark key="[" line="60" column="0" />
-        <mark key="]" line="60" column="0" />
-        <mark key="." line="60" column="0" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/build.gradle" timestamp="1458747105987">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/base/BaseActivity.java" timestamp="1458743717010">
-        <mark key="[" line="45" column="37" />
-        <mark key="]" line="45" column="37" />
-        <mark key="." line="45" column="37" />
-        <mark key="^" line="45" column="37" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/base/BaseActivity.java" timestamp="1458747199734">
+        <mark key="[" line="11" column="50" />
+        <mark key="]" line="11" column="72" />
+        <mark key="." line="11" column="72" />
+        <mark key="^" line="11" column="72" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieDetailActivity.java" timestamp="1458298053937">
         <mark key="[" line="57" column="76" />
@@ -39,7 +41,6 @@
         <mark key="^" line="57" column="78" />
         <mark key="." line="57" column="78" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow/3.0.0-beta5/b2797e3f30d55097d89af3249b5155c4b6c9fe86/dbflow-3.0.0-beta5-sources.jar!/com/raizlabs/android/dbflow/runtime/DBTransactionQueue.java" timestamp="1458728503172" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/AndroidManifest.xml" timestamp="1458314699991">
         <mark key="[" line="6" column="16" />
         <mark key="]" line="7" column="38" />
@@ -58,11 +59,22 @@
         <mark key="^" line="41" column="40" />
         <mark key="." line="41" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesPresenter.java" timestamp="1458745512318">
+        <mark key="[" line="29" column="23" />
+        <mark key="]" line="29" column="23" />
+        <mark key="^" line="29" column="23" />
+        <mark key="." line="29" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/content_detail.xml" timestamp="1457344850834">
         <mark key="[" line="6" column="64" />
         <mark key="]" line="6" column="63" />
         <mark key="^" line="6" column="63" />
         <mark key="." line="6" column="63" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1458747505147">
+        <mark key="[" line="46" column="0" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/activity_main.xml" timestamp="1457433695630">
         <mark key="[" line="21" column="0" />
@@ -118,14 +130,13 @@
         <mark key="^" line="40" column="34" />
         <mark key="." line="40" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/DataManager.java" timestamp="1458741685174">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/DataManager.java" timestamp="1458744407763">
         <mark key="[" line="60" column="20" />
         <mark key="]" line="60" column="47" />
         <mark key="^" line="60" column="47" />
         <mark key="." line="60" column="47" />
         <mark key="o" line="20" column="22" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow/3.0.0-beta5/b2797e3f30d55097d89af3249b5155c4b6c9fe86/dbflow-3.0.0-beta5-sources.jar!/com/raizlabs/android/dbflow/runtime/transaction/BaseTransaction.java" timestamp="1458734546273" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/xml/touch_selector.xml" timestamp="1457273431061">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="15" column="14" />
@@ -144,14 +155,12 @@
         <mark key="^" line="6" column="68" />
         <mark key="." line="6" column="68" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow/3.0.0-beta5/b2797e3f30d55097d89af3249b5155c4b6c9fe86/dbflow-3.0.0-beta5-sources.jar!/com/raizlabs/android/dbflow/sql/language/Select.java" timestamp="1458734091115" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastAdapter.java" timestamp="1457345011945">
         <mark key="[" line="20" column="20" />
         <mark key="]" line="29" column="54" />
         <mark key="^" line="29" column="54" />
         <mark key="." line="29" column="54" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow/3.0.0-beta5/b2797e3f30d55097d89af3249b5155c4b6c9fe86/dbflow-3.0.0-beta5-sources.jar!/com/raizlabs/android/dbflow/runtime/TransactionManager.java" timestamp="1458728530389" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/MyView.java" timestamp="1457676346073">
         <mark key="[" line="40" column="45" />
         <mark key="]" line="40" column="45" />
@@ -182,7 +191,7 @@
         <mark key="." line="33" column="21" />
         <mark key="^" line="33" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieApplication.java" timestamp="1458742850334">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieApplication.java" timestamp="1458744394279">
         <mark key="[" line="50" column="33" />
         <mark key="]" line="50" column="65" />
         <mark key="." line="50" column="65" />
@@ -206,15 +215,23 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow/3.0.0-beta5/b2797e3f30d55097d89af3249b5155c4b6c9fe86/dbflow-3.0.0-beta5-sources.jar!/com/raizlabs/android/dbflow/runtime/FlowContentObserver.java" timestamp="1458729142825" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/Authenticator.java" timestamp="1458025825276">
         <mark key="[" line="12" column="13" />
         <mark key="]" line="18" column="7" />
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
       </file>
-      <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/java/util/concurrent/PriorityBlockingQueue.class" timestamp="1458728166600" />
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow/3.0.0-beta5/b2797e3f30d55097d89af3249b5155c4b6c9fe86/dbflow-3.0.0-beta5-sources.jar!/com/raizlabs/android/dbflow/structure/database/DatabaseWrapper.java" timestamp="1458729765968" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesView.java" timestamp="1458745312764">
+        <mark key="[" line="7" column="7" />
+        <mark key="]" line="7" column="15" />
+        <mark key="^" line="7" column="15" />
+        <mark key="." line="7" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MovieListActivity.java" timestamp="1458745083729">
+        <mark key="[" line="39" column="35" />
+        <mark key="]" line="39" column="35" />
+        <mark key="." line="39" column="35" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/local/TopRatedMovie.java" timestamp="1458457362417">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="83" />
@@ -239,7 +256,6 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow/3.0.0-beta5/b2797e3f30d55097d89af3249b5155c4b6c9fe86/dbflow-3.0.0-beta5-sources.jar!/com/raizlabs/android/dbflow/runtime/DBTransactionInfo.java" timestamp="1458734554959" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieListActivity.java" timestamp="1458741792025">
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
@@ -287,14 +303,12 @@
         <mark key="^" line="12" column="33" />
         <mark key="." line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow/3.0.0-beta5/b2797e3f30d55097d89af3249b5155c4b6c9fe86/dbflow-3.0.0-beta5-sources.jar!/com/raizlabs/android/dbflow/runtime/transaction/QueryTransaction.java" timestamp="1458728866132" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/AccountAuthenticator.java" timestamp="1458028071314">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="50" />
         <mark key="^" line="44" column="49" />
         <mark key="." line="49" column="0" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow/3.0.0-beta5/b2797e3f30d55097d89af3249b5155c4b6c9fe86/dbflow-3.0.0-beta5-sources.jar!/com/raizlabs/android/dbflow/runtime/transaction/TransactionListener.java" timestamp="1458728731602" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/base/Presenter.java" timestamp="1458743828500">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="21" />
@@ -313,12 +327,14 @@
         <mark key="^" line="44" column="62" />
         <mark key="." line="37" column="19" />
       </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow/3.0.0-beta5/b2797e3f30d55097d89af3249b5155c4b6c9fe86/dbflow-3.0.0-beta5-sources.jar!/com/raizlabs/android/dbflow/sql/queriable/ModelLoader.java" timestamp="1458729760281" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/menu/menu_forecastfragment.xml" timestamp="1458110448347">
         <mark key="[" line="8" column="0" />
         <mark key="]" line="8" column="0" />
         <mark key="^" line="6" column="45" />
         <mark key="." line="8" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1458745211725">
+        <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
@@ -424,44 +440,44 @@
       <jump line="94" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Throwable</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>Throwable</text>
+        <text>ActivityComponent</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBUYXJnZXRBcGkoQnVpbGQuVkVSU0lPTl9DT0RFUy5NKQogICAgcHVibGljIHZvaWQgcmVxdWVzdFBlcm1pc3Npb25TYWZlbHkoU3RyaW5nW10gcGVybWlzc2lvbnMsIGludCByZXF1ZXN0Q29kZSkgewogICAgICAgIGlmIChCdWlsZC5WRVJTSU9OLlNES19JTlQgPj0gQnVpbGQuVkVSU0lPTl9DT0RFUy5NKSB7CiAgICAgICAgICAgIHJlcXVlc3RQZXJtaXNzaW9ucyhwZXJtaXNzaW9ucywgcmVxdWVzdENvZGUpOwogICAgICAgIH0KICAgIH0K</text>
+        <text encoding="base64">aW1wb3J0IG1lLnphaWNoZW5nLmFwcC5wb3B1bGFybW92aWVzLmRpLmNvbXBvbmVudC5BY3Rpdml0eUNvbXBvbmVudDsK</text>
       </register>
-      <register name="1" type="4">
-        <text>Throwable</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>private</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIEBCaW5kKFIuaWQubW92aWVfbGlzdCkgUmVjeWNsZXJWaWV3IG1SZWN5Y2xlclZpZXc7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIEBJbmplY3QKICAgIE1vdmllc1ByZXNlbnRlciBtTW92aWVzUHJlc2VudGVyOwogICAgQEluamVjdAogICAgTW92aWVzQWRhcHRlciBtTW92aWVzQWRhcHRlcjsKCg==</text>
       </register>
       <register name="4" type="4">
-        <text>t</text>
+        <text>ActivityComponent</text>
       </register>
-      <register name="5" type="4">
-        <text>class</text>
+      <register name="5" type="2">
+        <text encoding="base64">aW1wb3J0IG1lLnphaWNoZW5nLmFwcC5wb3B1bGFybW92aWVzLmRpLmNvbXBvbmVudC5EYTsK</text>
       </register>
       <register name="6" type="4">
-        <text>class</text>
+        <text>.</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="7" type="4">
+        <text>DaggerActivityComponent</text>
       </register>
-      <register name="8" type="4">
-        <text>=</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBnZXRBY3Rpdml0eQo=</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>Dagger.builder()</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
