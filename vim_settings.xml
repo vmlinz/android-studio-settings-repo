@@ -101,18 +101,18 @@
         <mark key="^" line="63" column="60" />
         <mark key="." line="63" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/module/ApplicationModule.java" timestamp="1458727527146">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/module/ApplicationModule.java" timestamp="1458740470305">
         <mark key="[" line="40" column="15" />
         <mark key="]" line="40" column="34" />
         <mark key="^" line="40" column="34" />
         <mark key="." line="40" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/DataManager.java" timestamp="1458738782795">
-        <mark key="[" line="58" column="26" />
-        <mark key="]" line="58" column="26" />
-        <mark key="." line="58" column="26" />
-        <mark key="^" line="58" column="26" />
-        <mark key="o" line="27" column="22" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/DataManager.java" timestamp="1458740772482">
+        <mark key="[" line="84" column="46" />
+        <mark key="]" line="84" column="45" />
+        <mark key="." line="84" column="45" />
+        <mark key="^" line="84" column="45" />
+        <mark key="o" line="20" column="22" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow/3.0.0-beta5/b2797e3f30d55097d89af3249b5155c4b6c9fe86/dbflow-3.0.0-beta5-sources.jar!/com/raizlabs/android/dbflow/runtime/transaction/BaseTransaction.java" timestamp="1458734546273" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/xml/touch_selector.xml" timestamp="1457273431061">
@@ -198,7 +198,7 @@
       </file>
       <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/java/util/concurrent/PriorityBlockingQueue.class" timestamp="1458728166600" />
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow/3.0.0-beta5/b2797e3f30d55097d89af3249b5155c4b6c9fe86/dbflow-3.0.0-beta5-sources.jar!/com/raizlabs/android/dbflow/structure/database/DatabaseWrapper.java" timestamp="1458729765968" />
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieDetailFragment.java" timestamp="1458545673106">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieDetailFragment.java" timestamp="1458740573141">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="0" />
         <mark key="^" line="75" column="76" />
@@ -251,6 +251,12 @@
         <mark key="]" line="15" column="55" />
         <mark key="^" line="15" column="55" />
         <mark key="." line="15" column="55" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/BusEvent.java" timestamp="1458740400626">
+        <mark key="[" line="6" column="33" />
+        <mark key="]" line="6" column="32" />
+        <mark key="^" line="6" column="32" />
+        <mark key="." line="6" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/build.gradle" timestamp="1458224952995">
         <mark key="[" line="8" column="12" />
@@ -395,44 +401,44 @@
       <jump line="94" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICAgICAgU1FMaXRlLmRlbGV0ZSgpLmZyb20oTW92aWUuY2xhc3MpLnF1ZXJ5KCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Synced</text>
       </register>
       <register name="-" type="4">
-        <text>table</text>
+        <text>Synced</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVHJhbnNhY3Rpb25NYW5hZ2VyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmdldEluc3RhbmNlKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuYWRkVHJhbnNhY3Rpb24obmV3IFNhdmVNb2RlbFRyYW5zYWN0aW9uKFByb2Nlc3NNb2RlbEluZm8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoTW9kZWxzKG1vdmllc1Jlc3BvbnNlLnJlc3VsdHMpKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBTUUxpdGUuZGVsZXRlKCkuZnJvbShNb3ZpZS5jbGFzcyk7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">CiAgICAgICAgU1FMaXRlLmRlbGV0ZSgpLmZyb20oTW92aWUuY2xhc3MpLnF1ZXJ5KCk7Cg==</text>
+      <register name="1" type="4">
+        <text>Synced</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBTUUxpdGUuaW5zZXJ0KE1vdmllLmNsYXNzKS5jb2x1bW5WYWx1ZXMoKQo=</text>
+      <register name="2" type="4">
+        <text>saved</text>
       </register>
       <register name="3" type="4">
-        <text>table</text>
+        <text>synced</text>
       </register>
-      <register name="4" type="4">
-        <text>)</text>
+      <register name="4" type="2">
+        <text encoding="base64">CiAgICBwdWJsaWMgc3RhdGljIGNsYXNzIFVzZXJTaWduZWRPdXQgewogICAgfQo=</text>
       </register>
-      <register name="5" type="4">
-        <text>.</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>.</text>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text>(Movie.class)</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgY2xhc3MgQXV0aGVudGljYXRpb25FcnJvciB7CiAgICB9Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>table</text>
+        <text>BeaconsSyncCompleted</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBEYXRhTWFuYWdlciBkbSA9IG5ldyBEYXRhTWFuYWdlcigpOwo=</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
