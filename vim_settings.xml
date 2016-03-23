@@ -107,11 +107,12 @@
         <mark key="^" line="40" column="34" />
         <mark key="." line="40" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/DataManager.java" timestamp="1458730658241">
-        <mark key="[" line="48" column="0" />
-        <mark key="]" line="48" column="0" />
-        <mark key="." line="48" column="0" />
-        <mark key="o" line="33" column="22" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/DataManager.java" timestamp="1458731652035">
+        <mark key="[" line="61" column="0" />
+        <mark key="]" line="61" column="0" />
+        <mark key="." line="61" column="0" />
+        <mark key="^" line="70" column="14" />
+        <mark key="o" line="35" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" timestamp="1458724933988">
         <mark key="'" line="94" column="0" />
@@ -227,9 +228,9 @@
         <mark key="^" line="24" column="44" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieListActivity.java" timestamp="1458730776573">
-        <mark key="[" line="104" column="74" />
-        <mark key="]" line="104" column="73" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieListActivity.java" timestamp="1458732100169">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="110" column="77" />
         <mark key="^" line="104" column="73" />
         <mark key="." line="104" column="73" />
       </file>
@@ -401,43 +402,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGRlbGV0ZSBvbGQgZGF0YQo=</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>void</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBMb2cuZCgiVEFHIiwgbmV3IFNlbGVjdCgpLmZyb20oVG9wUmF0ZWRNb3ZpZS5jbGFzcykucXVlcnlMaXN0KCkudG9TdHJpbmcoKSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVHJhbnNhY3Rpb25NYW5hZ2VyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmdldEluc3RhbmNlKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuYWRkVHJhbnNhY3Rpb24obmV3IFNhdmVNb2RlbFRyYW5zYWN0aW9uKFByb2Nlc3NNb2RlbEluZm8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoTW9kZWxzKG1vdmllc1Jlc3BvbnNlLnJlc3VsdHMpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGRlbGV0ZSBvbGQgZGF0YQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIGdldCBtb3ZpZSBkZXRhaWxzCiAgICBAR0VUKCJtb3ZpZS97aWR9IikKICAgIENhbGw8TW92aWU+IGdldE1vdmllQnlJZChAUGF0aCgiaWQiKSBsb25nIGlkKTsKCiAgICBAR0VUKCJtb3ZpZS97aWR9IikKICAgIE9ic2VydmFibGU8TW92aWU+IGdldE1vdmllT2JzZXJ2YWJsZUJ5SWQoQFBhdGgoImlkIikgbG9uZyBpZCk7Cg==</text>
-      </register>
-      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIEBHRVQoIm1vdmllL3BvcHVsYXIiKQogICAgQ2FsbDxNb3ZpZXNSZXNwb25zZT4gZ2V0UG9wdWxhck1vdmllcygpOwo=</text>
+      <register name="3" type="4">
+        <text>void</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBHRVQoIm1vdmllL3RvcF9yYXRlZCIpCiAgICBDYWxsPE1vdmllc1Jlc3BvbnNlPiBnZXRUb3BSYXRlZE1vdmllcygpOwoK</text>
+      <register name="4" type="4">
+        <text>.results</text>
+      </register>
+      <register name="5" type="4">
+        <text>moviesResponse</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBqYXZhLnV0aWwuTGlzdDsK</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>concatMabp</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
