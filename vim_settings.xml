@@ -107,11 +107,12 @@
         <mark key="^" line="40" column="34" />
         <mark key="." line="40" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/DataManager.java" timestamp="1458734752817">
-        <mark key="[" line="83" column="0" />
-        <mark key="]" line="83" column="0" />
-        <mark key="." line="83" column="0" />
-        <mark key="o" line="31" column="22" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/DataManager.java" timestamp="1458736503689">
+        <mark key="[" line="54" column="18" />
+        <mark key="]" line="54" column="17" />
+        <mark key="^" line="54" column="17" />
+        <mark key="." line="54" column="17" />
+        <mark key="o" line="27" column="22" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow/3.0.0-beta5/b2797e3f30d55097d89af3249b5155c4b6c9fe86/dbflow-3.0.0-beta5-sources.jar!/com/raizlabs/android/dbflow/runtime/transaction/BaseTransaction.java" timestamp="1458734546273" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/xml/touch_selector.xml" timestamp="1457273431061">
@@ -222,6 +223,11 @@
         <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow/3.0.0-beta5/b2797e3f30d55097d89af3249b5155c4b6c9fe86/dbflow-3.0.0-beta5-sources.jar!/com/raizlabs/android/dbflow/runtime/DBTransactionInfo.java" timestamp="1458734554959" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieListActivity.java" timestamp="1458735877069">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/local.properties" timestamp="1458282294915">
         <mark key="[" line="12" column="2" />
         <mark key="]" line="12" column="5" />
@@ -390,10 +396,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBNb3ZpZVNlcnZpY2UgbW92aWVTZXJ2aWNlID0gTW92aWVTZXJ2aWNlLkNyZWF0b3IubmV3TW92aWVTZXJ2aWNlKCk7CiAgICAgICAgT2JzZXJ2YWJsZTxNb3ZpZXNSZXNwb25zZT4gbW92aWVzUmVzcG9uc2VPYnNlcnZhYmxlID0gbW92aWVTZXJ2aWNlLmdldFBvcHVsYXJNb3ZpZXNPYnNlcnZhYmxlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBEYXRhTWFuYWdlciBkbSA9IG5ldyBEYXRhTWFuYWdlcigpOwo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">PE1vdmllPigp</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
@@ -402,31 +408,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVHJhbnNhY3Rpb25NYW5hZ2VyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmdldEluc3RhbmNlKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuYWRkVHJhbnNhY3Rpb24obmV3IFNhdmVNb2RlbFRyYW5zYWN0aW9uKFByb2Nlc3NNb2RlbEluZm8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoTW9kZWxzKG1vdmllc1Jlc3BvbnNlLnJlc3VsdHMpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBmaW5hbCBNb3ZpZVNlcnZpY2UgbW92aWVTZXJ2aWNlID0gTW92aWVTZXJ2aWNlLkNyZWF0b3IubmV3TW92aWVTZXJ2aWNlKCk7CiAgICAgICAgT2JzZXJ2YWJsZTxNb3ZpZXNSZXNwb25zZT4gbW92aWVzUmVzcG9uc2VPYnNlcnZhYmxlID0gbW92aWVTZXJ2aWNlLmdldFBvcHVsYXJNb3ZpZXNPYnNlcnZhYmxlKCk7Cg==</text>
+        <text encoding="base64">ICAgICAgICBEYXRhTWFuYWdlciBkbSA9IG5ldyBEYXRhTWFuYWdlcigpOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIHJldHVybiBudWxsOwogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBJbnNlcnQ8TW92aWU+KE1vdmllLmNsYXNzKS5zZWxlY3QoTW92aWUpCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbW92aWVzLm1hcChuZXcgRnVuYzE8TGlzdDxNb3ZpZT4sIFZvaWQ+KCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHVibGljIFZvaWQgY2FsbChMaXN0PE1vdmllPiBtb3ZpZXMpIHsK</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBJbnNlcnQ8TW92aWU+KCkK</text>
+      <register name="4" type="4">
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">PE1vdmllPigp</text>
+        <text encoding="base64">PA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBTYXZlCg==</text>
+      <register name="6" type="4">
+        <text>Observable</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IGlk</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="8" type="4">
-        <text>long</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="9" type="4">
-        <text>ById</text>
+        <text>d</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
