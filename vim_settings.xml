@@ -107,21 +107,13 @@
         <mark key="^" line="40" column="34" />
         <mark key="." line="40" column="34" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/DataManager.java" timestamp="1458733461671">
-        <mark key="[" line="76" column="67" />
-        <mark key="]" line="76" column="66" />
-        <mark key="." line="76" column="66" />
-        <mark key="^" line="76" column="66" />
-        <mark key="o" line="35" column="22" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/DataManager.java" timestamp="1458734752817">
+        <mark key="[" line="83" column="0" />
+        <mark key="]" line="83" column="0" />
+        <mark key="." line="83" column="0" />
+        <mark key="o" line="31" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" timestamp="1458724933988">
-        <mark key="'" line="94" column="0" />
-        <mark key="[" line="21" column="19" />
-        <mark key="]" line="22" column="36" />
-        <mark key="^" line="22" column="36" />
-        <mark key="." line="22" column="36" />
-      </file>
-      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow/3.0.0-beta5/b2797e3f30d55097d89af3249b5155c4b6c9fe86/dbflow-3.0.0-beta5-sources.jar!/com/raizlabs/android/dbflow/runtime/transaction/BaseTransaction.java" timestamp="1458728542632" />
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow/3.0.0-beta5/b2797e3f30d55097d89af3249b5155c4b6c9fe86/dbflow-3.0.0-beta5-sources.jar!/com/raizlabs/android/dbflow/runtime/transaction/BaseTransaction.java" timestamp="1458734546273" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/xml/touch_selector.xml" timestamp="1457273431061">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="15" column="14" />
@@ -140,6 +132,7 @@
         <mark key="^" line="6" column="68" />
         <mark key="." line="6" column="68" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow/3.0.0-beta5/b2797e3f30d55097d89af3249b5155c4b6c9fe86/dbflow-3.0.0-beta5-sources.jar!/com/raizlabs/android/dbflow/sql/language/Select.java" timestamp="1458734091115" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastAdapter.java" timestamp="1457345011945">
         <mark key="[" line="20" column="20" />
         <mark key="]" line="29" column="54" />
@@ -228,12 +221,7 @@
         <mark key="^" line="24" column="44" />
         <mark key="." line="21" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieListActivity.java" timestamp="1458733034204">
-        <mark key="[" line="107" column="0" />
-        <mark key="]" line="110" column="77" />
-        <mark key="^" line="104" column="73" />
-        <mark key="." line="104" column="73" />
-      </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.Raizlabs.DBFlow/dbflow/3.0.0-beta5/b2797e3f30d55097d89af3249b5155c4b6c9fe86/dbflow-3.0.0-beta5-sources.jar!/com/raizlabs/android/dbflow/runtime/DBTransactionInfo.java" timestamp="1458734554959" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/local.properties" timestamp="1458282294915">
         <mark key="[" line="12" column="2" />
         <mark key="]" line="12" column="5" />
@@ -402,10 +390,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBNb3ZpZVNlcnZpY2UgbW92aWVTZXJ2aWNlID0gTW92aWVTZXJ2aWNlLkNyZWF0b3IubmV3TW92aWVTZXJ2aWNlKCk7CiAgICAgICAgT2JzZXJ2YWJsZTxNb3ZpZXNSZXNwb25zZT4gbW92aWVzUmVzcG9uc2VPYnNlcnZhYmxlID0gbW92aWVTZXJ2aWNlLmdldFBvcHVsYXJNb3ZpZXNPYnNlcnZhYmxlKCk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>sav</text>
+        <text encoding="base64">PE1vdmllPigp</text>
       </register>
       <register name="/" type="4">
         <text>id</text>
@@ -414,31 +402,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgVHJhbnNhY3Rpb25NYW5hZ2VyCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgLmdldEluc3RhbmNlKCkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuYWRkVHJhbnNhY3Rpb24obmV3IFNhdmVNb2RlbFRyYW5zYWN0aW9uKFByb2Nlc3NNb2RlbEluZm8KICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIC53aXRoTW9kZWxzKG1vdmllc1Jlc3BvbnNlLnJlc3VsdHMpKSk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgCg==</text>
+        <text encoding="base64">ICAgICAgICBmaW5hbCBNb3ZpZVNlcnZpY2UgbW92aWVTZXJ2aWNlID0gTW92aWVTZXJ2aWNlLkNyZWF0b3IubmV3TW92aWVTZXJ2aWNlKCk7CiAgICAgICAgT2JzZXJ2YWJsZTxNb3ZpZXNSZXNwb25zZT4gbW92aWVzUmVzcG9uc2VPYnNlcnZhYmxlID0gbW92aWVTZXJ2aWNlLmdldFBvcHVsYXJNb3ZpZXNPYnNlcnZhYmxlKCk7Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>sav</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC8vIGRlbGV0ZSBvbGQgZGF0YQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBJbnNlcnQ8TW92aWU+KE1vdmllLmNsYXNzKS5zZWxlY3QoTW92aWUpCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBJbnNlcnQ8TW92aWU+KCkK</text>
       </register>
       <register name="5" type="4">
-        <text>void</text>
+        <text encoding="base64">PE1vdmllPigp</text>
       </register>
-      <register name="6" type="4">
-        <text>.results</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIG5ldyBTYXZlCg==</text>
       </register>
       <register name="7" type="4">
-        <text>moviesResponse</text>
+        <text encoding="base64">IGlk</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIGltcG9ydCBqYXZhLnV0aWwuTGlzdDsK</text>
+      <register name="8" type="4">
+        <text>long</text>
       </register>
       <register name="9" type="4">
-        <text>concatMabp</text>
+        <text>ById</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
