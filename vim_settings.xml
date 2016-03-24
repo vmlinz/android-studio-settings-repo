@@ -31,10 +31,11 @@
         <mark key="^" line="12" column="57" />
         <mark key="." line="9" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/build.gradle" timestamp="1458747105987">
-        <mark key="[" line="61" column="0" />
-        <mark key="]" line="61" column="0" />
-        <mark key="." line="61" column="0" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/build.gradle" timestamp="1458809759364">
+        <mark key="[" line="67" column="65" />
+        <mark key="]" line="68" column="3" />
+        <mark key="." line="68" column="3" />
+        <mark key="^" line="68" column="3" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/base/BaseActivity.java" timestamp="1458803339882">
         <mark key="[" line="11" column="50" />
@@ -238,11 +239,8 @@
         <mark key="." line="33" column="21" />
         <mark key="^" line="33" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieApplication.java" timestamp="1458744394279">
-        <mark key="[" line="50" column="33" />
-        <mark key="]" line="50" column="65" />
-        <mark key="." line="50" column="65" />
-        <mark key="^" line="50" column="65" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieApplication.java" timestamp="1458810334577">
+        <mark key="[" line="31" column="49" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/component/ActivityComponent.java" timestamp="1458748178244">
         <mark key="[" line="18" column="56" />
@@ -497,8 +495,8 @@
       <jump line="12" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/utils/DialogFactory.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>AppCompatActivity</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>AppCompatActivity</text>
@@ -509,32 +507,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgQ29tcG9zaXRlU3Vic2NyaXB0aW9uIG1TdWJzY3JpcHRpb247Cg==</text>
       </register>
-      <register name="1" type="4">
-        <text>AppCompatActivity</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8qKgogICAgICogVGhlIGR1bW15IGNvbnRlbnQgdGhpcyBmcmFnbWVudCBpcyBwcmVzZW50aW5nLgogICAgICovCg==</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMK</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>AppCompatActivity</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25TdGFydCgpIHsKICAgICAgICBzdXBlci5vblN0YXJ0KCk7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgIC8qKgogICAgICogVGhlIGR1bW15IGNvbnRlbnQgdGhpcyBmcmFnbWVudCBpcyBwcmVzZW50aW5nLgogICAgICovCg==</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>get</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25TdGFydCgpIHsKICAgICAgICBzdXBlci5vblN0YXJ0KCk7CiAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">fQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">cHVibGljIGNsYXNzIERpYWxvZ0ZhY3Rvcnkgewo=</text>
+      <register name="8" type="4">
+        <text>get</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">fQo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
