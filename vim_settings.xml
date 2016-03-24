@@ -66,11 +66,11 @@
         <mark key="^" line="41" column="40" />
         <mark key="." line="41" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesPresenter.java" timestamp="1458755835122">
-        <mark key="[" line="71" column="0" />
-        <mark key="]" line="71" column="0" />
-        <mark key="^" line="96" column="46" />
-        <mark key="." line="71" column="0" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesPresenter.java" timestamp="1458799907131">
+        <mark key="[" line="26" column="35" />
+        <mark key="]" line="26" column="46" />
+        <mark key="^" line="26" column="46" />
+        <mark key="." line="26" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/content_detail.xml" timestamp="1457344850834">
         <mark key="[" line="6" column="64" />
@@ -455,11 +455,11 @@
       <jump line="28" column="24" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesAdapter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+      <register name="&quot;" type="4">
+        <text>CompositeSubscription</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>CompositeSubscription</text>
       </register>
       <register name="/" type="4">
         <text>mMovies</text>
@@ -467,37 +467,32 @@
       <register name="0" type="2">
         <text encoding="base64">aW1wb3J0IGFuZHJvaWQudXRpbC5Mb2c7Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIC4K</text>
+      <register name="1" type="4">
+        <text>CompositeSubscription</text>
       </register>
-      <register name="2" type="4">
-        <text>doOnCompleted(new Action0() {
-                    @Override
-                    public void call() {
-                        mBus.send(new BusEvent.MoviesSaved());
-                    }
-                })</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3Vic2NyaXB0aW9uIG1Mb2FkTW92aWVzU3Vic2NyaXB0aW9uOwogICAgcHJpdmF0ZSBTdWJzY3JpcHRpb24gbVN5bmNNb3ZpZXNTdWJzY3JpcHRpb247Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>.</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>mTwoPane</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobVN5bmNNb3ZpZXNTdWJzY3JpcHRpb24gIT0gbnVsbCkgewogICAgICAgICAgICBtU3luY01vdmllc1N1YnNjcmlwdGlvbi51bnN1YnNjcmliZSgpOwogICAgICAgIH0K</text>
       </register>
-      <register name="5" type="4">
-        <text>mActivity</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAobUxvYWRNb3ZpZXNTdWJzY3JpcHRpb24gIT0gbnVsbCkgewogICAgICAgICAgICBtTG9hZE1vdmllc1N1YnNjcmlwdGlvbi51bnN1YnNjcmliZSgpOwogICAgICAgIH0K</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3QoKQo=</text>
+      <register name="6" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="7" type="4">
-        <text>(new MoviesAdapter(this))</text>
+        <text>;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="8" type="4">
+        <text>)</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
