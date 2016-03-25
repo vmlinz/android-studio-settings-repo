@@ -95,6 +95,12 @@
         <mark key="^" line="6" column="40" />
         <mark key="." line="6" column="40" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout/movie_list_content.xml" timestamp="1458904380949">
+        <mark key="[" line="7" column="37" />
+        <mark key="]" line="7" column="37" />
+        <mark key="." line="7" column="37" />
+        <mark key="^" line="7" column="46" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/rxbus/RxBus.java" timestamp="1458727778295">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="30" column="27" />
@@ -235,7 +241,12 @@
         <mark key="." line="33" column="21" />
         <mark key="^" line="33" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesAdapter.java" timestamp="1458897892576" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesAdapter.java" timestamp="1458904887089">
+        <mark key="[" line="108" column="9" />
+        <mark key="]" line="108" column="8" />
+        <mark key="." line="108" column="8" />
+        <mark key="^" line="108" column="8" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieApplication.java" timestamp="1458812813759">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="47" column="0" />
@@ -349,11 +360,21 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1458904356000">
+        <mark key="[" line="82" column="0" />
+        <mark key="]" line="82" column="0" />
+        <mark key="." line="82" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/ApplicationContext.java" timestamp="1458227471274">
         <mark key="[" line="8" column="3" />
         <mark key="]" line="12" column="33" />
         <mark key="^" line="12" column="33" />
         <mark key="." line="12" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout/movie_list.xml" timestamp="1458901353370">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/AccountAuthenticator.java" timestamp="1458028071314">
         <mark key="[" line="49" column="0" />
@@ -373,6 +394,12 @@
         <mark key="^" line="30" column="22" />
         <mark key="." line="30" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/utils/MovieUtil.java" timestamp="1458902755021">
+        <mark key="[" line="6" column="36" />
+        <mark key="]" line="6" column="37" />
+        <mark key="^" line="6" column="37" />
+        <mark key="." line="6" column="37" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout-sw600dp/activity_main.xml" timestamp="1457430331144">
         <mark key="[" line="37" column="19" />
         <mark key="]" line="37" column="19" />
@@ -385,6 +412,7 @@
         <mark key="^" line="6" column="45" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout-w900dp/movie_list.xml" timestamp="1458898546116" />
     </filemarks>
     <jumps>
       <jump line="29" column="75" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/fragment_detail_wide.xml" />
@@ -489,11 +517,11 @@
       <jump line="31" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieApplication.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtUmVjeWNsZXJWaWV3LnNldEhhc0ZpeGVkU2l6ZSh0cnVlKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>mMovies</text>
@@ -501,32 +529,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhY3Rpdml0eUNvbXBvbmVudCgpLmluamVjdCh0aGlzKTsK</text>
       </register>
-      <register name="1" type="4">
-        <text>.</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBtUmVjeWNsZXJWaWV3LnNldEhhc0ZpeGVkU2l6ZSh0cnVlKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text>MainActivity</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbUFjdGl2aXR5LmdldCgpLmZpbmQK</text>
       </register>
       <register name="3" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluZFZpZXdCCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3QKICAgIFJlZldhdGNoZXIgbVJlZldhdGNoZXI7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbU1vdmllUG9zdGVyID0gZmluZHZpCg==</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydEFzeW5jVGFzaygpOwo=</text>
+      <register name="8" type="4">
+        <text>+</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtUmVmV2F0Y2hlci53YXRjaCh0aGlzKTsK</text>
+      <register name="9" type="4">
+        <text>+</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
