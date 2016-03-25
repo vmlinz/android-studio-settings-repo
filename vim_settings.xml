@@ -205,6 +205,12 @@
         <mark key="^" line="40" column="45" />
         <mark key="." line="40" column="45" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout/activity_movie_list.xml" timestamp="1458898073694">
+        <mark key="[" line="7" column="19" />
+        <mark key="]" line="7" column="41" />
+        <mark key="." line="7" column="41" />
+        <mark key="^" line="7" column="41" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/local.properties" timestamp="1458211162800">
         <mark key="[" line="12" column="23" />
         <mark key="]" line="12" column="56" />
@@ -229,6 +235,7 @@
         <mark key="." line="33" column="21" />
         <mark key="^" line="33" column="21" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesAdapter.java" timestamp="1458897892576" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieApplication.java" timestamp="1458812813759">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="47" column="0" />
@@ -299,11 +306,6 @@
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
         <mark key="." line="82" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesMvpView.java" timestamp="1458750153829">
-        <mark key="]" line="5" column="52" />
-        <mark key="." line="5" column="52" />
-        <mark key="^" line="5" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/local.properties" timestamp="1458282294915">
         <mark key="[" line="12" column="2" />
@@ -488,10 +490,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>mMovies</text>
@@ -500,31 +502,31 @@
         <text encoding="base64">ICAgICAgICBhY3Rpdml0eUNvbXBvbmVudCgpLmluamVjdCh0aGlzKTsK</text>
       </register>
       <register name="1" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>MainActivity</text>
       </register>
       <register name="3" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBJbmplY3QKICAgIFJlZldhdGNoZXIgbVJlZldhdGNoZXI7Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBzdGFydEFzeW5jVGFzaygpOwo=</text>
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtUmVmV2F0Y2hlci53YXRjaCh0aGlzKTsK</text>
+        <text encoding="base64">ICAgIEBJbmplY3QKICAgIFJlZldhdGNoZXIgbVJlZldhdGNoZXI7Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBzdGFydEFzeW5jVGFzaygpOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIC8vIExlYWsgdGVzdAogICAgdm9pZCBzdGFydEFzeW5jVGFzaygpIHsKICAgICAgICBuZXcgQXN5bmNUYXNrPFZvaWQsIFZvaWQsIFZvaWQ+KCkgewogICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgcHJvdGVjdGVkIFZvaWQgZG9JbkJhY2tncm91bmQoVm9pZC4uLiB2b2lkcykgewogICAgICAgICAgICAgICAgU3lzdGVtQ2xvY2suc2xlZXAoMjAwMDApOwogICAgICAgICAgICAgICAgcmV0dXJuIG51bGw7CiAgICAgICAgICAgIH0KICAgICAgICB9LmV4ZWN1dGUoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBtUmVmV2F0Y2hlci53YXRjaCh0aGlzKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
