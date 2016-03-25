@@ -383,11 +383,22 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/build.gradle" timestamp="1458910529577">
+        <mark key="[" line="42" column="0" />
+        <mark key="]" line="42" column="65" />
+        <mark key="." line="42" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/AccountAuthenticator.java" timestamp="1458028071314">
         <mark key="[" line="49" column="0" />
         <mark key="]" line="49" column="50" />
         <mark key="^" line="44" column="49" />
         <mark key="." line="49" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/gradle/wrapper/gradle-wrapper.properties" timestamp="1458910599515">
+        <mark key="[" line="5" column="69" />
+        <mark key="]" line="5" column="69" />
+        <mark key="." line="5" column="69" />
+        <mark key="^" line="5" column="69" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/base/Presenter.java" timestamp="1458743828500">
         <mark key="[" line="7" column="21" />
@@ -529,10 +540,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>200dp</text>
+        <text>0</text>
       </register>
       <register name="-" type="4">
-        <text>200dp</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>mView</text>
@@ -541,31 +552,31 @@
         <text encoding="base64">R3JpZExheW91dE1hbmFnZXIgZ2xtIA==</text>
       </register>
       <register name="1" type="4">
-        <text>200dp</text>
+        <text>0</text>
       </register>
-      <register name="2" type="4">
-        <text>180dp</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5naXRodWIuYnVtcHRlY2guZ2xpZGU6b2todHRwMy1pbnRlZ3JhdGlvbjoxLjQuMCcK</text>
       </register>
-      <register name="3" type="4">
-        <text>200dp</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5naXRodWIuYnVtcHRlY2guZ2xpZGU6b2todHRwMy1pbnRlZ3JhdGlvbjoxLjQuMCcK</text>
       </register>
       <register name="4" type="4">
-        <text>match_parent</text>
+        <text>200dp</text>
       </register>
       <register name="5" type="4">
-        <text>300dp</text>
+        <text>180dp</text>
       </register>
       <register name="6" type="4">
-        <text>1</text>
+        <text>200dp</text>
       </register>
       <register name="7" type="4">
-        <text>2</text>
+        <text>match_parent</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">IA==</text>
+        <text>300dp</text>
       </register>
       <register name="9" type="4">
-        <text>GridLayoutManager</text>
+        <text>1</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
