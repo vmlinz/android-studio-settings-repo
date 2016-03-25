@@ -136,13 +136,6 @@
         <mark key="]" line="22" column="13" />
         <mark key="." line="22" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/utils/DialogFactory.java" timestamp="1458802858748">
-        <mark key="'" line="12" column="0" />
-        <mark key="[" line="46" column="0" />
-        <mark key="]" line="46" column="0" />
-        <mark key="^" line="45" column="4" />
-        <mark key="." line="46" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/DetailActivity.java" timestamp="1458210977815">
         <mark key="[" line="63" column="52" />
         <mark key="]" line="63" column="60" />
@@ -180,6 +173,12 @@
         <mark key="]" line="15" column="14" />
         <mark key="^" line="15" column="14" />
         <mark key="." line="15" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/values/dimens.xml" timestamp="1458908319442">
+        <mark key="[" line="4" column="29" />
+        <mark key="]" line="4" column="33" />
+        <mark key="." line="4" column="33" />
+        <mark key="^" line="4" column="33" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/TestFetchWeatherTask.java" timestamp="1458041507663">
         <mark key="[" line="43" column="51" />
@@ -229,6 +228,12 @@
         <mark key="^" line="11" column="35" />
         <mark key="." line="4" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout-w900dp/movie_list_content.xml" timestamp="1458908391741">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="31" />
+        <mark key="." line="3" column="31" />
+        <mark key="^" line="3" column="31" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/local/MovieDatabase.java" timestamp="1458724914332">
         <mark key="[" line="9" column="45" />
         <mark key="]" line="9" column="45" />
@@ -241,7 +246,8 @@
         <mark key="." line="33" column="21" />
         <mark key="^" line="33" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesAdapter.java" timestamp="1458906873622">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesAdapter.java" timestamp="1458907630779">
+        <mark key="'" line="101" column="26" />
         <mark key="[" line="57" column="88" />
         <mark key="]" line="58" column="30" />
         <mark key="^" line="58" column="30" />
@@ -360,10 +366,11 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1458904356000">
-        <mark key="[" line="82" column="0" />
-        <mark key="]" line="82" column="0" />
-        <mark key="." line="82" column="0" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1458908259410">
+        <mark key="[" line="83" column="46" />
+        <mark key="]" line="83" column="46" />
+        <mark key="." line="83" column="46" />
+        <mark key="^" line="83" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/ApplicationContext.java" timestamp="1458227471274">
         <mark key="[" line="8" column="3" />
@@ -412,12 +419,13 @@
         <mark key="^" line="6" column="45" />
         <mark key="." line="8" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout-w900dp/movie_list.xml" timestamp="1458898546116" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout-w900dp/movie_list.xml" timestamp="1458907812300">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
     </filemarks>
     <jumps>
-      <jump line="29" column="75" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/fragment_detail_wide.xml" />
-      <jump line="73" column="6" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherService.java" />
-      <jump line="17" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherService.java" />
       <jump line="41" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherService.java" />
       <jump line="42" column="48" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/services/FetchWeatherService.java" />
       <jump line="51" column="6" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherTask.java" />
@@ -515,55 +523,58 @@
       <jump line="92" column="4" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailActivity.java" />
       <jump line="12" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/utils/DialogFactory.java" />
       <jump line="31" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieApplication.java" />
+      <jump line="108" column="12" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesAdapter.java" />
+      <jump line="66" column="15" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesAdapter.java" />
+      <jump line="101" column="26" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesAdapter.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>320dp</text>
-      </register>
-      <register name="-" type="4">
-        <text>320dp</text>
-      </register>
-      <register name="/" type="4">
-        <text>mMovies</text>
-      </register>
-      <register name="0" type="4">
-        <text>match_parent</text>
-      </register>
-      <register name="1" type="4">
-        <text>320dp</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnNjYWxlVHlwZT0iY2VudGVyQ3JvcCIK</text>
-      </register>
-      <register name="3" type="4">
-        <text>match_parent</text>
-      </register>
-      <register name="4" type="4">
         <text>200dp</text>
       </register>
+      <register name="-" type="4">
+        <text>200dp</text>
+      </register>
+      <register name="/" type="4">
+        <text>mView</text>
+      </register>
+      <register name="0" type="4">
+        <text encoding="base64">R3JpZExheW91dE1hbmFnZXIgZ2xtIA==</text>
+      </register>
+      <register name="1" type="4">
+        <text>200dp</text>
+      </register>
+      <register name="2" type="4">
+        <text>180dp</text>
+      </register>
+      <register name="3" type="4">
+        <text>200dp</text>
+      </register>
+      <register name="4" type="4">
+        <text>match_parent</text>
+      </register>
       <register name="5" type="4">
-        <text>wrap_content</text>
+        <text>300dp</text>
       </register>
       <register name="6" type="4">
-        <text>m</text>
+        <text>1</text>
       </register>
       <register name="7" type="4">
-        <text>a</text>
+        <text>2</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIGFuZHJvaWQ6bGF5b3V0X3dpZHRoPSIiCg==</text>
+      <register name="8" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>wrap_content</text>
+        <text>GridLayoutManager</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mMovies</last-search>
+      <last-search>mView</last-search>
       <last-offset />
-      <last-pattern>mMovies</last-pattern>
+      <last-pattern>mView</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>mContext</last-substitute>
       <last-dir>1</last-dir>
@@ -571,7 +582,6 @@
     </search>
     <history>
       <history-search>
-        <entry>appbar</entry>
         <entry>size</entry>
         <entry>Size</entry>
         <entry>AppCompat</entry>
@@ -591,6 +601,7 @@
         <entry>id</entry>
         <entry>mActivity</entry>
         <entry>mMovies</entry>
+        <entry>mView</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
