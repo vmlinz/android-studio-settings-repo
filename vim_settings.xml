@@ -164,6 +164,12 @@
         <mark key="." line="60" column="45" />
         <mark key="^" line="60" column="45" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" timestamp="1458978126259">
+        <mark key="[" line="21" column="7" />
+        <mark key="]" line="21" column="29" />
+        <mark key="^" line="21" column="29" />
+        <mark key="." line="21" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/MovieDetailFragment.java" timestamp="1458800124697">
         <mark key="[" line="29" column="13" />
         <mark key="]" line="29" column="13" />
@@ -331,6 +337,7 @@
         <mark key="^" line="12" column="5" />
         <mark key="." line="12" column="5" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MovieService.java" timestamp="1458977790306" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/xml/syncadapter.xml" timestamp="1458027728516">
         <mark key="[" line="0" column="38" />
         <mark key="]" line="1" column="0" />
@@ -366,11 +373,11 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1458908259410">
-        <mark key="[" line="83" column="46" />
-        <mark key="]" line="83" column="46" />
-        <mark key="." line="83" column="46" />
-        <mark key="^" line="83" column="46" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1458978680683">
+        <mark key="[" line="91" column="43" />
+        <mark key="]" line="91" column="60" />
+        <mark key="." line="91" column="60" />
+        <mark key="^" line="91" column="60" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/ApplicationContext.java" timestamp="1458227471274">
         <mark key="[" line="8" column="3" />
@@ -406,6 +413,11 @@
         <mark key="]" line="7" column="21" />
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesPresenter.java" timestamp="1458978793751">
+        <mark key="[" line="109" column="0" />
+        <mark key="]" line="109" column="0" />
+        <mark key="." line="109" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/component/ApplicationComponent.java" timestamp="1458811916633">
         <mark key="[" line="30" column="4" />
@@ -541,10 +553,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5naXRodWIuYnVtcHRlY2guZ2xpZGU6b2todHRwMy1pbnRlZ3JhdGlvbjoxLjQuMCcK</text>
+        <text encoding="base64">ICAgICAgICBtTXZwVmlldy5zaG93TW92aWVzKHNhdmVkSW5zdGFuY2VTdGF0ZS5nZXRQYXJjZWxhYmxlQXJyYXlMaXN0KCJtb3ZpZXMiKSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>0</text>
+        <text>(Parcels.unwrap(savedInstanceState.getParcelable(&quot;movies&quot;)))</text>
       </register>
       <register name="/" type="4">
         <text>mView</text>
@@ -553,31 +565,31 @@
         <text encoding="base64">R3JpZExheW91dE1hbmFnZXIgZ2xtIA==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5naXRodWIuYnVtcHRlY2guZ2xpZGU6b2todHRwMy1pbnRlZ3JhdGlvbjoxLjQuMCcK</text>
+        <text encoding="base64">ICAgICAgICBtTXZwVmlldy5zaG93TW92aWVzKHNhdmVkSW5zdGFuY2VTdGF0ZS5nZXRQYXJjZWxhYmxlQXJyYXlMaXN0KCJtb3ZpZXMiKSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIC8vIG9yIDEuNC1iZXRhMQo=</text>
+        <text encoding="base64">ICAgICAgICBtTXZwVmlldy5zaG93TW92aWVzOwo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIC8vIG9yIDEuNC1iZXRhMQo=</text>
+      <register name="3" type="4">
+        <text>(Parcels.unwrap(savedInstanceState.getParcelable(&quot;movies&quot;)))</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIC8vIG9yIDEuNC1iZXRhMQo=</text>
+        <text encoding="base64">ICAgICAgICBtTXZwVmlldy5zaG93TW92aWVzKHNhdmVkSW5zdGFuY2VTdGF0ZS5nZXRQYXJjZWxhYmxlQXJyYXkoIm1vdmllcyIpKTsK</text>
       </register>
       <register name="5" type="4">
-        <text>0</text>
+        <text>setMovies</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5naXRodWIuYnVtcHRlY2guZ2xpZGU6b2todHRwMy1pbnRlZ3JhdGlvbjoxLjQuMCcK</text>
+      <register name="6" type="4">
+        <text>savedInstanceState.getParcelableArrayList(&quot;movies&quot;));</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGNvbXBpbGUgJ2NvbS5naXRodWIuYnVtcHRlY2guZ2xpZGU6b2todHRwMy1pbnRlZ3JhdGlvbjoxLjQuMCcK</text>
+        <text encoding="base64">ICAgICAgICAgICAgbU0K</text>
       </register>
       <register name="8" type="4">
-        <text>200dp</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="9" type="4">
-        <text>180dp</text>
+        <text>restoreMovies</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
