@@ -136,13 +136,6 @@
         <mark key="^" line="53" column="13" />
         <mark key="." line="53" column="13" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/DataManager.java" timestamp="1458815211080">
-        <mark key="[" line="57" column="38" />
-        <mark key="]" line="58" column="15" />
-        <mark key="." line="58" column="15" />
-        <mark key="^" line="58" column="15" />
-        <mark key="o" line="20" column="22" />
-      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/rxbus/RxBus.java" timestamp="1459005468340" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" timestamp="1458980635579">
         <mark key="[" line="24" column="38" />
@@ -197,6 +190,7 @@
         <mark key="." line="7" column="41" />
         <mark key="^" line="7" column="41" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxandroid/1.1.0/40a4a4339e13c959130aa244e811f70b0bea5463/rxandroid-1.1.0-sources.jar!/rx/android/MainThreadSubscription.java" timestamp="1459006520544" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/local.properties" timestamp="1458211162800">
         <mark key="[" line="12" column="23" />
         <mark key="]" line="12" column="56" />
