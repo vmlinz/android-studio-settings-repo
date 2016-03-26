@@ -352,11 +352,11 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1458980994600">
-        <mark key="[" line="94" column="25" />
-        <mark key="]" line="94" column="25" />
-        <mark key="." line="94" column="25" />
-        <mark key="^" line="94" column="25" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1458981898884">
+        <mark key="[" line="88" column="74" />
+        <mark key="]" line="88" column="99" />
+        <mark key="." line="88" column="99" />
+        <mark key="^" line="88" column="99" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/ApplicationContext.java" timestamp="1458227471274">
         <mark key="[" line="8" column="3" />
@@ -393,10 +393,8 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesPresenter.java" timestamp="1458979510080">
-        <mark key="[" line="105" column="0" />
-        <mark key="]" line="105" column="0" />
-        <mark key="." line="105" column="0" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesPresenter.java" timestamp="1458981853433">
+        <mark key="[" line="27" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/component/ApplicationComponent.java" timestamp="1458811916633">
         <mark key="[" line="30" column="4" />
@@ -532,10 +530,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>+</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>+</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text>mView</text>
@@ -544,31 +542,31 @@
         <text encoding="base64">R3JpZExheW91dE1hbmFnZXIgZ2xtIA==</text>
       </register>
       <register name="1" type="4">
-        <text>+</text>
+        <text>&quot;</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">IA==</text>
+        <text>&quot;</text>
       </register>
       <register name="3" type="4">
-        <text>)</text>
+        <text>movies</text>
       </register>
-      <register name="4" type="4">
-        <text>(</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgTU9WSUVTX0tFWSA9ICJtb3ZpZXMiOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>toString</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">KChMaXN0PE1vdmllPikgUGFyY2Vscy51bndyYXAoc2F2ZWRJbnN0YW5jZVN0YXRlLmdldFBhcmNlbGFibGUoIm1vdmllcyIpKSk7</text>
+      <register name="6" type="2">
+        <text encoding="base64">CiAgICAgICAgICAgIG1NdnBWaWV3LnNob3dNb3ZpZXMobW92aWVzKTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBQYXJjZWxzLnVud3JhcCgpCg==</text>
+        <text encoding="base64">ICAgICAgICBtTXZwVmlldy5zaG93TW92aWVzKG1vdmllcyk7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text>)</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBUaW1iZXIuZCgiJWQiLCBtb3ZpZXMuc2l6ZSgpKTsK</text>
       </register>
-      <register name="9" type="4">
-        <text>P</text>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
