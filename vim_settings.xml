@@ -185,12 +185,6 @@
         <mark key="^" line="6" column="68" />
         <mark key="." line="6" column="68" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailActivity.java" timestamp="1458815009689">
-        <mark key="'" line="90" column="4" />
-        <mark key="[" line="25" column="0" />
-        <mark key="]" line="25" column="0" />
-        <mark key="." line="25" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastAdapter.java" timestamp="1457345011945">
         <mark key="[" line="20" column="20" />
         <mark key="]" line="29" column="54" />
@@ -352,7 +346,7 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1458981898884">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1458982987125">
         <mark key="[" line="88" column="74" />
         <mark key="]" line="88" column="99" />
         <mark key="." line="88" column="99" />
@@ -529,11 +523,11 @@
       <jump line="101" column="26" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesAdapter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>&quot;</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text encoding="base64">Jg==</text>
       </register>
       <register name="/" type="4">
         <text>mView</text>
@@ -541,32 +535,32 @@
       <register name="0" type="4">
         <text encoding="base64">R3JpZExheW91dE1hbmFnZXIgZ2xtIA==</text>
       </register>
-      <register name="1" type="4">
-        <text>&quot;</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="2" type="4">
-        <text>&quot;</text>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBtRGV0YWlsUHJlc2VudGVyLmxvYWRNb3ZpZShtb3ZpZUlkKTsK</text>
       </register>
       <register name="3" type="4">
-        <text>movies</text>
+        <text encoding="base64">Jg==</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0YXRpYyBmaW5hbCBTdHJpbmcgTU9WSUVTX0tFWSA9ICJtb3ZpZXMiOwo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">Jg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgICAgICAgICAgIG1NdnBWaWV3LnNob3dNb3ZpZXMobW92aWVzKTsK</text>
+      <register name="6" type="4">
+        <text>private</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBtTXZwVmlldy5zaG93TW92aWVzKG1vdmllcyk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBNT1ZJRV9LRVkgPSAibW92aWUiOwo=</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBUaW1iZXIuZCgiJWQiLCBtb3ZpZXMuc2l6ZSgpKTsK</text>
+      <register name="8" type="4">
+        <text>&quot;</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="9" type="4">
+        <text>&quot;</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
