@@ -337,11 +337,11 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1459053802413">
-        <mark key="[" line="113" column="24" />
-        <mark key="]" line="114" column="30" />
-        <mark key="." line="114" column="30" />
-        <mark key="^" line="114" column="30" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1459057822433">
+        <mark key="[" line="123" column="44" />
+        <mark key="]" line="123" column="66" />
+        <mark key="." line="123" column="66" />
+        <mark key="^" line="123" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/ApplicationContext.java" timestamp="1458227471274">
         <mark key="[" line="8" column="3" />
@@ -515,10 +515,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25SZXN1bWUoKSB7CiAgICAgICAgc3VwZXIub25SZXN1bWUoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBtU3Bpbm5lci5zZXRNb2RlCg==</text>
       </register>
       <register name="-" type="4">
-        <text>mToolbar</text>
+        <text>Arrays.asList()</text>
       </register>
       <register name="/" type="4">
         <text>mView</text>
@@ -527,31 +527,31 @@
         <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBhZGRUb29sYmFyU3Bpbm5lcihUb29sYmFyIHRvb2xiYXIpIHsKICAgICAgICBtU3Bpbm5lciA9IG5ldyBBcHBDb21wYXRTcGlubmVyKHRoaXMpOwogICAgICAgIHRvb2xiYXIuYWRkVmlldyhtU3Bpbm5lcik7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25SZXN1bWUoKSB7CiAgICAgICAgc3VwZXIub25SZXN1bWUoKTsKICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICBtU3Bpbm5lci5zZXRNb2RlCg==</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbVNwaW5uZXIuY2xlYXJGb2N1cygpOwo=</text>
+      </register>
+      <register name="3" type="2">
         <text encoding="base64">ICAgICAgICByZW1vdmVUb29sYmFyU3Bpbm5lcigpOwo=</text>
       </register>
-      <register name="3" type="4">
-        <text>mToolbar</text>
-      </register>
-      <register name="4" type="4">
-        <text>e</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBtCg==</text>
       </register>
       <register name="5" type="4">
-        <text>t</text>
+        <text>Arrays.asList()</text>
       </register>
-      <register name="6" type="4">
-        <text>e</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBtU3Bpbm5lci5zZXRCYWNrZ3JvdW5kVGkK</text>
       </register>
-      <register name="7" type="4">
-        <text>l</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbVNwaW5uZXIuZGlzbWlzCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>e</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbVNwaW5uZXIucmVtb3ZlQWxsVmlld3NJbkxheW91dCgpOwo=</text>
       </register>
       <register name="9" type="4">
-        <text>d</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
