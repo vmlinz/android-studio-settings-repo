@@ -184,11 +184,10 @@
         <mark key="^" line="40" column="45" />
         <mark key="." line="40" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout/activity_movie_list.xml" timestamp="1458898073694">
-        <mark key="[" line="7" column="19" />
-        <mark key="]" line="7" column="41" />
-        <mark key="." line="7" column="41" />
-        <mark key="^" line="7" column="41" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout/activity_movie_list.xml" timestamp="1459074533581">
+        <mark key="[" line="22" column="40" />
+        <mark key="]" line="22" column="40" />
+        <mark key="." line="22" column="40" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxandroid/1.1.0/40a4a4339e13c959130aa244e811f70b0bea5463/rxandroid-1.1.0-sources.jar!/rx/android/MainThreadSubscription.java" timestamp="1459006520544" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/local.properties" timestamp="1458211162800">
@@ -337,11 +336,11 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1459059479839">
-        <mark key="[" line="123" column="59" />
-        <mark key="]" line="123" column="64" />
-        <mark key="." line="123" column="64" />
-        <mark key="^" line="123" column="64" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1459075095167">
+        <mark key="[" line="128" column="0" />
+        <mark key="]" line="128" column="0" />
+        <mark key="." line="128" column="0" />
+        <mark key="^" line="65" column="19" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/ApplicationContext.java" timestamp="1458227471274">
         <mark key="[" line="8" column="3" />
@@ -514,44 +513,44 @@
       <jump line="101" column="26" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesAdapter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>DIALOG</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBtVG9vbGJhci5hZGRWaWV3KG1TcGlubmVyKTsK</text>
       </register>
       <register name="-" type="4">
-        <text>DIALOG</text>
+        <text encoding="base64">IFJhdGVk</text>
       </register>
       <register name="/" type="4">
         <text>mView</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBhZGRUb29sYmFyU3Bpbm5lcihUb29sYmFyIHRvb2xiYXIpIHsKICAgICAgICBtU3Bpbm5lciA9IG5ldyBBcHBDb21wYXRTcGlubmVyKHRoaXMpOwogICAgICAgIHRvb2xiYXIuYWRkVmlldyhtU3Bpbm5lcik7CiAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICJUb3AgUmF0ZWQgTW92aWVzIgo=</text>
       </register>
-      <register name="1" type="4">
-        <text>DIALOG</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICBtVG9vbGJhci5hZGRWaWV3KG1TcGlubmVyKTsK</text>
       </register>
-      <register name="2" type="4">
-        <text>MODE_DROPDOWN</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBtU3Bpbm5lci5zZXRNb2RlCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVNwaW5uZXIuY2xlYXJGb2N1cygpOwo=</text>
-      </register>
-      <register name="5" type="2">
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICByZW1vdmVUb29sYmFyU3Bpbm5lcigpOwo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtCg==</text>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCByZW1vdmVUb29sYmFyU3Bpbm5lcigpIHsKICAgICAgICBpZiAobVRvb2xiYXIgIT0gbnVsbCAmJiBtU3Bpbm5lciAhPSBudWxsKSB7CiAgICAgICAgICAgIHRyeSB7CiAgICAgICAgICAgICAgICBNZXRob2QgbWV0aG9kID0gU3Bpbm5lci5jbGFzcy5nZXREZWNsYXJlZE1ldGhvZCgib25EZXRhY2hlZEZyb21XaW5kb3ciKTsKICAgICAgICAgICAgICAgIG1ldGhvZC5zZXRBY2Nlc3NpYmxlKHRydWUpOwogICAgICAgICAgICAgICAgbWV0aG9kLmludm9rZShtU3Bpbm5lcik7CiAgICAgICAgICAgIH0gY2F0Y2ggKE5vU3VjaE1ldGhvZEV4Y2VwdGlvbiBlKSB7CiAgICAgICAgICAgICAgICBlLnByaW50U3RhY2tUcmFjZSgpOwogICAgICAgICAgICB9IGNhdGNoIChJbnZvY2F0aW9uVGFyZ2V0RXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgICAgIH0gY2F0Y2ggKElsbGVnYWxBY2Nlc3NFeGNlcHRpb24gZSkgewogICAgICAgICAgICAgICAgZS5wcmludFN0YWNrVHJhY2UoKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBtVG9vbGJhci5yZW1vdmVWaWV3KG1TcGlubmVyKTsKICAgICAgICB9CiAgICB9Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBtVG9vbGJhci5zZXQK</text>
+      </register>
+      <register name="6" type="4">
+        <text encoding="base64">IFJhdGVk</text>
       </register>
       <register name="7" type="4">
-        <text>Arrays.asList()</text>
+        <text>Top</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBtU3Bpbm5lci5zZXRCYWNrZ3JvdW5kVGkK</text>
+        <text encoding="base64">ICAgICAgICBtU3Bpbm5lciA9IG5ldyBBcHBDb21wYXRTcGlubmVyKHRoaXMsIFNwaW5uZXIuTU9ERV9ESUFMT0cpOwo=</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVNwaW5uZXIuZGlzbWlzCg==</text>
+      <register name="9" type="4">
+        <text>_main</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
