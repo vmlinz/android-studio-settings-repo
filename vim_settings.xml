@@ -287,6 +287,9 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
+      <file name="/Dummy.txt" timestamp="1459051755476">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieListActivity.java" timestamp="1458741792025">
         <mark key="[" line="82" column="0" />
         <mark key="]" line="82" column="0" />
@@ -334,11 +337,11 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1459051691859">
-        <mark key="[" line="109" column="98" />
-        <mark key="]" line="109" column="92" />
-        <mark key="^" line="109" column="92" />
-        <mark key="." line="109" column="92" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1459053068236">
+        <mark key="[" line="113" column="24" />
+        <mark key="]" line="114" column="30" />
+        <mark key="." line="114" column="30" />
+        <mark key="^" line="114" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/ApplicationContext.java" timestamp="1458227471274">
         <mark key="[" line="8" column="3" />
@@ -512,43 +515,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25SZXN1bWUoKSB7CiAgICAgICAgc3VwZXIub25SZXN1bWUoKTsKICAgIH0K</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>mToolbar</text>
       </register>
       <register name="/" type="4">
         <text>mView</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">R3JpZExheW91dE1hbmFnZXIgZ2xtIA==</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBhZGRUb29sYmFyU3Bpbm5lcihUb29sYmFyIHRvb2xiYXIpIHsKICAgICAgICBtU3Bpbm5lciA9IG5ldyBBcHBDb21wYXRTcGlubmVyKHRoaXMpOwogICAgICAgIHRvb2xiYXIuYWRkVmlldyhtU3Bpbm5lcik7CiAgICB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHJvdGVjdGVkIHZvaWQgb25SZXN1bWUoKSB7CiAgICAgICAgc3VwZXIub25SZXN1bWUoKTsKICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtRGV0YWlsUHJlc2VudGVyLmxvYWRNb3ZpZShtb3ZpZUlkKTsK</text>
+        <text encoding="base64">ICAgICAgICByZW1vdmVUb29sYmFyU3Bpbm5lcigpOwo=</text>
       </register>
       <register name="3" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>mToolbar</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">Jg==</text>
+        <text>e</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>t</text>
       </register>
       <register name="6" type="4">
-        <text>private</text>
+        <text>e</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIGZpbmFsIFN0cmluZyBNT1ZJRV9LRVkgPSAibW92aWUiOwo=</text>
+      <register name="7" type="4">
+        <text>l</text>
       </register>
       <register name="8" type="4">
-        <text>&quot;</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>&quot;</text>
+        <text>d</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
