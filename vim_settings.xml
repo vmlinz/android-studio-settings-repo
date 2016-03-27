@@ -337,11 +337,11 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1459057822433">
-        <mark key="[" line="123" column="44" />
-        <mark key="]" line="123" column="66" />
-        <mark key="." line="123" column="66" />
-        <mark key="^" line="123" column="66" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1459059479839">
+        <mark key="[" line="123" column="59" />
+        <mark key="]" line="123" column="64" />
+        <mark key="." line="123" column="64" />
+        <mark key="^" line="123" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/ApplicationContext.java" timestamp="1458227471274">
         <mark key="[" line="8" column="3" />
@@ -514,11 +514,11 @@
       <jump line="101" column="26" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesAdapter.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtU3Bpbm5lci5zZXRNb2RlCg==</text>
+      <register name="&quot;" type="4">
+        <text>DIALOG</text>
       </register>
       <register name="-" type="4">
-        <text>Arrays.asList()</text>
+        <text>DIALOG</text>
       </register>
       <register name="/" type="4">
         <text>mView</text>
@@ -526,32 +526,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBhZGRUb29sYmFyU3Bpbm5lcihUb29sYmFyIHRvb2xiYXIpIHsKICAgICAgICBtU3Bpbm5lciA9IG5ldyBBcHBDb21wYXRTcGlubmVyKHRoaXMpOwogICAgICAgIHRvb2xiYXIuYWRkVmlldyhtU3Bpbm5lcik7CiAgICB9Cg==</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtU3Bpbm5lci5zZXRNb2RlCg==</text>
+      <register name="1" type="4">
+        <text>DIALOG</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVNwaW5uZXIuY2xlYXJGb2N1cygpOwo=</text>
+      <register name="2" type="4">
+        <text>MODE_DROPDOWN</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICByZW1vdmVUb29sYmFyU3Bpbm5lcigpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtU3Bpbm5lci5zZXRNb2RlCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgbVNwaW5uZXIuY2xlYXJGb2N1cygpOwo=</text>
       </register>
-      <register name="5" type="4">
-        <text>Arrays.asList()</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICByZW1vdmVUb29sYmFyU3Bpbm5lcigpOwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtU3Bpbm5lci5zZXRCYWNrZ3JvdW5kVGkK</text>
+        <text encoding="base64">ICAgICAgICBtCg==</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVNwaW5uZXIuZGlzbWlzCg==</text>
+      <register name="7" type="4">
+        <text>Arrays.asList()</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbVNwaW5uZXIucmVtb3ZlQWxsVmlld3NJbkxheW91dCgpOwo=</text>
+        <text encoding="base64">ICAgICAgICBtU3Bpbm5lci5zZXRCYWNrZ3JvdW5kVGkK</text>
       </register>
-      <register name="9" type="4">
-        <text>)</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgbVNwaW5uZXIuZGlzbWlzCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
