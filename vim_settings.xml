@@ -107,6 +107,7 @@
         <mark key="^" line="43" column="64" />
         <mark key="." line="43" column="64" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/DataManager.java" timestamp="1459243832647" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastAdapter.java" timestamp="1457345011945">
         <mark key="[" line="20" column="20" />
         <mark key="]" line="29" column="54" />
@@ -423,11 +424,12 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1459242859169">
-        <mark key="'" line="57" column="8" />
-        <mark key="[" line="54" column="0" />
-        <mark key="]" line="54" column="0" />
-        <mark key="." line="54" column="0" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1459243330526">
+        <mark key="'" line="60" column="8" />
+        <mark key="[" line="144" column="137" />
+        <mark key="]" line="144" column="167" />
+        <mark key="." line="144" column="167" />
+        <mark key="^" line="144" column="167" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/MySpinner/app/src/main/res/layout/spinner_item_view.xml" timestamp="1459231530535">
         <mark key="[" line="20" column="32" />
@@ -461,7 +463,7 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesPresenter.java" timestamp="1458981853433">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesPresenter.java" timestamp="1459243456537">
         <mark key="[" line="27" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/build.gradle" timestamp="1459240171619" />
@@ -586,44 +588,44 @@
       <jump line="71" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>PREF_VALUE_MOVIE_ORDER_TOP_RATED</text>
       </register>
       <register name="-" type="4">
-        <text>popular</text>
+        <text>PREF_VALUE_MOVIE_ORDER_TOP_RATED</text>
       </register>
       <register name="/" type="4">
         <text>rx</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFBSRUZfVkFMVUVfTU9WSUVfT1JERVJfUE9QVUxBUiA9ICJwb3B1bGFyIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbVByZWZlcmVuY2VIZWxwZXIuZ2V0U2hhcmVkUHJlZmVyZW5jZSgpLmVkaXQoKS5wdXRTdHJpbmcoUHJlZmVyZW5jZUhlbHBlci5QUkVGX0tFWV9NT1ZJRV9PUkRFUiwgUHJlZmVyZW5jZUhlbHBlci5QUkVGX1ZBTFVFX01PVklFX09SREVSX1RPUF9SQVRFRCkuYXBwbHkoKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>PREF_VALUE_MOVIE_ORDER_TOP_RATED</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIFN1YnNjcmlwdGlvbiBtU3Vic2NyaXB0aW9uOwo=</text>
+      <register name="2" type="4">
+        <text>commit</text>
       </register>
       <register name="3" type="4">
-        <text>popular</text>
+        <text>PREF_VALUE_MOVIE_ORDER_POPULAR</text>
       </register>
-      <register name="4" type="4">
-        <text>POPULAR</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgbVByZWZlcmVuY2VIZWxwZXIuCg==</text>
       </register>
-      <register name="5" type="4">
-        <text>popular</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBtUHJlZmVyZW5jZUhlbHBlci5nZXRTaGFyZWRQcmVmZXJlbmNlKCkuZWRpdCgpLnB1dFN0cmluZyhQcmVmZXJlbmNlSGVscGVyLlBSRUZfS0VZX01PVklFX09SREVSLCBQcmVmZXJlbmNlSGVscGVyLlBSRUZfVkFMVUVfTU9WSUVfT1JERVJfUE9QVUxBUikuY29tbWl0KCk7Cg==</text>
       </register>
       <register name="6" type="4">
-        <text>POPULAR</text>
+        <text>;</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgU3RyaW5nIFBSRUZfVkFMVUVfTU9WSUVfT1JERVJfUE9QVUxBUiA9ICJwb3B1bGFyIjsK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIGlmIChpID09IDApCg==</text>
       </register>
-      <register name="8" type="4">
-        <text>P</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="9" type="4">
-        <text>PREF_KEY_MOVIE_ORDER</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
