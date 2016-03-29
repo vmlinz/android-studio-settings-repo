@@ -378,7 +378,7 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1459237136448">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1459239477626">
         <mark key="'" line="58" column="8" />
         <mark key="[" line="127" column="0" />
         <mark key="]" line="127" column="0" />
@@ -407,11 +407,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/build.gradle" timestamp="1458975602613">
-        <mark key="[" line="45" column="0" />
-        <mark key="]" line="45" column="0" />
-        <mark key="." line="45" column="0" />
-        <mark key="^" line="44" column="4" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/build.gradle" timestamp="1459239967661">
+        <mark key="'" line="71" column="0" />
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/AccountAuthenticator.java" timestamp="1458028071314">
         <mark key="[" line="49" column="0" />
@@ -434,6 +434,7 @@
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesPresenter.java" timestamp="1458981853433">
         <mark key="[" line="27" column="46" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/build.gradle" timestamp="1459240171619" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/component/ApplicationComponent.java" timestamp="1458811916633">
         <mark key="[" line="30" column="4" />
         <mark key="]" line="30" column="4" />
@@ -465,12 +466,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="42" column="48" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/services/FetchWeatherService.java" />
-      <jump line="51" column="6" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherTask.java" />
-      <jump line="58" column="4" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/services/FetchWeatherService.java" />
-      <jump line="22" column="82" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/services/FetchWeatherService.java" />
-      <jump line="82" column="4" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/services/FetchWeatherService.java" />
-      <jump line="77" column="40" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/services/FetchWeatherService.java" />
       <jump line="268" column="14" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/services/FetchWeatherService.java" />
       <jump line="356" column="12" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/services/FetchWeatherService.java" />
       <jump line="3" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/services/FetchWeatherService.java" />
@@ -565,55 +560,61 @@
       <jump line="66" column="15" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesAdapter.java" />
       <jump line="101" column="26" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesAdapter.java" />
       <jump line="58" column="8" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" />
+      <jump line="50" column="4" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/build.gradle" />
+      <jump line="55" column="44" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/build.gradle" />
+      <jump line="58" column="26" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/build.gradle" />
+      <jump line="67" column="4" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/build.gradle" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/build.gradle" />
+      <jump line="71" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/build.gradle" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>arrow_down_float</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>arrow_down_float</text>
       </register>
       <register name="/" type="4">
-        <text>mView</text>
+        <text>rx</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFZpZXcgZ2V0VmlldyhpbnQgaSwgVmlldyB2aWV3LCBWaWV3R3JvdXAgdmlld0dyb3VwKSB7CiAgICAgICAgaWYgKHZpZXcgPT0gbnVsbCB8fCAhdmlldy5nZXRUYWcoKS50b1N0cmluZygpLmVxdWFscygiSVRFTSIpKSAgewogICAgICAgICAgICBMYXlvdXRJbmZsYXRlciBpbmZsYXRlciA9IExheW91dEluZmxhdGVyLmZyb20odmlld0dyb3VwLmdldENvbnRleHQoKSk7CiAgICAgICAgICAgIHZpZXcgPSBpbmZsYXRlci5pbmZsYXRlKFIubGF5b3V0LnNwaW5uZXJfaXRlbSwgdmlld0dyb3VwLCBmYWxzZSk7CiAgICAgICAgICAgIHZpZXcuc2V0VGFnKCJJVEVNIik7CiAgICAgICAgfQoKICAgICAgICBUZXh0VmlldyB0ZXh0VmlldyA9IChUZXh0Vmlldykgdmlldy5maW5kVmlld0J5SWQoYW5kcm9pZC5SLmlkLnRleHQxKTsKICAgICAgICB0ZXh0Vmlldy5zZXRUZXh0KGdldFRpdGxlKGkpKTsKICAgICAgICAKICAgICAgICByZXR1cm4gdmlldzsKICAgIH0K</text>
       </register>
-      <register name="1" type="4">
-        <text>arrow_down_float</text>
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>#ffffff</text>
+        <text>arrow_down_float</text>
       </register>
       <register name="3" type="4">
         <text>#ffffff</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYXBwOnRoZW1lPSJAc3R5bGUvVGhlbWVPdmVybGF5LkFwcENvbXBhdC5MaWdodCIK</text>
+      <register name="4" type="4">
+        <text>#ffffff</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6cG9wdXBUaGVtZT0iQHN0eWxlL1RoZW1lT3ZlcmxheS5BcHBDb21wYXQuTGlnaHQiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOnRoZW1lPSJAc3R5bGUvVGhlbWVPdmVybGF5LkFwcENvbXBhdC5MaWdodCIK</text>
       </register>
       <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBhcHA6cG9wdXBUaGVtZT0iQHN0eWxlL1RoZW1lT3ZlcmxheS5BcHBDb21wYXQuTGlnaHQiCg==</text>
+      </register>
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYXBwOnRoZW1lPSJAIgo=</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>&quot;@style/ThemeOverlay.Appcompat.Light&quot;</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>android</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlLyIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>mView</last-search>
+      <last-search>rx</last-search>
       <last-offset />
-      <last-pattern>mView</last-pattern>
+      <last-pattern>rx</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>mContext</last-substitute>
       <last-dir>1</last-dir>
@@ -621,7 +622,6 @@
     </search>
     <history>
       <history-search>
-        <entry>size</entry>
         <entry>Size</entry>
         <entry>AppCompat</entry>
         <entry>mContext</entry>
@@ -641,6 +641,7 @@
         <entry>mActivity</entry>
         <entry>mMovies</entry>
         <entry>mView</entry>
+        <entry>rx</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
