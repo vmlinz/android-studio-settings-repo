@@ -71,6 +71,12 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/MySpinner/app/src/main/res/layout/activity_main.xml" timestamp="1459150277832">
+        <mark key="[" line="13" column="8" />
+        <mark key="]" line="13" column="64" />
+        <mark key="." line="13" column="64" />
+        <mark key="^" line="13" column="64" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/activity_main.xml" timestamp="1457433695630">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -208,6 +214,11 @@
         <mark key="." line="3" column="31" />
         <mark key="^" line="3" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/MySpinner/app/src/main/res/layout-v21/activity_main.xml" timestamp="1459149498752">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/local/MovieDatabase.java" timestamp="1458724914332">
         <mark key="[" line="9" column="45" />
         <mark key="]" line="9" column="45" />
@@ -263,6 +274,18 @@
         <mark key="]" line="39" column="35" />
         <mark key="." line="39" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/MySpinner/app/src/main/res/values/styles.xml" timestamp="1459148815293">
+        <mark key="[" line="3" column="57" />
+        <mark key="]" line="3" column="67" />
+        <mark key="." line="3" column="67" />
+        <mark key="^" line="3" column="67" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/MySpinner/app/src/main/java/me/zaicheng/example/myspinner/MainActivity.java" timestamp="1459149157048">
+        <mark key="[" line="13" column="63" />
+        <mark key="]" line="14" column="34" />
+        <mark key="^" line="14" column="34" />
+        <mark key="." line="14" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/local/TopRatedMovie.java" timestamp="1458457362417">
         <mark key="[" line="69" column="0" />
         <mark key="]" line="69" column="83" />
@@ -287,7 +310,7 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1459051755476">
+      <file name="/Dummy.txt" timestamp="1459149539843">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/android/widget/ArrayAdapter.class" timestamp="1459079385647" />
@@ -338,7 +361,7 @@
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1459079829319">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1459148278672">
         <mark key="'" line="58" column="8" />
         <mark key="[" line="127" column="0" />
         <mark key="]" line="127" column="0" />
@@ -516,10 +539,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBtU3Bpbm5lci5zZXQK</text>
+        <text encoding="base64">ICAgICAgICBhcHA6dGl0bGVUZXh0Q29sb3I9IkBhbmRyb2lkOmNvbG9yL3ByaW1hcnlfdGV4dF9kYXJrIgo=</text>
       </register>
       <register name="-" type="4">
-        <text>setPrompt(&quot;&quot;);</text>
+        <text>colorAccent</text>
       </register>
       <register name="/" type="4">
         <text>mView</text>
@@ -528,31 +551,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICJUb3AgUmF0ZWQgTW92aWVzIgo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBtU3Bpbm5lci5zZXQK</text>
+        <text encoding="base64">ICAgICAgICBhcHA6dGl0bGVUZXh0Q29sb3I9IkBhbmRyb2lkOmNvbG9yL3ByaW1hcnlfdGV4dF9kYXJrIgo=</text>
       </register>
       <register name="2" type="4">
-        <text>setPrompt(&quot;&quot;);</text>
+        <text>colorAccent</text>
       </register>
-      <register name="3" type="4">
-        <text>simple_list_item_1</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBhcHA6dGhlbWU9IkBzdHlsZS9CYXNlLlRoZW1lT3ZlcmxheS5BcHBDb21wYXQuQWN0aW9uQmFyIgo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBtVG9vbGJhci5zZXQK</text>
+        <text encoding="base64">ICAgICAgICBhcHA6dGhlbWU9IkBzdHlsZS9UaGVtZU92ZXJsYXkuQXBwQ29tcGF0LiI+Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBtU3Bpbm5lci5zZXQK</text>
+      <register name="5" type="4">
+        <text>.</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBtU3Bpbm5lci5zZXQK</text>
+      <register name="6" type="4">
+        <text>Light</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9jb2xvclByaW1hcnkiCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhcnJheUFkYXB0ZXIuc2V0Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSIiCg==</text>
       </register>
-      <register name="9" type="4">
-        <text>setDropDownViewTheme(getTheme());</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
