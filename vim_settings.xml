@@ -15,7 +15,7 @@
         <mark key="^" line="68" column="50" />
         <mark key="." line="68" column="50" />
       </file>
-      <file name="/a.dummy" timestamp="1458975406940">
+      <file name="/a.dummy" timestamp="1459231316319">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/xml/pref_notification.xml" timestamp="1458106210099">
@@ -71,11 +71,17 @@
         <mark key="]" line="28" column="0" />
         <mark key="." line="28" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/MySpinner/app/src/main/res/layout/activity_main.xml" timestamp="1459150277832">
-        <mark key="[" line="13" column="8" />
-        <mark key="]" line="13" column="64" />
-        <mark key="." line="13" column="64" />
-        <mark key="^" line="13" column="64" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/MySpinner/app/src/main/res/layout/activity_main.xml" timestamp="1459235207412">
+        <mark key="[" line="16" column="37" />
+        <mark key="]" line="17" column="57" />
+        <mark key="." line="17" column="57" />
+        <mark key="^" line="17" column="57" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/MySpinner/app/src/main/res/layout/spinner_dropdown_item.xml" timestamp="1459235156715">
+        <mark key="[" line="15" column="27" />
+        <mark key="]" line="15" column="46" />
+        <mark key="^" line="15" column="46" />
+        <mark key="." line="15" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout/activity_main.xml" timestamp="1457433695630">
         <mark key="[" line="21" column="0" />
@@ -118,6 +124,12 @@
         <mark key="]" line="35" column="0" />
         <mark key="^" line="55" column="82" />
         <mark key="." line="35" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/MySpinner/app/src/main/java/me/zaicheng/example/myspinner/StringSpinnerAdapter.java" timestamp="1459233624728">
+        <mark key="[" line="14" column="13" />
+        <mark key="]" line="14" column="13" />
+        <mark key="^" line="63" column="40" />
+        <mark key="." line="14" column="13" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build.gradle" timestamp="1458211721824">
         <mark key="[" line="29" column="0" />
@@ -274,17 +286,16 @@
         <mark key="]" line="39" column="35" />
         <mark key="." line="39" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/MySpinner/app/src/main/res/values/styles.xml" timestamp="1459148815293">
-        <mark key="[" line="3" column="57" />
-        <mark key="]" line="3" column="67" />
-        <mark key="." line="3" column="67" />
-        <mark key="^" line="3" column="67" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/MySpinner/app/src/main/res/values/styles.xml" timestamp="1459232043232">
+        <mark key="[" line="10" column="41" />
+        <mark key="]" line="10" column="50" />
+        <mark key="." line="10" column="50" />
+        <mark key="^" line="10" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/MySpinner/app/src/main/java/me/zaicheng/example/myspinner/MainActivity.java" timestamp="1459149157048">
-        <mark key="[" line="13" column="63" />
-        <mark key="]" line="14" column="34" />
-        <mark key="^" line="14" column="34" />
-        <mark key="." line="14" column="34" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/MySpinner/app/src/main/java/me/zaicheng/example/myspinner/MainActivity.java" timestamp="1459233596857">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/local/TopRatedMovie.java" timestamp="1458457362417">
         <mark key="[" line="69" column="0" />
@@ -310,7 +321,13 @@
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
       </file>
-      <file name="/Dummy.txt" timestamp="1459149539843">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/MySpinner/app/src/main/java/me/zaicheng/example/myspinner/MySpinnerAdapter.java" timestamp="1459234733985">
+        <mark key="[" line="62" column="52" />
+        <mark key="]" line="62" column="72" />
+        <mark key="^" line="62" column="72" />
+        <mark key="." line="62" column="72" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1459231543186">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/android/widget/ArrayAdapter.class" timestamp="1459079385647" />
@@ -372,6 +389,18 @@
         <mark key="]" line="12" column="33" />
         <mark key="^" line="12" column="33" />
         <mark key="." line="12" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/MySpinner/app/src/main/res/layout/spinner_item_view.xml" timestamp="1459231530535">
+        <mark key="[" line="20" column="32" />
+        <mark key="]" line="20" column="32" />
+        <mark key="." line="20" column="32" />
+        <mark key="^" line="20" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/MySpinner/app/src/main/res/layout/spinner_item.xml" timestamp="1459235366375">
+        <mark key="[" line="13" column="49" />
+        <mark key="]" line="13" column="64" />
+        <mark key="." line="13" column="64" />
+        <mark key="^" line="13" column="64" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout/movie_list.xml" timestamp="1458901353370">
         <mark key="[" line="2" column="0" />
@@ -538,44 +567,44 @@
       <jump line="58" column="8" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6dGl0bGVUZXh0Q29sb3I9IkBhbmRyb2lkOmNvbG9yL3ByaW1hcnlfdGV4dF9kYXJrIgo=</text>
+      <register name="&quot;" type="4">
+        <text>arrow_down_float</text>
       </register>
       <register name="-" type="4">
-        <text>colorAccent</text>
+        <text>arrow_down_float</text>
       </register>
       <register name="/" type="4">
         <text>mView</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICJUb3AgUmF0ZWQgTW92aWVzIgo=</text>
+        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIFZpZXcgZ2V0VmlldyhpbnQgaSwgVmlldyB2aWV3LCBWaWV3R3JvdXAgdmlld0dyb3VwKSB7CiAgICAgICAgaWYgKHZpZXcgPT0gbnVsbCB8fCAhdmlldy5nZXRUYWcoKS50b1N0cmluZygpLmVxdWFscygiSVRFTSIpKSAgewogICAgICAgICAgICBMYXlvdXRJbmZsYXRlciBpbmZsYXRlciA9IExheW91dEluZmxhdGVyLmZyb20odmlld0dyb3VwLmdldENvbnRleHQoKSk7CiAgICAgICAgICAgIHZpZXcgPSBpbmZsYXRlci5pbmZsYXRlKFIubGF5b3V0LnNwaW5uZXJfaXRlbSwgdmlld0dyb3VwLCBmYWxzZSk7CiAgICAgICAgICAgIHZpZXcuc2V0VGFnKCJJVEVNIik7CiAgICAgICAgfQoKICAgICAgICBUZXh0VmlldyB0ZXh0VmlldyA9IChUZXh0Vmlldykgdmlldy5maW5kVmlld0J5SWQoYW5kcm9pZC5SLmlkLnRleHQxKTsKICAgICAgICB0ZXh0Vmlldy5zZXRUZXh0KGdldFRpdGxlKGkpKTsKICAgICAgICAKICAgICAgICByZXR1cm4gdmlldzsKICAgIH0K</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6dGl0bGVUZXh0Q29sb3I9IkBhbmRyb2lkOmNvbG9yL3ByaW1hcnlfdGV4dF9kYXJrIgo=</text>
+      <register name="1" type="4">
+        <text>arrow_down_float</text>
       </register>
       <register name="2" type="4">
-        <text>colorAccent</text>
+        <text>#ffffff</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6dGhlbWU9IkBzdHlsZS9CYXNlLlRoZW1lT3ZlcmxheS5BcHBDb21wYXQuQWN0aW9uQmFyIgo=</text>
+      <register name="3" type="4">
+        <text>#ffffff</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhcHA6dGhlbWU9IkBzdHlsZS9UaGVtZU92ZXJsYXkuQXBwQ29tcGF0LiI+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOnRoZW1lPSJAc3R5bGUvVGhlbWVPdmVybGF5LkFwcENvbXBhdC5MaWdodCIK</text>
       </register>
-      <register name="5" type="4">
-        <text>.</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICBhcHA6cG9wdXBUaGVtZT0iQHN0eWxlL1RoZW1lT3ZlcmxheS5BcHBDb21wYXQuTGlnaHQiCg==</text>
       </register>
-      <register name="6" type="4">
-        <text>Light</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYXBwOnRoZW1lPSJAIgo=</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9jb2xvclByaW1hcnkiCg==</text>
+      <register name="7" type="4">
+        <text>&quot;@style/ThemeOverlay.Appcompat.Light&quot;</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSIiCg==</text>
+      <register name="8" type="4">
+        <text>android</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDp0aGVtZT0iQHN0eWxlLyIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -624,6 +653,7 @@
         <entry>n</entry>
         <entry>p</entry>
         <entry>:w</entry>
+        <entry>w'</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
