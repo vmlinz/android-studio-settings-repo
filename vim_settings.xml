@@ -104,7 +104,7 @@
         <mark key="^" line="43" column="64" />
         <mark key="." line="43" column="64" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/DataManager.java" timestamp="1459270540999">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/DataManager.java" timestamp="1459335056652">
         <mark key="'" line="24" column="2" />
         <mark key="[" line="87" column="0" />
         <mark key="]" line="87" column="0" />
@@ -368,7 +368,12 @@
       <file name="/Dummy.txt" timestamp="1459245850823">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MovieService.java" timestamp="1458977790306" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MovieService.java" timestamp="1459335460895">
+        <mark key="[" line="63" column="22" />
+        <mark key="]" line="64" column="58" />
+        <mark key="." line="64" column="58" />
+        <mark key="^" line="64" column="58" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/xml/syncadapter.xml" timestamp="1458027728516">
         <mark key="[" line="0" column="38" />
         <mark key="]" line="1" column="0" />
@@ -549,7 +554,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY2xlYXJNb3ZpZXNJbkRiKCkuZG9PbkNvbXBsZXRlZChuZXcgQWN0aW9uMCgpIHsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIHZvaWQgY2FsbCgpIHsKICAgICAgICAgICAgICAgICAgICBtUnhCdXMuc2VuZChuZXcgQnVzRXZlbnQuTW92aWVzU2F2ZWQoKSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -561,31 +566,31 @@
         <text encoding="base64">ICAgICAgICAgICAgcmV0dXJuIHRoaXMuZ2V0UG9wdWxhck1vdmllcygpCiAgICAgICAgICAgICAgICAgICAgLmNvbmNhdE1hcChuZXcgRnVuYzE8TGlzdDxNb3ZpZT4sIE9ic2VydmFibGU8PyBleHRlbmRzIE1vdmllPj4oKSB7CiAgICAgICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgICAgICBwdWJsaWMgT2JzZXJ2YWJsZTw/IGV4dGVuZHMgTW92aWU+IGNhbGwoTGlzdDxNb3ZpZT4gbW92aWVzKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gc2V0TW92aWVzSW5EYihtb3ZpZXMpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfSk7Cg==</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuCg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgICAgICAgICAgY2xlYXJNb3ZpZXNJbkRiKCkuZG9PbkNvbXBsZXRlZChuZXcgQWN0aW9uMCgpIHsKICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgcHVibGljIHZvaWQgY2FsbCgpIHsKICAgICAgICAgICAgICAgICAgICBtUnhCdXMuc2VuZChuZXcgQnVzRXZlbnQuTW92aWVzU2F2ZWQoKSk7CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0pOwo=</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>)</text>
       </register>
-      <register name="3" type="4">
+      <register name="4" type="4">
         <text>(</text>
       </register>
-      <register name="4" type="4">
+      <register name="5" type="4">
         <text>empty</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text>&quot;</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>j</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>a</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>n</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
