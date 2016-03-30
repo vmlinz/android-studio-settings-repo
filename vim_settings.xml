@@ -13,7 +13,11 @@
         <mark key="^" line="32" column="39" />
         <mark key="." line="32" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailPresenter.java" timestamp="1459317813799" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailPresenter.java" timestamp="1459341609689">
+        <mark key="[" line="65" column="0" />
+        <mark key="]" line="65" column="0" />
+        <mark key="." line="65" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/MySpinner/app/src/main/res/layout/spinner_dropdown_item.xml" timestamp="1459235156715">
         <mark key="[" line="15" column="27" />
         <mark key="]" line="15" column="46" />
@@ -26,20 +30,25 @@
         <mark key="^" line="25" column="19" />
         <mark key="." line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/DataManager.java" timestamp="1459340395926">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailActivity.java" timestamp="1458815009689">
+        <mark key="'" line="90" column="4" />
+        <mark key="[" line="25" column="0" />
+        <mark key="]" line="25" column="0" />
+        <mark key="." line="25" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/DataManager.java" timestamp="1459341455447">
         <mark key="'" line="23" column="2" />
-        <mark key="[" line="95" column="14" />
-        <mark key="]" line="95" column="14" />
-        <mark key="." line="95" column="14" />
-        <mark key="^" line="95" column="14" />
+        <mark key="[" line="119" column="0" />
+        <mark key="]" line="119" column="0" />
+        <mark key="." line="119" column="0" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxandroid/1.1.0/40a4a4339e13c959130aa244e811f70b0bea5463/rxandroid-1.1.0-sources.jar!/rx/android/MainThreadSubscription.java" timestamp="1459006520544" />
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesAdapter.java" timestamp="1459005364148">
-        <mark key="'" line="105" column="26" />
-        <mark key="[" line="101" column="14" />
-        <mark key="]" line="101" column="21" />
-        <mark key="^" line="101" column="21" />
-        <mark key="." line="101" column="21" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesAdapter.java" timestamp="1459342939510">
+        <mark key="'" line="109" column="26" />
+        <mark key="[" line="44" column="16" />
+        <mark key="]" line="44" column="48" />
+        <mark key="^" line="44" column="48" />
+        <mark key="." line="44" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailFragment.java" timestamp="1459336813346" />
       <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/android/widget/ArrayAdapter.class" timestamp="1459079385647" />
@@ -52,12 +61,9 @@
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/build/generated/source/apt/debug/me/zaicheng/app/popularmovies/di/component/DaggerApplicationComponent.java" timestamp="1459241412542" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/build/generated/source/apt/debug/me/zaicheng/app/popularmovies/data/local/PreferenceHelper_Factory.java" timestamp="1459241465306" />
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/local/PreferenceHelper.java" timestamp="1459338943542">
-        <mark key="'" line="75" column="0" />
-        <mark key="[" line="111" column="8" />
-        <mark key="]" line="111" column="14" />
-        <mark key="." line="111" column="14" />
-        <mark key="^" line="111" column="14" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/local/PreferenceHelper.java" timestamp="1459342631228">
+        <mark key="'" line="82" column="0" />
+        <mark key="[" line="68" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/rxbus/RxBus.java" timestamp="1459318026301" />
       <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/android/widget/BaseAdapter.class" timestamp="1459079243142" />
@@ -77,12 +83,12 @@
         <mark key="^" line="64" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieApplication.java" timestamp="1459317882899" />
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1459246331789">
-        <mark key="'" line="66" column="8" />
-        <mark key="[" line="159" column="81" />
-        <mark key="]" line="160" column="39" />
-        <mark key="." line="160" column="39" />
-        <mark key="^" line="160" column="39" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1459342957446">
+        <mark key="'" line="64" column="8" />
+        <mark key="[" line="69" column="47" />
+        <mark key="]" line="69" column="47" />
+        <mark key="." line="69" column="47" />
+        <mark key="^" line="50" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/MySpinner/app/src/main/res/layout/spinner_item_view.xml" timestamp="1459231530535">
         <mark key="[" line="20" column="32" />
@@ -103,11 +109,11 @@
         <mark key="^" line="66" column="19" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/6d8591dcd32b4b97808d3ed78d76c6272299309c/gson-2.6.2-sources.jar!/com/google/gson/Gson.java" timestamp="1459337138509" />
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesPresenter.java" timestamp="1459246710176">
-        <mark key="[" line="59" column="56" />
-        <mark key="]" line="59" column="79" />
-        <mark key="." line="59" column="79" />
-        <mark key="^" line="59" column="79" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesPresenter.java" timestamp="1459342373119">
+        <mark key="[" line="86" column="59" />
+        <mark key="]" line="87" column="50" />
+        <mark key="." line="87" column="50" />
+        <mark key="^" line="87" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/build.gradle" timestamp="1459240171619" />
       <file name="/fragment.java" timestamp="1459245850827">
@@ -218,52 +224,52 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>?</text>
+        <text>preferenceHelper</text>
       </register>
       <register name="-" type="4">
-        <text>?</text>
+        <text>preferenceHelper</text>
       </register>
       <register name="/" type="4">
-        <text>rx</text>
+        <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBUeXBlIHR5cGUgPSBuZXcgVHlwZVRva2VuPExpc3Q8TW92aWU+PigpIHt9LmdldFR5cGUoKTsK</text>
+        <text encoding="base64">ICAgIE1vdmllc0FkYXB0ZXIgbU1vdmllc0FkYXB0ZXIgPSBuZXcgTW92aWVzQWRhcHRlcih0aGlzLCBtUHJlZmVyZW5jZUhlbHBlcik7Cgo=</text>
       </register>
       <register name="1" type="4">
-        <text>?</text>
+        <text>preferenceHelper</text>
       </register>
       <register name="2" type="4">
-        <text>?</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="3" type="4">
-        <text>null</text>
+        <text>,</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29uY2F0TWFwKG5ldyBGdW5jMTxMaXN0PE1vdmllPiwgT2JzZXJ2YWJsZTw/IGV4dGVuZHMgTW92aWU+PigpIHsKICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgICAgIHB1YmxpYyBPYnNlcnZhYmxlPD8gZXh0ZW5kcyBNb3ZpZT4gY2FsbChmaW5hbCBMaXN0PE1vdmllPiBtb3ZpZXMpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBPYnNlcnZhYmxlLmNyZWF0ZShuZXcgT2JzZXJ2YWJsZS5PblN1YnNjcmliZTxNb3ZpZT4oKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgY2FsbChTdWJzY3JpYmVyPD8gc3VwZXIgTW92aWU+IHN1YnNjcmliZXIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFzdWJzY3JpYmVyLmlzVW5zdWJzY3JpYmVkKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciAoTW92aWUgbSA6IG1vdmllcykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN1YnNjcmliZXIub25OZXh0KG0pOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3Vic2NyaWJlci5vbkNvbXBsZXRlZCgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9KTsK</text>
+      <register name="4" type="4">
+        <text encoding="base64">IHByZWZlcmVuY2VIZWxwZXI=</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogMy8yOS8xNiBJbXBsZW1lbnQgZmV0Y2ggZmF2b3JpdGUgbW92aWVzCg==</text>
+      <register name="5" type="4">
+        <text>PreferenceHelper</text>
       </register>
       <register name="6" type="4">
-        <text>null</text>
+        <text>, mPreferenceHelper</text>
       </register>
-      <register name="7" type="4">
-        <text>flatMap()</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAubWFwKG5ldyBGdW5jMTxMaXN0PE1vdmllPiwgTW92aWU+KCkgewogICAgICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICAgICAgcHVibGljIE1vdmllIGNhbGwoTGlzdDxNb3ZpZT4gbW92aWVzKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="4">
-        <text>)</text>
+        <text encoding="base64">ID0gbmV3IE1vdmllc0FkYXB0ZXIodGhpcywgbVByZWZlcmVuY2VIZWxwZXIpOw==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>rx</last-search>
+      <last-search>error</last-search>
       <last-offset />
-      <last-pattern>rx</last-pattern>
+      <last-pattern>error</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>mContext</last-substitute>
       <last-dir>1</last-dir>
@@ -271,8 +277,6 @@
     </search>
     <history>
       <history-search>
-        <entry>Size</entry>
-        <entry>AppCompat</entry>
         <entry>mContext</entry>
         <entry>Log</entry>
         <entry>key</entry>
@@ -291,6 +295,8 @@
         <entry>mMovies</entry>
         <entry>mView</entry>
         <entry>rx</entry>
+        <entry>syncing</entry>
+        <entry>error</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
