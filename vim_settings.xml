@@ -26,12 +26,12 @@
         <mark key="^" line="25" column="19" />
         <mark key="." line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/DataManager.java" timestamp="1459339578321">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/DataManager.java" timestamp="1459340395926">
         <mark key="'" line="23" column="2" />
-        <mark key="[" line="90" column="0" />
-        <mark key="]" line="90" column="0" />
-        <mark key="." line="90" column="0" />
-        <mark key="^" line="106" column="22" />
+        <mark key="[" line="95" column="14" />
+        <mark key="]" line="95" column="14" />
+        <mark key="." line="95" column="14" />
+        <mark key="^" line="95" column="14" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxandroid/1.1.0/40a4a4339e13c959130aa244e811f70b0bea5463/rxandroid-1.1.0-sources.jar!/rx/android/MainThreadSubscription.java" timestamp="1459006520544" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesAdapter.java" timestamp="1459005364148">
@@ -40,13 +40,6 @@
         <mark key="]" line="101" column="21" />
         <mark key="^" line="101" column="21" />
         <mark key="." line="101" column="21" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieApplication.java" timestamp="1458812813759">
-        <mark key="'" line="31" column="0" />
-        <mark key="[" line="47" column="0" />
-        <mark key="]" line="48" column="35" />
-        <mark key="." line="48" column="35" />
-        <mark key="^" line="48" column="35" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailFragment.java" timestamp="1459336813346" />
       <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/android/widget/ArrayAdapter.class" timestamp="1459079385647" />
@@ -58,13 +51,6 @@
         <mark key="^" line="65" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/build/generated/source/apt/debug/me/zaicheng/app/popularmovies/di/component/DaggerApplicationComponent.java" timestamp="1459241412542" />
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesAdapter.java" timestamp="1458755496204">
-        <mark key="'" line="26" column="24" />
-        <mark key="[" line="59" column="30" />
-        <mark key="]" line="59" column="35" />
-        <mark key="^" line="59" column="35" />
-        <mark key="." line="59" column="35" />
-      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/build/generated/source/apt/debug/me/zaicheng/app/popularmovies/data/local/PreferenceHelper_Factory.java" timestamp="1459241465306" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/local/PreferenceHelper.java" timestamp="1459338943542">
         <mark key="'" line="75" column="0" />
@@ -72,13 +58,6 @@
         <mark key="]" line="111" column="14" />
         <mark key="." line="111" column="14" />
         <mark key="^" line="111" column="14" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailPresenter.java" timestamp="1458801241072">
-        <mark key="'" line="27" column="39" />
-        <mark key="[" line="59" column="45" />
-        <mark key="]" line="60" column="45" />
-        <mark key="." line="60" column="45" />
-        <mark key="^" line="60" column="45" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/rxbus/RxBus.java" timestamp="1459318026301" />
       <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/android/widget/BaseAdapter.class" timestamp="1459079243142" />
@@ -238,11 +217,11 @@
       <jump line="75" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/local/PreferenceHelper.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogMy8yOS8xNiBJbXBsZW1lbnQgZmV0Y2ggZmF2b3JpdGUgbW92aWVzCg==</text>
+      <register name="&quot;" type="4">
+        <text>?</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text>?</text>
       </register>
       <register name="/" type="4">
         <text>rx</text>
@@ -250,32 +229,32 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBUeXBlIHR5cGUgPSBuZXcgVHlwZVRva2VuPExpc3Q8TW92aWU+PigpIHt9LmdldFR5cGUoKTsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogMy8yOS8xNiBJbXBsZW1lbnQgZmV0Y2ggZmF2b3JpdGUgbW92aWVzCg==</text>
+      <register name="1" type="4">
+        <text>?</text>
       </register>
       <register name="2" type="4">
-        <text>null</text>
+        <text>?</text>
       </register>
       <register name="3" type="4">
-        <text>flatMap()</text>
+        <text>null</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAubWFwKG5ldyBGdW5jMTxMaXN0PE1vdmllPiwgTW92aWU+KCkgewogICAgICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICAgICAgcHVibGljIE1vdmllIGNhbGwoTGlzdDxNb3ZpZT4gbW92aWVzKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAuY29uY2F0TWFwKG5ldyBGdW5jMTxMaXN0PE1vdmllPiwgT2JzZXJ2YWJsZTw/IGV4dGVuZHMgTW92aWU+PigpIHsKICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgICAgIHB1YmxpYyBPYnNlcnZhYmxlPD8gZXh0ZW5kcyBNb3ZpZT4gY2FsbChmaW5hbCBMaXN0PE1vdmllPiBtb3ZpZXMpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJldHVybiBPYnNlcnZhYmxlLmNyZWF0ZShuZXcgT2JzZXJ2YWJsZS5PblN1YnNjcmliZTxNb3ZpZT4oKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgY2FsbChTdWJzY3JpYmVyPD8gc3VwZXIgTW92aWU+IHN1YnNjcmliZXIpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgKCFzdWJzY3JpYmVyLmlzVW5zdWJzY3JpYmVkKCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGZvciAoTW92aWUgbSA6IG1vdmllcykgewogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHN1YnNjcmliZXIub25OZXh0KG0pOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3Vic2NyaWJlci5vbkNvbXBsZXRlZCgpOwogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgICAgICAgICAgfSk7CiAgICAgICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgICAgICB9KTsK</text>
       </register>
-      <register name="5" type="4">
-        <text>)</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgLy8gVE9ETzogMy8yOS8xNiBJbXBsZW1lbnQgZmV0Y2ggZmF2b3JpdGUgbW92aWVzCg==</text>
       </register>
       <register name="6" type="4">
-        <text>(</text>
+        <text>null</text>
       </register>
       <register name="7" type="4">
-        <text>.empty</text>
+        <text>flatMap()</text>
       </register>
-      <register name="8" type="4">
-        <text>Observable</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAubWFwKG5ldyBGdW5jMTxMaXN0PE1vdmllPiwgTW92aWU+KCkgewogICAgICAgICAgICAgICAgICAgICAgICBAT3ZlcnJpZGUKICAgICAgICAgICAgICAgICAgICAgICAgcHVibGljIE1vdmllIGNhbGwoTGlzdDxNb3ZpZT4gbW92aWVzKSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICByZXR1cm4gbnVsbDsKICAgICAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgICAgIH0pOwo=</text>
       </register>
       <register name="9" type="4">
-        <text>from</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
