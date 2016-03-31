@@ -24,18 +24,18 @@
         <mark key="^" line="15" column="46" />
         <mark key="." line="15" column="46" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" timestamp="1459270691712">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" timestamp="1459403611460">
         <mark key="[" line="24" column="38" />
         <mark key="]" line="25" column="19" />
         <mark key="^" line="25" column="19" />
         <mark key="." line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/DataManager.java" timestamp="1459343797838">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/DataManager.java" timestamp="1459405192488">
         <mark key="'" line="23" column="2" />
-        <mark key="[" line="100" column="68" />
-        <mark key="]" line="100" column="72" />
-        <mark key="." line="100" column="72" />
-        <mark key="^" line="100" column="72" />
+        <mark key="[" line="90" column="43" />
+        <mark key="]" line="90" column="43" />
+        <mark key="." line="90" column="43" />
+        <mark key="^" line="93" column="64" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxandroid/1.1.0/40a4a4339e13c959130aa244e811f70b0bea5463/rxandroid-1.1.0-sources.jar!/rx/android/MainThreadSubscription.java" timestamp="1459006520544" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesAdapter.java" timestamp="1459342939510">
@@ -55,8 +55,11 @@
         <mark key="^" line="65" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/build/generated/source/apt/debug/me/zaicheng/app/popularmovies/di/component/DaggerApplicationComponent.java" timestamp="1459241412542" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MoviesResponse.java" timestamp="1459403594194">
+        <mark key="'" line="54" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/build/generated/source/apt/debug/me/zaicheng/app/popularmovies/data/local/PreferenceHelper_Factory.java" timestamp="1459241465306" />
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/local/PreferenceHelper.java" timestamp="1459343328043">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/local/PreferenceHelper.java" timestamp="1459404172265">
         <mark key="'" line="84" column="0" />
         <mark key="[" line="74" column="9" />
       </file>
@@ -71,6 +74,7 @@
       <file name="/Dummy.txt" timestamp="1459245850823">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/BusEvent.java" timestamp="1459403457584" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MovieService.java" timestamp="1459336630593">
         <mark key="[" line="51" column="0" />
         <mark key="]" line="65" column="29" />
@@ -114,12 +118,9 @@
       <file name="/fragment.java" timestamp="1459245850827">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/okhttp3-integration/1.4.0/879bf004e6d7ff4959ffe9c27d747647a79160c6/okhttp3-integration-1.4.0-sources.jar!/com/bumptech/glide/integration/okhttp3/OkHttpStreamFetcher.java" timestamp="1459403950374" />
     </filemarks>
     <jumps>
-      <jump line="2" column="38" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/xml/authenticator.xml" />
-      <jump line="27" column="4" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherContract.java" />
-      <jump line="14" column="71" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/SyncService.java" />
-      <jump line="60" column="5" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/SyncAdapter.java" />
       <jump line="24" column="44" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/SyncAdapter.java" />
       <jump line="207" column="33" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/SyncAdapter.java" />
       <jump line="32" column="23" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/SyncAdapter.java" />
@@ -216,13 +217,17 @@
       <jump line="58" column="6" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/local/PreferenceHelper.java" />
       <jump line="23" column="40" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/local/PreferenceHelper.java" />
       <jump line="75" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/local/PreferenceHelper.java" />
+      <jump line="39" column="8" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MoviesResponse.java" />
+      <jump line="17" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MoviesResponse.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MoviesResponse.java" />
+      <jump line="54" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MoviesResponse.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.getMoviesFromDb</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>.getMoviesFromDb</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -231,31 +236,31 @@
         <text encoding="base64">ICAgICAgICBtU3Vic2NyaXB0aW9uLmFkZChtRGF0YU1hbmFnZXIuZ2V0TW92aWVzRnJvbURiKCkKICAgICAgICAgICAgICAgIC5vYnNlcnZlT24oQW5kcm9pZFNjaGVkdWxlcnMubWFpblRocmVhZCgpKQogICAgICAgICAgICAgICAgLnN1YnNjcmliZU9uKFNjaGVkdWxlcnMuaW8oKSkKICAgICAgICAgICAgICAgIC5zdWJzY3JpYmUobmV3IFN1YnNjcmliZXI8TGlzdDxNb3ZpZT4+KCkgewogICAgICAgICAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICAgICAgICAgIHB1YmxpYyB2b2lkIG9uQ29tcGxldGVkKCkgewogICAgICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZCgiTW92aWVzIGxvYWRlZCIpOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25FcnJvcihUaHJvd2FibGUgZSkgewogICAgICAgICAgICAgICAgICAgICAgICBUaW1iZXIuZShlLCAiRXJyb3IgbG9hZGluZyB0aGUgbW92aWVzIik7CiAgICAgICAgICAgICAgICAgICAgICAgIG1NdnBWaWV3LnNob3dFcnJvcigpOwogICAgICAgICAgICAgICAgICAgIH0KCiAgICAgICAgICAgICAgICAgICAgQE92ZXJyaWRlCiAgICAgICAgICAgICAgICAgICAgcHVibGljIHZvaWQgb25OZXh0KExpc3Q8TW92aWU+IG1vdmllcykgewogICAgICAgICAgICAgICAgICAgICAgICBpZiAoIW1vdmllcy5pc0VtcHR5KCkpIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1NdnBWaWV3LnNob3dNb3ZpZXMobW92aWVzKTsKICAgICAgICAgICAgICAgICAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgICAgICAgICAgICAgICAgIG1NdnBWaWV3LnNob3dNb3ZpZXNFbXB0eSgpOwogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfSkpOwo=</text>
       </register>
       <register name="1" type="4">
-        <text>.getMoviesFromDb</text>
+        <text>)</text>
       </register>
       <register name="2" type="4">
-        <text>mDataManager</text>
+        <text>(</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>t</text>
       </register>
       <register name="4" type="4">
-        <text>aved</text>
+        <text>s</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cgo=</text>
+      <register name="5" type="4">
+        <text>u</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBmb3IgKE1vdmllIG0gOiBtb3ZpZUxpc3QpIHsKICAgICAgICAgICAgaWYgKG0udG1kYl9pZCA9PSBtb3ZpZS50bWRiX2lkKSB7CiAgICAgICAgICAgICAgICBtb3ZpZUxpc3QucmVtb3ZlKG0pOwogICAgICAgICAgICB9CiAgICAgICAgfQo=</text>
+      <register name="6" type="4">
+        <text>j</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>.</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">PE1vdmll</text>
+        <text>Observable</text>
       </register>
       <register name="9" type="4">
-        <text>List</text>
+        <text encoding="base64">PA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
