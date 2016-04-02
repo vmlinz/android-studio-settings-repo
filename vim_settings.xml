@@ -45,11 +45,11 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout/movie_detail.xml" timestamp="1459596134229">
-        <mark key="[" line="11" column="8" />
-        <mark key="]" line="11" column="44" />
-        <mark key="." line="11" column="44" />
-        <mark key="^" line="11" column="44" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout/movie_detail.xml" timestamp="1459596788807">
+        <mark key="[" line="24" column="35" />
+        <mark key="]" line="24" column="46" />
+        <mark key="." line="24" column="46" />
+        <mark key="^" line="24" column="46" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherTask.java" timestamp="1458041397342">
         <mark key="[" line="41" column="0" />
@@ -610,44 +610,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>300dp</text>
       </register>
       <register name="-" type="4">
-        <text>text</text>
+        <text>300dp</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfdG9SaWdodE9mPSJAK2lkL2ltYWdlX21vdmllX2RldGFpbF9wb3N0ZXIiCg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iNjRkcCIK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="1" type="4">
+        <text>300dp</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmZpdHNTeXN0ZW1XaW5kb3dzPSJ0cnVlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIzMDBkcCIK</text>
       </register>
       <register name="3" type="4">
-        <text>text</text>
+        <text>Left</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9jb2xvclByaW1hcnlEYXJrIi8+Cg==</text>
+      <register name="4" type="4">
+        <text>true</text>
       </register>
       <register name="5" type="4">
-        <text>android:background=&quot;@color/colorPrimaryDark&quot;/</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="6" type="4">
-        <text>@dimen/app_bar_height&quot;</text>
+        <text>&quot;</text>
       </register>
       <register name="7" type="4">
-        <text>wrap_content</text>
+        <text>n</text>
       </register>
       <register name="8" type="4">
-        <text>wrap_content</text>
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text>RightOf</text>
+        <text>c</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
