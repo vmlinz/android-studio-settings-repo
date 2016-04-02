@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailActivity.java" timestamp="1459317770136" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailActivity.java" timestamp="1459580312388" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/component/ApplicationComponent.java" timestamp="1459523671084">
         <mark key="[" line="32" column="39" />
         <mark key="]" line="32" column="39" />
@@ -14,6 +14,9 @@
         <mark key="[" line="65" column="0" />
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout/movie_detail.xml" timestamp="1459580879133">
+        <mark key="[" line="18" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/MySpinner/app/src/main/res/layout/spinner_dropdown_item.xml" timestamp="1459235156715">
         <mark key="[" line="15" column="27" />
@@ -34,8 +37,13 @@
         <mark key="." line="87" column="19" />
         <mark key="^" line="87" column="19" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout/activity_movie_list.xml" timestamp="1459579769565">
+        <mark key="[" line="22" column="40" />
+        <mark key="]" line="22" column="40" />
+        <mark key="." line="22" column="40" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxandroid/1.1.0/40a4a4339e13c959130aa244e811f70b0bea5463/rxandroid-1.1.0-sources.jar!/rx/android/MainThreadSubscription.java" timestamp="1459006520544" />
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesAdapter.java" timestamp="1459342939510">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesAdapter.java" timestamp="1459580211054">
         <mark key="'" line="109" column="26" />
         <mark key="[" line="44" column="16" />
         <mark key="]" line="44" column="48" />
@@ -49,7 +57,13 @@
         <mark key="." line="48" column="35" />
         <mark key="^" line="48" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailFragment.java" timestamp="1459579454507" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailFragment.java" timestamp="1459580716334">
+        <mark key="[" line="29" column="27" />
+        <mark key="]" line="29" column="35" />
+        <mark key="^" line="29" column="35" />
+        <mark key="." line="29" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout/activity_movie_detail.xml" timestamp="1459580279585" />
       <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/android/widget/ArrayAdapter.class" timestamp="1459079385647" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/build.gradle" timestamp="1459241983251">
         <mark key="'" line="72" column="0" />
@@ -59,9 +73,6 @@
         <mark key="^" line="65" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/build/generated/source/apt/debug/me/zaicheng/app/popularmovies/di/component/DaggerApplicationComponent.java" timestamp="1459523735225" />
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MoviesResponse.java" timestamp="1459403594194">
-        <mark key="'" line="54" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesAdapter.java" timestamp="1458755496204">
         <mark key="'" line="26" column="24" />
         <mark key="[" line="59" column="30" />
@@ -130,18 +141,21 @@
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/6d8591dcd32b4b97808d3ed78d76c6272299309c/gson-2.6.2-sources.jar!/com/google/gson/Gson.java" timestamp="1459337138509" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/build/generated/source/apt/debug/com/raizlabs/android/dbflow/config/GeneratedDatabaseHolder.java" timestamp="1459524333840" />
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesPresenter.java" timestamp="1459343856047">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesPresenter.java" timestamp="1459579918476">
         <mark key="[" line="69" column="84" />
         <mark key="]" line="69" column="84" />
         <mark key="." line="69" column="84" />
         <mark key="^" line="69" column="84" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/build.gradle" timestamp="1459240171619" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout-w900dp/movie_list.xml" timestamp="1459580002880">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+      </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/okhttp3-integration/1.4.0/879bf004e6d7ff4959ffe9c27d747647a79160c6/okhttp3-integration-1.4.0-sources.jar!/com/bumptech/glide/integration/okhttp3/OkHttpStreamFetcher.java" timestamp="1459403950374" />
     </filemarks>
     <jumps>
-      <jump line="24" column="44" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/SyncAdapter.java" />
-      <jump line="207" column="33" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/SyncAdapter.java" />
       <jump line="32" column="23" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/SyncAdapter.java" />
       <jump line="136" column="29" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/SyncAdapter.java" />
       <jump line="181" column="8" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/SyncAdapter.java" />
@@ -240,46 +254,48 @@
       <jump line="17" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MoviesResponse.java" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MoviesResponse.java" />
       <jump line="54" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MoviesResponse.java" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout/movie_detail.xml" />
+      <jump line="6" column="4" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout/movie_detail.xml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvbW92aWVfZGV0YWlsX3JlbGVhc2VfZGF0ZSIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IiAvPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>movieList</text>
+        <text>:</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW92aWVTZXQgPSBuZXcgSGFzaFNldDw+KG1vdmllTGlzdCk7Cg==</text>
+        <text encoding="base64">ICAgIDxUZXh0VmlldwogICAgICAgIGFuZHJvaWQ6aWQ9IkAraWQvbW92aWVfZGV0YWlsX3JlbGVhc2VfZGF0ZSIKICAgICAgICBhbmRyb2lkOmxheW91dF93aWR0aD0id3JhcF9jb250ZW50IgogICAgICAgIGFuZHJvaWQ6bGF5b3V0X2hlaWdodD0id3JhcF9jb250ZW50IiAvPgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="1" type="4">
+        <text>:</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBtb3ZpZVNldC4K</text>
+      <register name="2" type="4">
+        <text>android</text>
       </register>
       <register name="3" type="4">
-        <text>movieList</text>
+        <text>xmlns:android=&quot;http://schemas.android.com/apk/res/android&quot;</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>wrap_content</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW92aWVTZXQgPSBuZXcgSGFzaFNldDw+KG1vdmllTGlzdCk7Cg==</text>
+      <register name="5" type="4">
+        <text>wrap_content</text>
       </register>
       <register name="6" type="4">
-        <text>movieList</text>
+        <text>match_parent</text>
       </register>
       <register name="7" type="4">
-        <text>movieList</text>
+        <text>match_parent</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">U2V0PE1vdmllPihtb3ZpZUxpc3Qp</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgbW92aWVMaXN0Lgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
