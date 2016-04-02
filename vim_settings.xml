@@ -3,7 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailActivity.java" timestamp="1459581692620" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailActivity.java" timestamp="1459583095711" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/component/ApplicationComponent.java" timestamp="1459523671084">
         <mark key="[" line="32" column="39" />
         <mark key="]" line="32" column="39" />
@@ -15,11 +15,11 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout/movie_detail.xml" timestamp="1459581015423">
-        <mark key="[" line="26" column="51" />
-        <mark key="]" line="26" column="49" />
-        <mark key="." line="26" column="49" />
-        <mark key="^" line="26" column="49" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout/movie_detail.xml" timestamp="1459582967498">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="12" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/MySpinner/app/src/main/res/layout/spinner_dropdown_item.xml" timestamp="1459235156715">
         <mark key="[" line="15" column="27" />
@@ -46,10 +46,10 @@
         <mark key="." line="22" column="40" />
       </file>
       <file name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.reactivex/rxandroid/1.1.0/40a4a4339e13c959130aa244e811f70b0bea5463/rxandroid-1.1.0-sources.jar!/rx/android/MainThreadSubscription.java" timestamp="1459006520544" />
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesAdapter.java" timestamp="1459581406026">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesAdapter.java" timestamp="1459582402949">
         <mark key="'" line="109" column="26" />
-        <mark key="[" line="44" column="16" />
-        <mark key="]" line="44" column="48" />
+        <mark key="[" line="58" column="0" />
+        <mark key="]" line="67" column="8" />
         <mark key="^" line="44" column="48" />
         <mark key="." line="44" column="48" />
       </file>
@@ -60,14 +60,14 @@
         <mark key="." line="48" column="35" />
         <mark key="^" line="48" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailFragment.java" timestamp="1459581763697">
-        <mark key="'" line="30" column="41" />
-        <mark key="[" line="88" column="67" />
-        <mark key="]" line="88" column="67" />
-        <mark key="^" line="88" column="39" />
-        <mark key="." line="88" column="67" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailFragment.java" timestamp="1459582572877">
+        <mark key="'" line="32" column="41" />
+        <mark key="[" line="91" column="38" />
+        <mark key="]" line="91" column="38" />
+        <mark key="." line="91" column="38" />
+        <mark key="^" line="91" column="38" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout/activity_movie_detail.xml" timestamp="1459582088993" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout/activity_movie_detail.xml" timestamp="1459582957489" />
       <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/android/widget/ArrayAdapter.class" timestamp="1459079385647" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/build.gradle" timestamp="1459241983251">
         <mark key="'" line="72" column="0" />
@@ -263,43 +263,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>android.support.v7.widget.LinearLayoutCompat</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>android.support.v7.widget.LinearLayoutCompat</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEBCaW5kKFIuaWQudHZfbW92aWVfZGV0YWlsX3ZvdGVfYXZlcmFnZSkgVGV4dFZpZXcgbU1vdmllVm90ZUF2ZXJhZ2U7Cg==</text>
+        <text encoding="base64">ICAgICAgICBpZiAoaG9sZGVyLm1Nb3ZpZS5wb3N0ZXJQYXRoICE9IG51bGwpIHsKICAgICAgICAgICAgR2xpZGUud2l0aChtQWN0aXZpdHkuZ2V0KCkpCiAgICAgICAgICAgICAgICAgICAgLmxvYWQoTW92aWVVdGlsLmdldFBvc3RlckltYWdlVXJsKCJ3MTg1IiwgaG9sZGVyLm1Nb3ZpZS5wb3N0ZXJQYXRoKSkKICAgICAgICAgICAgICAgICAgICAuYXNCaXRtYXAoKQogICAgICAgICAgICAgICAgICAgIC5kaXNrQ2FjaGVTdHJhdGVneShEaXNrQ2FjaGVTdHJhdGVneS5SRVNVTFQpCiAgICAgICAgICAgICAgICAgICAgLmludG8oaG9sZGVyLm1Nb3ZpZVBvc3Rlcik7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgR2xpZGUuY2xlYXIoaG9sZGVyLm1Nb3ZpZVBvc3Rlcik7CiAgICAgICAgICAgIGhvbGRlci5tTW92aWVQb3N0ZXIuc2V0SW1hZ2VEcmF3YWJsZShudWxsKTsKICAgICAgICB9Cg==</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text>android.support.v7.widget.LinearLayoutCompat</text>
       </register>
       <register name="2" type="4">
-        <text>(</text>
+        <text>.</text>
       </register>
       <register name="3" type="4">
-        <text>.toString</text>
+        <text>holder</text>
       </register>
       <register name="4" type="4">
-        <text>Float</text>
+        <text>.</text>
       </register>
       <register name="5" type="4">
-        <text>&quot;</text>
+        <text>holder</text>
       </register>
       <register name="6" type="4">
-        <text>&quot;</text>
+        <text>.mMoviePoster</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IA==</text>
+        <text>holder</text>
       </register>
       <register name="8" type="4">
-        <text encoding="base64">ICs=</text>
+        <text>)</text>
       </register>
       <register name="9" type="4">
-        <text>.voteAverage</text>
+        <text>(</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
