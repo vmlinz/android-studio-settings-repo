@@ -45,11 +45,11 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout/movie_detail.xml" timestamp="1459594915355">
-        <mark key="[" line="4" column="34" />
-        <mark key="]" line="4" column="34" />
-        <mark key="." line="4" column="34" />
-        <mark key="^" line="4" column="34" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout/movie_detail.xml" timestamp="1459596134229">
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="11" column="44" />
+        <mark key="." line="11" column="44" />
+        <mark key="^" line="11" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherTask.java" timestamp="1458041397342">
         <mark key="[" line="41" column="0" />
@@ -130,7 +130,7 @@
         <mark key="^" line="40" column="45" />
         <mark key="." line="40" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout/activity_movie_list.xml" timestamp="1459579769565">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout/activity_movie_list.xml" timestamp="1459596147596">
         <mark key="[" line="22" column="40" />
         <mark key="]" line="22" column="40" />
         <mark key="." line="22" column="40" />
@@ -199,7 +199,12 @@
         <mark key="^" line="7" column="15" />
         <mark key="." line="7" column="15" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout/activity_movie_detail.xml" timestamp="1459582957489" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout/activity_movie_detail.xml" timestamp="1459596178514">
+        <mark key="[" line="15" column="0" />
+        <mark key="]" line="15" column="0" />
+        <mark key="." line="15" column="0" />
+        <mark key="^" line="12" column="43" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/MySpinner/app/src/main/res/values/styles.xml" timestamp="1459232043232">
         <mark key="[" line="10" column="41" />
         <mark key="]" line="10" column="50" />
@@ -606,43 +611,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBzdHlsZT0iP2FuZHJvaWQ6YXR0ci90ZXh0QXBwZWFyYW5jZUxhcmdlIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>textAppearanceLarge</text>
+        <text>text</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBzdHlsZT0iP2FuZHJvaWQ6YXR0ci90ZXh0QXBwZWFyYW5jZUxhcmdlIgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfdG9SaWdodE9mPSJAK2lkL2ltYWdlX21vdmllX2RldGFpbF9wb3N0ZXIiCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBzdHlsZT0iP2FuZHJvaWQ6YXR0ci90ZXh0QXBwZWFyYW5jZUxhcmdlIgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3R2X21vdmllX2RldGFpbF9vdmVydmlldyIK</text>
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmZpdHNTeXN0ZW1XaW5kb3dzPSJ0cnVlIgo=</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmlkPSJAK2lkL3R2X21vdmllX2RldGFpbF90aXRsZSIK</text>
+      <register name="3" type="4">
+        <text>text</text>
       </register>
-      <register name="4" type="4">
-        <text>textAppearanceLarge</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmJhY2tncm91bmQ9IkBjb2xvci9jb2xvclByaW1hcnlEYXJrIi8+Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB4bWxuczp0b29scz0iaHR0cDovL3NjaGVtYXMuYW5kcm9pZC5jb20vdG9vbHMiCg==</text>
+      <register name="5" type="4">
+        <text>android:background=&quot;@color/colorPrimaryDark&quot;/</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0b29sczpjb250ZXh0PSIudWkuZGV0YWlsLkRldGFpbEZyYWdtZW50IiAK</text>
+      <register name="6" type="4">
+        <text>@dimen/app_bar_height&quot;</text>
       </register>
       <register name="7" type="4">
-        <text>Overview</text>
+        <text>wrap_content</text>
       </register>
       <register name="8" type="4">
-        <text>overview</text>
+        <text>wrap_content</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBtCg==</text>
+      <register name="9" type="4">
+        <text>RightOf</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
