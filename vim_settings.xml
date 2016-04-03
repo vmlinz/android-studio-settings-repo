@@ -45,11 +45,11 @@
         <mark key="]" line="65" column="0" />
         <mark key="." line="65" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout/movie_detail.xml" timestamp="1459662054854">
-        <mark key="[" line="8" column="49" />
-        <mark key="]" line="8" column="48" />
-        <mark key="." line="8" column="48" />
-        <mark key="^" line="8" column="48" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout/movie_detail.xml" timestamp="1459662684028">
+        <mark key="[" line="8" column="29" />
+        <mark key="]" line="8" column="47" />
+        <mark key="." line="8" column="47" />
+        <mark key="^" line="8" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/FetchWeatherTask.java" timestamp="1458041397342">
         <mark key="[" line="41" column="0" />
@@ -242,7 +242,7 @@
         <mark key="^" line="17" column="45" />
         <mark key="." line="17" column="28" />
       </file>
-      <file name="/usr/local/opt/android-sdk/platforms/android-23/data/res/values/attrs.xml" timestamp="1459594795055" />
+      <file name="/usr/local/opt/android-sdk/platforms/android-23/data/res/values/attrs.xml" timestamp="1459662586789" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/AccountAuthenticatorService.java" timestamp="1458025985647">
         <mark key="[" line="15" column="35" />
         <mark key="]" line="15" column="55" />
@@ -268,6 +268,7 @@
         <mark key="^" line="44" column="49" />
         <mark key="." line="49" column="0" />
       </file>
+      <file name="/usr/local/opt/android-sdk/platforms/android-23/data/res/values/styles.xml" timestamp="1459662555411" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/utils/MovieUtil.java" timestamp="1458902755021">
         <mark key="[" line="6" column="36" />
         <mark key="]" line="6" column="37" />
@@ -611,43 +612,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>300dp</text>
+        <text>textAppearanceMedium</text>
       </register>
       <register name="-" type="4">
-        <text>300dp</text>
+        <text>textAppearanceMedium</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfbWFyZ2luTGVmdD0iNjRkcCIK</text>
+        <text encoding="base64">ICAgICAgICBzdHlsZT0iP2FuZHJvaWQ6YXR0ci90ZXh0QXBwZWFyYW5jZU1lZGl1bSIK</text>
       </register>
       <register name="1" type="4">
-        <text>300dp</text>
+        <text>textAppearanceMedium</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIzMDBkcCIK</text>
+        <text encoding="base64">ICAgICAgICBzdHlsZT0iQGFuZHJvaWQ6c3R5bGUvVGV4dEFwcGVhcmFuY2UuTGFyZ2UiCg==</text>
       </register>
       <register name="3" type="4">
-        <text>Left</text>
+        <text>.Display4</text>
       </register>
       <register name="4" type="4">
-        <text>true</text>
+        <text>Material</text>
       </register>
       <register name="5" type="4">
-        <text encoding="base64">IA==</text>
+        <text>/textAppearanceLarge</text>
       </register>
       <register name="6" type="4">
-        <text>&quot;</text>
+        <text>attr</text>
       </register>
       <register name="7" type="4">
-        <text>n</text>
+        <text>300dp</text>
       </register>
-      <register name="8" type="4">
-        <text>e</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYW5kcm9pZDpsYXlvdXRfaGVpZ2h0PSIzMDBkcCIK</text>
       </register>
       <register name="9" type="4">
-        <text>c</text>
+        <text>Left</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -658,7 +659,7 @@
       <last-offset />
       <last-pattern>error</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute>mContext</last-substitute>
+      <last-substitute>error</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
