@@ -15,11 +15,11 @@
         <mark key="^" line="68" column="50" />
         <mark key="." line="68" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/BirthdayCard/app/src/main/res/layout/activity_main.xml" timestamp="1459758329911">
-        <mark key="[" line="23" column="8" />
-        <mark key="]" line="23" column="53" />
-        <mark key="." line="23" column="53" />
-        <mark key="^" line="23" column="53" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/BirthdayCard/app/src/main/res/layout/activity_main.xml" timestamp="1459760772010">
+        <mark key="[" line="12" column="27" />
+        <mark key="]" line="12" column="36" />
+        <mark key="." line="12" column="36" />
+        <mark key="^" line="12" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/xml/pref_notification.xml" timestamp="1458106210099">
         <mark key="[" line="9" column="0" />
@@ -186,6 +186,7 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/BirthdayCard/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/res/values/values.xml" timestamp="1459760324217" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieApplication.java" timestamp="1458812813759">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="47" column="0" />
@@ -662,43 +663,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>centerInside</text>
+        <text>center</text>
       </register>
       <register name="-" type="4">
-        <text>centerInside</text>
+        <text>center</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudFJpZ2h0PSJ0cnVlIgo=</text>
+        <text encoding="base64">ICAgICAgICBzdHlsZT0iQHN0eWxlL0Jhc2UuVGV4dEFwcGVhcmFuY2UuQXBwQ29tcGF0LkRpc3BsYXkxIgo=</text>
       </register>
       <register name="1" type="4">
-        <text>centerInside</text>
+        <text>center</text>
       </register>
       <register name="2" type="4">
-        <text>wrap_content</text>
+        <text>centerCrop</text>
       </register>
       <register name="3" type="4">
-        <text>Right</text>
+        <text>centerInside</text>
       </register>
       <register name="4" type="4">
-        <text>Right</text>
+        <text>center</text>
       </register>
       <register name="5" type="4">
-        <text>v</text>
+        <text>centerCrop</text>
       </register>
       <register name="6" type="4">
-        <text>t</text>
+        <text>fitXY</text>
       </register>
-      <register name="7" type="4">
-        <text>v</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRTaXplPSIzMnNwIgo=</text>
       </register>
       <register name="8" type="4">
-        <text>t</text>
+        <text>2</text>
       </register>
-      <register name="9" type="4">
-        <text>/from_zaicheng</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnRleHRTaXplPSJAIgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
