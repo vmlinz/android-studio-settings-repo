@@ -15,6 +15,12 @@
         <mark key="^" line="68" column="50" />
         <mark key="." line="68" column="50" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/BirthdayCard/app/src/main/res/layout/activity_main.xml" timestamp="1459757496308">
+        <mark key="[" line="12" column="34" />
+        <mark key="]" line="12" column="38" />
+        <mark key="." line="12" column="38" />
+        <mark key="^" line="12" column="38" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/xml/pref_notification.xml" timestamp="1458106210099">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -251,6 +257,12 @@
         <mark key="]" line="5" column="15" />
         <mark key="." line="5" column="15" />
         <mark key="^" line="5" column="15" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/BirthdayCard/app/src/main/res/values/strings.xml" timestamp="1459756943551">
+        <mark key="[" line="1" column="28" />
+        <mark key="]" line="1" column="41" />
+        <mark key="." line="1" column="41" />
+        <mark key="^" line="1" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieListActivity.java" timestamp="1458741792025">
         <mark key="[" line="82" column="0" />
@@ -649,44 +661,44 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailFragment.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmIK</text>
+      <register name="&quot;" type="4">
+        <text>Right</text>
       </register>
       <register name="-" type="4">
-        <text>colorAccent</text>
+        <text>Right</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
       </register>
-      <register name="0" type="4">
-        <text>&quot;colorPrimary&quot;</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudFJpZ2h0PSJ0cnVlIgo=</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOmIK</text>
+      <register name="1" type="4">
+        <text>Right</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="2" type="4">
+        <text>Right</text>
       </register>
       <register name="3" type="4">
-        <text>colorAccent</text>
+        <text>v</text>
       </register>
       <register name="4" type="4">
-        <text>colorPrimaryDark</text>
+        <text>t</text>
       </register>
       <register name="5" type="4">
-        <text>colorPrimary</text>
+        <text>v</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIDxjb2xvciBuYW1lPSJjb2xvclByaW1hcnkiPjwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0iY29sb3JQcmltYXJ5RGFyayI+IzMwM0Y5RjwvY29sb3I+CiAgICA8Y29sb3IgbmFtZT0iY29sb3JBY2NlbnQiPiNGRjQwODE8L2NvbG9yPgo=</text>
+      <register name="6" type="4">
+        <text>t</text>
       </register>
       <register name="7" type="4">
-        <text>#3F51B5</text>
+        <text>/from_zaicheng</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIDxyZXNvdXJjZXM+Cg==</text>
+      <register name="8" type="4">
+        <text>@string</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDwvcmVzb3VyY2VzPgo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
