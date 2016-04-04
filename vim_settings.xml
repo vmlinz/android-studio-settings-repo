@@ -15,11 +15,11 @@
         <mark key="^" line="68" column="50" />
         <mark key="." line="68" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/BirthdayCard/app/src/main/res/layout/activity_main.xml" timestamp="1459757496308">
-        <mark key="[" line="12" column="34" />
-        <mark key="]" line="12" column="38" />
-        <mark key="." line="12" column="38" />
-        <mark key="^" line="12" column="38" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/BirthdayCard/app/src/main/res/layout/activity_main.xml" timestamp="1459758329911">
+        <mark key="[" line="23" column="8" />
+        <mark key="]" line="23" column="53" />
+        <mark key="." line="23" column="53" />
+        <mark key="^" line="23" column="53" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/xml/pref_notification.xml" timestamp="1458106210099">
         <mark key="[" line="9" column="0" />
@@ -662,10 +662,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Right</text>
+        <text>centerInside</text>
       </register>
       <register name="-" type="4">
-        <text>Right</text>
+        <text>centerInside</text>
       </register>
       <register name="/" type="4">
         <text>error</text>
@@ -674,16 +674,16 @@
         <text encoding="base64">ICAgICAgICBhbmRyb2lkOmxheW91dF9hbGlnblBhcmVudFJpZ2h0PSJ0cnVlIgo=</text>
       </register>
       <register name="1" type="4">
-        <text>Right</text>
+        <text>centerInside</text>
       </register>
       <register name="2" type="4">
-        <text>Right</text>
+        <text>wrap_content</text>
       </register>
       <register name="3" type="4">
-        <text>v</text>
+        <text>Right</text>
       </register>
       <register name="4" type="4">
-        <text>t</text>
+        <text>Right</text>
       </register>
       <register name="5" type="4">
         <text>v</text>
@@ -692,13 +692,13 @@
         <text>t</text>
       </register>
       <register name="7" type="4">
-        <text>/from_zaicheng</text>
+        <text>v</text>
       </register>
       <register name="8" type="4">
-        <text>@string</text>
+        <text>t</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
+      <register name="9" type="4">
+        <text>/from_zaicheng</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
