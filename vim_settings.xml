@@ -25,7 +25,13 @@
       <file name="/a.dummy" timestamp="1459870410316">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailActivity.java" timestamp="1460712724936" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailActivity.java" timestamp="1460714537432">
+        <mark key="'" line="46" column="0" />
+        <mark key="[" line="41" column="0" />
+        <mark key="]" line="41" column="0" />
+        <mark key="^" line="93" column="37" />
+        <mark key="." line="41" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/xml/pref_notification.xml" timestamp="1458106210099">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -56,7 +62,7 @@
         <mark key="^" line="6" column="68" />
         <mark key="." line="6" column="68" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailPresenter.java" timestamp="1460712136662">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailPresenter.java" timestamp="1460714272082">
         <mark key="'" line="92" column="20" />
         <mark key="[" line="138" column="65" />
         <mark key="]" line="138" column="65" />
@@ -237,7 +243,7 @@
         <mark key="^" line="18" column="56" />
         <mark key="." line="18" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailFragment.java" timestamp="1460712650180">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailFragment.java" timestamp="1460714334119">
         <mark key="'" line="136" column="50" />
         <mark key="[" line="96" column="64" />
         <mark key="]" line="96" column="64" />
@@ -606,7 +612,7 @@
         <mark key="." line="7" column="21" />
         <mark key="^" line="7" column="21" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesPresenter.java" timestamp="1459943538405">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesPresenter.java" timestamp="1460714171464">
         <mark key="[" line="69" column="84" />
         <mark key="]" line="69" column="84" />
         <mark key="." line="69" column="84" />
@@ -635,9 +641,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="147" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/SyncAdapter.java" />
-      <jump line="195" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/SyncAdapter.java" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/SyncAdapter.java" />
       <jump line="56" column="12" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherUtils.java" />
       <jump line="313" column="12" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherUtils.java" />
       <jump line="240" column="4" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
@@ -735,12 +738,13 @@
       <jump line="60" column="3" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/ReviewsAdapter.java" />
       <jump line="124" column="50" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailFragment.java" />
       <jump line="0" column="34" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout/movie_detail.xml" />
+      <jump line="44" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailActivity.java" />
+      <jump line="91" column="4" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailActivity.java" />
+      <jump line="46" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
-    }
-}</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -751,34 +755,34 @@
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBpZiAoaG9sZGVyLm1Nb3ZpZS5wb3N0ZXJQYXRoICE9IG51bGwpIHsKICAgICAgICAgICAgR2xpZGUud2l0aChtQWN0aXZpdHkuZ2V0KCkpCiAgICAgICAgICAgICAgICAgICAgLmxvYWQoTW92aWVVdGlsLmdldFBvc3RlckltYWdlVXJsKCJ3MTg1IiwgaG9sZGVyLm1Nb3ZpZS5wb3N0ZXJQYXRoKSkKICAgICAgICAgICAgICAgICAgICAuYXNCaXRtYXAoKQogICAgICAgICAgICAgICAgICAgIC5kaXNrQ2FjaGVTdHJhdGVneShEaXNrQ2FjaGVTdHJhdGVneS5SRVNVTFQpCiAgICAgICAgICAgICAgICAgICAgLmludG8oaG9sZGVyLm1Nb3ZpZVBvc3Rlcik7CiAgICAgICAgfSBlbHNlIHsKICAgICAgICAgICAgR2xpZGUuY2xlYXIoaG9sZGVyLm1Nb3ZpZVBvc3Rlcik7CiAgICAgICAgICAgIGhvbGRlci5tTW92aWVQb3N0ZXIuc2V0SW1hZ2VEcmF3YWJsZShudWxsKTsKICAgICAgICB9Cg==</text>
       </register>
-      <register name="1" type="4">
+      <register name="1" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgICAgICBtRmFiLnNldE9uQ2xpY2tMaXN0ZW5lcihuZXcgVmlldy5PbkNsaWNrTGlzdGVuZXIoKSB7CiAgICAgICAgICAgIEBPdmVycmlkZQogICAgICAgICAgICBwdWJsaWMgdm9pZCBvbkNsaWNrKFZpZXcgdmlldykgewogICAgICAgICAgICB9CiAgICAgICAgfSk7Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgIFNuYWNrYmFyLm1ha2UodmlldywgIlJlcGxhY2Ugd2l0aCB5b3VyIG93biBkZXRhaWwgYWN0aW9uIiwgU25hY2tiYXIuTEVOR1RIX0xPTkcpCiAgICAgICAgICAgICAgICAgICAgICAgIC5zZXRBY3Rpb24oIkFjdGlvbiIsIG51bGwpLnNob3coKTsK</text>
+      </register>
+      <register name="5" type="4">
         <text>.setFlags(Intent.FLAG_ACTIVITY_NEW_TASK);
     }
 }</text>
       </register>
-      <register name="2" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="3" type="4">
+      <register name="7" type="4">
         <text>,</text>
       </register>
-      <register name="4" type="4">
+      <register name="8" type="4">
         <text>Intent.FLAG_ACTIVITY_NEW_TASK);</text>
       </register>
-      <register name="5" type="4">
-        <text>itemView</text>
-      </register>
-      <register name="6" type="4">
-        <text>)</text>
-      </register>
-      <register name="7" type="4">
-        <text>(videoId</text>
-      </register>
-      <register name="8" type="4">
-        <text>.get</text>
-      </register>
       <register name="9" type="4">
-        <text>mTrailers</text>
+        <text>itemView</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
