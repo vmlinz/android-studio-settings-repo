@@ -3,6 +3,7 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/base/BasePresenter.java" timestamp="1460712005531" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/local/PopularMovies.java" timestamp="1458453538735">
         <mark key="[" line="7" column="25" />
         <mark key="]" line="7" column="25" />
@@ -24,6 +25,7 @@
       <file name="/a.dummy" timestamp="1459870410316">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailActivity.java" timestamp="1460712724936" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/xml/pref_notification.xml" timestamp="1458106210099">
         <mark key="[" line="9" column="0" />
         <mark key="]" line="9" column="0" />
@@ -54,7 +56,7 @@
         <mark key="^" line="6" column="68" />
         <mark key="." line="6" column="68" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailPresenter.java" timestamp="1459934826248">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailPresenter.java" timestamp="1460712136662">
         <mark key="'" line="92" column="20" />
         <mark key="[" line="138" column="65" />
         <mark key="]" line="138" column="65" />
@@ -119,6 +121,7 @@
         <mark key="^" line="12" column="33" />
         <mark key="." line="12" column="33" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/base/BaseActivity.java" timestamp="1460712025029" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build.gradle" timestamp="1458211721824">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="35" column="45" />
@@ -137,7 +140,6 @@
         <mark key="^" line="25" column="19" />
         <mark key="." line="25" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/module/ActivityModule.java" timestamp="1460302255117" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/androidTest/java/com/example/sunshine/app/TestFetchWeatherTask.java" timestamp="1458041507663">
         <mark key="[" line="43" column="51" />
         <mark key="]" line="43" column="64" />
@@ -210,7 +212,7 @@
         <mark key="^" line="9" column="45" />
         <mark key="." line="9" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesAdapter.java" timestamp="1460303427046">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesAdapter.java" timestamp="1460712055520">
         <mark key="'" line="109" column="26" />
         <mark key="[" line="58" column="0" />
         <mark key="]" line="67" column="8" />
@@ -235,7 +237,7 @@
         <mark key="^" line="18" column="56" />
         <mark key="." line="18" column="56" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailFragment.java" timestamp="1460303118494">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailFragment.java" timestamp="1460712650180">
         <mark key="'" line="136" column="50" />
         <mark key="[" line="96" column="64" />
         <mark key="]" line="96" column="64" />
@@ -248,7 +250,7 @@
         <mark key="^" line="18" column="7" />
         <mark key="." line="18" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/TrailersAdapter.java" timestamp="1460304163796">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/TrailersAdapter.java" timestamp="1460711666733">
         <mark key="[" line="62" column="79" />
         <mark key="]" line="62" column="117" />
         <mark key="." line="62" column="117" />
@@ -330,7 +332,6 @@
         <mark key="^" line="15" column="55" />
         <mark key="." line="15" column="55" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/component/ActivityComponent.java" timestamp="1460301079583" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/ApplicationContext.java" timestamp="1458227471274">
         <mark key="[" line="8" column="3" />
         <mark key="]" line="12" column="33" />
@@ -356,13 +357,13 @@
         <mark key="." line="1" column="0" />
         <mark key="^" line="6" column="45" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/utils/YoutubeUtil.java" timestamp="1460304190501">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/utils/YoutubeUtil.java" timestamp="1460711783482">
         <mark key="[" line="16" column="5" />
         <mark key="]" line="18" column="0" />
         <mark key="^" line="18" column="0" />
         <mark key="." line="18" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/utils/MovieUtil.java" timestamp="1460300510572">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/utils/MovieUtil.java" timestamp="1460711805450">
         <mark key="[" line="6" column="36" />
         <mark key="]" line="6" column="37" />
         <mark key="^" line="6" column="37" />
@@ -534,7 +535,6 @@
       <file name="/Dummy.txt" timestamp="1460298316103">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Trailer.java" timestamp="1460290094593" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MovieService.java" timestamp="1459934382392">
         <mark key="[" line="47" column="35" />
         <mark key="]" line="47" column="39" />
@@ -558,14 +558,13 @@
         <mark key="^" line="6" column="32" />
         <mark key="." line="6" column="32" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieApplication.java" timestamp="1460301960729" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/build.gradle" timestamp="1458224952995">
         <mark key="[" line="8" column="12" />
         <mark key="]" line="8" column="7" />
         <mark key="^" line="8" column="7" />
         <mark key="." line="8" column="7" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1459946696024">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/main/MoviesActivity.java" timestamp="1460305110306">
         <mark key="'" line="64" column="8" />
         <mark key="[" line="98" column="0" />
         <mark key="]" line="105" column="43" />
@@ -589,7 +588,7 @@
         <mark key="]" line="7" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/module/ApplicationModule.java" timestamp="1459871186710">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/module/ApplicationModule.java" timestamp="1460304865491">
         <mark key="[" line="66" column="0" />
         <mark key="]" line="66" column="0" />
         <mark key="." line="66" column="0" />
