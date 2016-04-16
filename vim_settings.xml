@@ -3,7 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/base/BasePresenter.java" timestamp="1460712005531" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/local/PopularMovies.java" timestamp="1458453538735">
         <mark key="[" line="7" column="25" />
         <mark key="]" line="7" column="25" />
@@ -121,7 +120,6 @@
         <mark key="^" line="12" column="33" />
         <mark key="." line="12" column="33" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/base/BaseActivity.java" timestamp="1460712025029" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/build.gradle" timestamp="1458211721824">
         <mark key="[" line="29" column="0" />
         <mark key="]" line="35" column="45" />
