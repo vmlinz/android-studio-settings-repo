@@ -182,12 +182,11 @@
         <mark key="^" line="45" column="31" />
         <mark key="." line="45" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherUtils.java" timestamp="1460901498797">
-        <mark key="'" line="337" column="8" />
-        <mark key="[" line="339" column="0" />
-        <mark key="]" line="339" column="0" />
-        <mark key="^" line="78" column="38" />
-        <mark key="." line="339" column="0" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherUtils.java" timestamp="1460902356319">
+        <mark key="'" line="335" column="8" />
+        <mark key="[" line="78" column="0" />
+        <mark key="]" line="78" column="0" />
+        <mark key="." line="78" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/local.properties" timestamp="1458211162800">
         <mark key="[" line="12" column="23" />
@@ -707,7 +706,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgU3RyaW5nIEZPUkVDQVNUX0JBU0VfVVJMID0KICAgICAgICAgICAgICAgICAgICAiaHR0cDovL2dvb2dsZS5jb20vPyI7Cg==</text>
       </register>
       <register name="-" type="4">
         <text>/</text>
@@ -719,34 +718,34 @@
         <text encoding="base64">ICAgICAgICAgICAgZmluYWwgU3RyaW5nIEZPUkVDQVNUX0JBU0VfVVJMID0KICAgICAgICAgICAgICAgICAgICAiaHR0cDovL2FwaS5vcGVud2VhdGhlcm1hcC5vcmcvZGF0YS8yLjUvZm9yZWNhc3QvZGFpbHk/IjsK</text>
       </register>
       <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgU3RyaW5nIEZPUkVDQVNUX0JBU0VfVVJMID0KICAgICAgICAgICAgICAgICAgICAiaHR0cDovL2dvb2dsZS5jb20vPyI7Cg==</text>
+      </register>
+      <register name="2" type="2">
         <text encoding="base64">ICAgIH0K</text>
       </register>
-      <register name="2" type="4">
+      <register name="3" type="4">
         <text>catch (JSONException e) {
             Logger.t(LOG_TAG).e(e, e.getMessage());
             e.printStackTrace();
         }</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChKU09ORXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgTG9nZ2VyLnQoTE9HX1RBRykuZShlLCBlLmdldE1lc3NhZ2UoKSk7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
-      </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChKU09ORXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgTG9nZ2VyLnQoTE9HX1RBRykuZShlLCBlLmdldE1lc3NhZ2UoKSk7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
       </register>
       <register name="5" type="2">
         <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">IGNhdGNoIChKU09ORXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgTG9nZ2VyLnQoTE9HX1RBRykuZShlLCBlLmdldE1lc3NhZ2UoKSk7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQ==</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
       </register>
       <register name="7" type="4">
-        <text>/</text>
+        <text encoding="base64">IGNhdGNoIChKU09ORXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgTG9nZ2VyLnQoTE9HX1RBRykuZShlLCBlLmdldE1lc3NhZ2UoKSk7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQ==</text>
       </register>
       <register name="8" type="4">
-        <text>/daily</text>
+        <text>/</text>
       </register>
       <register name="9" type="4">
-        <text>/forecast</text>
+        <text>/daily</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
