@@ -133,18 +133,24 @@
         <mark key="^" line="22" column="91" />
         <mark key="." line="22" column="92" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1460889357273">
-        <mark key="'" line="216" column="0" />
-        <mark key="[" line="247" column="0" />
-        <mark key="]" line="247" column="0" />
-        <mark key="^" line="127" column="44" />
-        <mark key="." line="247" column="0" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1460891449523">
+        <mark key="'" line="217" column="0" />
+        <mark key="[" line="237" column="9" />
+        <mark key="]" line="239" column="20" />
+        <mark key="." line="239" column="20" />
+        <mark key="^" line="239" column="20" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/module/ApplicationModule.java" timestamp="1458811867897">
         <mark key="[" line="53" column="5" />
         <mark key="]" line="53" column="13" />
         <mark key="^" line="53" column="13" />
         <mark key="." line="53" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/AndroidManifest.xml" timestamp="1460891578899">
+        <mark key="[" line="6" column="77" />
+        <mark key="]" line="7" column="76" />
+        <mark key="^" line="7" column="76" />
+        <mark key="." line="7" column="76" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" timestamp="1459935233758">
         <mark key="[" line="24" column="38" />
@@ -386,6 +392,12 @@
         <mark key="]" line="37" column="19" />
         <mark key="^" line="44" column="62" />
         <mark key="." line="37" column="19" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/res/values/strings.xml" timestamp="1460891638347">
+        <mark key="[" line="111" column="66" />
+        <mark key="]" line="111" column="66" />
+        <mark key="^" line="111" column="66" />
+        <mark key="." line="111" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MoviesResponse.java" timestamp="1459870810724">
         <mark key="[" line="22" column="21" />
@@ -751,10 +763,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG5ldHdvcmtJbmZvcyAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBmb3IgKE5ldHdvcmtJbmZvIG5ldHdvcmtJbmZvIDogbmV0d29ya0luZm9zKSB7CgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>n</text>
+        <text>]</text>
       </register>
       <register name="/" type="4">
         <text>disp</text>
@@ -763,31 +775,31 @@
         <text encoding="base64">ICAgICAgICBhY3Rpdml0eUNvbXBvbmVudCgpLmluamVjdCh0aGlzKTsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG5ldHdvcmtJbmZvcyAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBmb3IgKE5ldHdvcmtJbmZvIG5ldHdvcmtJbmZvIDogbmV0d29ya0luZm9zKSB7CgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBkaXNwbGF5RW1wdHlWaWV3KCkgewogICAgICAgIG1MaXN0Vmlldy5zZXRWaXNpYmlsaXR5KFZpZXcuSU5WSVNJQkxFKTsKICAgICAgICBtRW1wdHlUZXh0Vmlldy5zZXRUZXh0KFIuc3RyaW5nLmZvcmVjYXN0X2VtcHR5KTsKICAgICAgICBtRW1wdHlUZXh0Vmlldy5zZXRWaXNpYmlsaXR5KFZpZXcuVklTSUJMRSk7CiAgICB9Cg==</text>
+      <register name="2" type="4">
+        <text>]</text>
       </register>
-      <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="3" type="4">
+        <text>[</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZGF0YS5nZXRDb3VudCgpID09IDApIHsKICAgICAgICAgICAgZGlzcGxheUVtcHR5VmlldygpOwogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
+      <register name="4" type="4">
+        <text encoding="base64">IG5ldHdvcmtJbmZv</text>
       </register>
       <register name="5" type="4">
-        <text>n</text>
+        <text>NetworkInfo</text>
       </register>
       <register name="6" type="4">
-        <text>i</text>
+        <text>c</text>
       </register>
       <register name="7" type="4">
-        <text>a</text>
+        <text>Compat</text>
       </register>
       <register name="8" type="4">
-        <text>m</text>
+        <text>ConnectivityManagerCompat</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImludmlzaWJsZSIK</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
