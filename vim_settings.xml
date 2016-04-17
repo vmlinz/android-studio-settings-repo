@@ -133,7 +133,7 @@
         <mark key="^" line="22" column="91" />
         <mark key="." line="22" column="92" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1460891449523">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1460896483758">
         <mark key="'" line="217" column="0" />
         <mark key="[" line="237" column="9" />
         <mark key="]" line="239" column="20" />
@@ -544,7 +544,12 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/SyncAdapter.java" timestamp="1460887169014" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/SyncAdapter.java" timestamp="1460896833217">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="^" line="43" column="54" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout-sw600dp/content_main.xml" timestamp="1457490165397">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -763,43 +768,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG5ldHdvcmtJbmZvcyAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBmb3IgKE5ldHdvcmtJbmZvIG5ldHdvcmtJbmZvIDogbmV0d29ya0luZm9zKSB7CgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>]</text>
+        <text>0</text>
       </register>
       <register name="/" type="4">
         <text>disp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICBhY3Rpdml0eUNvbXBvbmVudCgpLmluamVjdCh0aGlzKTsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IExPQ0FUSU9OX1NUQVRVU19PSyA9IDA7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG5ldHdvcmtJbmZvcyAhPSBudWxsKSB7CiAgICAgICAgICAgICAgICBmb3IgKE5ldHdvcmtJbmZvIG5ldHdvcmtJbmZvIDogbmV0d29ya0luZm9zKSB7CgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="4">
-        <text>]</text>
+        <text>0</text>
       </register>
       <register name="3" type="4">
-        <text>[</text>
+        <text>0</text>
       </register>
       <register name="4" type="4">
-        <text encoding="base64">IG5ldHdvcmtJbmZv</text>
+        <text>0</text>
       </register>
       <register name="5" type="4">
-        <text>NetworkInfo</text>
+        <text>K</text>
       </register>
       <register name="6" type="4">
-        <text>c</text>
+        <text>O</text>
       </register>
       <register name="7" type="4">
-        <text>Compat</text>
+        <text>K</text>
       </register>
       <register name="8" type="4">
-        <text>ConnectivityManagerCompat</text>
+        <text>O</text>
       </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gZmFsc2U7Cg==</text>
+      <register name="9" type="4">
+        <text>K</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
