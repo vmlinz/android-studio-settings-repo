@@ -3,6 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/res/layout/fragment_main.xml" timestamp="1460889316671">
+        <mark key="[" line="15" column="30" />
+        <mark key="]" line="15" column="29" />
+        <mark key="." line="15" column="29" />
+        <mark key="^" line="15" column="29" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/local/PopularMovies.java" timestamp="1458453538735">
         <mark key="[" line="7" column="25" />
         <mark key="]" line="7" column="25" />
@@ -127,6 +133,13 @@
         <mark key="^" line="22" column="91" />
         <mark key="." line="22" column="92" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1460889357273">
+        <mark key="'" line="216" column="0" />
+        <mark key="[" line="247" column="0" />
+        <mark key="]" line="247" column="0" />
+        <mark key="^" line="127" column="44" />
+        <mark key="." line="247" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/module/ApplicationModule.java" timestamp="1458811867897">
         <mark key="[" line="53" column="5" />
         <mark key="]" line="53" column="13" />
@@ -158,6 +171,7 @@
         <mark key="." line="46" column="50" />
         <mark key="^" line="46" column="50" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/res/layout/content_detail.xml" timestamp="1460888185378" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastAdapter.java" timestamp="1457345011945">
         <mark key="[" line="20" column="20" />
         <mark key="]" line="29" column="54" />
@@ -518,6 +532,7 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/SyncAdapter.java" timestamp="1460887169014" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout-sw600dp/content_main.xml" timestamp="1457490165397">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -624,6 +639,7 @@
         <mark key="^" line="6" column="45" />
         <mark key="." line="8" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastAdapter.java" timestamp="1460888085349" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/res/layout-w900dp/movie_list.xml" timestamp="1459942570181">
         <mark key="[" line="30" column="31" />
         <mark key="]" line="30" column="31" />
@@ -632,7 +648,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="240" column="4" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
       <jump line="2" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/build.gradle" />
       <jump line="0" column="19" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/module/ActivityModule.java" />
       <jump line="125" column="1" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MoviesResponse.java" />
@@ -732,16 +747,17 @@
       <jump line="46" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailActivity.java" />
       <jump line="60" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailFragment.java" />
       <jump line="129" column="4" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/detail/DetailFragment.java" />
+      <jump line="216" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text>n</text>
       </register>
       <register name="/" type="4">
-        <text>favor</text>
+        <text>disp</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBhY3Rpdml0eUNvbXBvbmVudCgpLmluamVjdCh0aGlzKTsK</text>
@@ -750,37 +766,37 @@
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIG1QcmVmLmFkZE1vdmllVG9GYXZvcml0ZXMoaG9sZGVyLm1Nb3ZpZSk7Cg==</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgdm9pZCBkaXNwbGF5RW1wdHlWaWV3KCkgewogICAgICAgIG1MaXN0Vmlldy5zZXRWaXNpYmlsaXR5KFZpZXcuSU5WSVNJQkxFKTsKICAgICAgICBtRW1wdHlUZXh0Vmlldy5zZXRUZXh0KFIuc3RyaW5nLmZvcmVjYXN0X2VtcHR5KTsKICAgICAgICBtRW1wdHlUZXh0Vmlldy5zZXRWaXNpYmlsaXR5KFZpZXcuVklTSUJMRSk7CiAgICB9Cg==</text>
       </register>
-      <register name="3" type="4">
-        <text>d</text>
-      </register>
-      <register name="4" type="2">
+      <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIHZvaWQgb25EZXN0cm95KCkgewogICAgICAgIHN1cGVyLm9uRGVzdHJveSgpOwogICAgfQo=</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZGF0YS5nZXRDb3VudCgpID09IDApIHsKICAgICAgICAgICAgZGlzcGxheUVtcHR5VmlldygpOwogICAgICAgICAgICByZXR1cm47CiAgICAgICAgfQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="5" type="4">
+        <text>n</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+      <register name="6" type="4">
+        <text>i</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgIEBPdmVycmlkZQogICAgcHVibGljIGxvbmcgZ2V0TW92aWVJZCgpIHsKICAgICAgICByZXR1cm4gbW92aWVJZDsKICAgIH0KCg==</text>
+      <register name="7" type="4">
+        <text>a</text>
       </register>
-      <register name="9" type="4">
-        <text>int</text>
+      <register name="8" type="4">
+        <text>m</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICBhbmRyb2lkOnZpc2liaWxpdHk9ImludmlzaWJsZSIK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>favor</last-search>
+      <last-search>disp</last-search>
       <last-offset />
-      <last-pattern>favor</last-pattern>
+      <last-pattern>disp</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>error</last-substitute>
       <last-dir>1</last-dir>
@@ -788,7 +804,6 @@
     </search>
     <history>
       <history-search>
-        <entry>key</entry>
         <entry>setup</entry>
         <entry>release</entry>
         <entry>title</entry>
@@ -808,6 +823,7 @@
         <entry>error</entry>
         <entry>margin</entry>
         <entry>favor</entry>
+        <entry>disp</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
