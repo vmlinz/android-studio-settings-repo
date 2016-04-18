@@ -182,11 +182,12 @@
         <mark key="^" line="45" column="31" />
         <mark key="." line="45" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherUtils.java" timestamp="1460902356319">
-        <mark key="'" line="335" column="8" />
-        <mark key="[" line="78" column="0" />
-        <mark key="]" line="78" column="0" />
-        <mark key="." line="78" column="0" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherUtils.java" timestamp="1460973406682">
+        <mark key="'" line="336" column="8" />
+        <mark key="[" line="359" column="4" />
+        <mark key="]" line="359" column="9" />
+        <mark key="." line="359" column="9" />
+        <mark key="^" line="359" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/local.properties" timestamp="1458211162800">
         <mark key="[" line="12" column="23" />
@@ -463,6 +464,7 @@
         <mark key="." line="35" column="45" />
         <mark key="^" line="35" column="45" />
       </file>
+      <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/android/preference/PreferenceFragment.class" timestamp="1460973019557" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/xml/touch_selector.xml" timestamp="1457273431061">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="15" column="14" />
@@ -481,6 +483,7 @@
         <mark key="^" line="6" column="68" />
         <mark key="." line="6" column="68" />
       </file>
+      <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/android/preference/Preference.class" timestamp="1460972838599" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/ui/base/BasePresenter.java" timestamp="1458744097415">
         <mark key="[" line="33" column="20" />
         <mark key="]" line="33" column="21" />
@@ -500,6 +503,12 @@
         <mark key="." line="2" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/SyncAdapter.java" timestamp="1460897832591" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" timestamp="1460973285145">
+        <mark key="[" line="200" column="84" />
+        <mark key="]" line="201" column="75" />
+        <mark key="^" line="201" column="75" />
+        <mark key="." line="201" column="75" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout-sw600dp/content_main.xml" timestamp="1457490165397">
         <mark key="[" line="21" column="0" />
         <mark key="]" line="21" column="0" />
@@ -705,47 +714,44 @@
       <jump line="337" column="8" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgU3RyaW5nIEZPUkVDQVNUX0JBU0VfVVJMID0KICAgICAgICAgICAgICAgICAgICAiaHR0cDovL2dvb2dsZS5jb20vPyI7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>getContext</text>
       </register>
       <register name="-" type="4">
-        <text>/</text>
+        <text>getContext</text>
       </register>
       <register name="/" type="4">
         <text>onResu</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgU3RyaW5nIEZPUkVDQVNUX0JBU0VfVVJMID0KICAgICAgICAgICAgICAgICAgICAiaHR0cDovL2FwaS5vcGVud2VhdGhlcm1hcC5vcmcvZGF0YS8yLjUvZm9yZWNhc3QvZGFpbHk/IjsK</text>
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IExPQ0FUSU9OX1NUQVRVU19VTktOT1dOID0gMzsK</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgZmluYWwgU3RyaW5nIEZPUkVDQVNUX0JBU0VfVVJMID0KICAgICAgICAgICAgICAgICAgICAiaHR0cDovL2dvb2dsZS5jb20vPyI7Cg==</text>
+      <register name="1" type="4">
+        <text>getContext</text>
       </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+      <register name="2" type="4">
+        <text>getBaseContext</text>
       </register>
       <register name="3" type="4">
-        <text>catch (JSONException e) {
-            Logger.t(LOG_TAG).e(e, e.getMessage());
-            e.printStackTrace();
-        }</text>
+        <text>SettingsActivity</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB9IGNhdGNoIChKU09ORXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgTG9nZ2VyLnQoTE9HX1RBRykuZShlLCBlLmdldE1lc3NhZ2UoKSk7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQo=</text>
+      <register name="4" type="4">
+        <text>false</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+      <register name="5" type="4">
+        <text>public</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICB0cnkgewo=</text>
+      <register name="6" type="4">
+        <text>private</text>
       </register>
       <register name="7" type="4">
-        <text encoding="base64">IGNhdGNoIChKU09ORXhjZXB0aW9uIGUpIHsKICAgICAgICAgICAgTG9nZ2VyLnQoTE9HX1RBRykuZShlLCBlLmdldE1lc3NhZ2UoKSk7CiAgICAgICAgICAgIGUucHJpbnRTdGFja1RyYWNlKCk7CiAgICAgICAgfQ==</text>
+        <text>private</text>
       </register>
       <register name="8" type="4">
-        <text>/</text>
+        <text>)</text>
       </register>
       <register name="9" type="4">
-        <text>/daily</text>
+        <text>)</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -796,6 +802,7 @@
         <entry>:w</entry>
         <entry>w'</entry>
         <entry>we</entry>
+        <entry>w:w</entry>
         <entry>w</entry>
       </history-cmd>
       <history-expr />
