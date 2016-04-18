@@ -508,11 +508,12 @@
         <mark key="." line="2" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/SyncAdapter.java" timestamp="1460897832591" />
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" timestamp="1460973285145">
-        <mark key="[" line="200" column="84" />
-        <mark key="]" line="201" column="75" />
-        <mark key="^" line="201" column="75" />
-        <mark key="." line="201" column="75" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" timestamp="1460997036215">
+        <mark key="'" line="83" column="14" />
+        <mark key="[" line="83" column="34" />
+        <mark key="]" line="83" column="34" />
+        <mark key="^" line="83" column="39" />
+        <mark key="." line="83" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout-sw600dp/content_main.xml" timestamp="1457490165397">
         <mark key="[" line="21" column="0" />
@@ -617,7 +618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="76" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/MovieListActivity.java" />
       <jump line="32" column="25" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
       <jump line="89" column="10" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
       <jump line="379" column="15" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
@@ -717,13 +717,14 @@
       <jump line="122" column="3" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
       <jump line="273" column="4" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
       <jump line="337" column="8" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherUtils.java" />
+      <jump line="83" column="14" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1lc3NhZ2VDb2RlID09IDQwNCkgewogICAgICAgICAgICAgICAgV2VhdGhlclV0aWxzLnNldExvY2F0aW9uU3RhdHVzKGNvbnRleHQsIExPQ0FUSU9OX1NUQVRVU19MT0NBVElPTl9JTlZBTElEKTsKICAgICAgICAgICAgfQo=</text>
+      <register name="&quot;" type="4">
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>break</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>onResu</text>
@@ -731,32 +732,32 @@
       <register name="0" type="4">
         <text>LOCATION_STATUS_INVALID</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1lc3NhZ2VDb2RlID09IDQwNCkgewogICAgICAgICAgICAgICAgV2VhdGhlclV0aWxzLnNldExvY2F0aW9uU3RhdHVzKGNvbnRleHQsIExPQ0FUSU9OX1NUQVRVU19MT0NBVElPTl9JTlZBTElEKTsKICAgICAgICAgICAgfQo=</text>
+      <register name="1" type="4">
+        <text>.</text>
       </register>
       <register name="2" type="4">
-        <text>break</text>
+        <text>this</text>
       </register>
       <register name="3" type="4">
-        <text>SERVER_DOWN</text>
+        <text>.</text>
       </register>
       <register name="4" type="4">
-        <text>OWM_CITY_NAME</text>
+        <text>SettingsActivity</text>
       </register>
-      <register name="5" type="4">
-        <text>INVALID_LOCATION</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1lc3NhZ2VDb2RlID09IDQwNCkgewogICAgICAgICAgICAgICAgV2VhdGhlclV0aWxzLnNldExvY2F0aW9uU3RhdHVzKGNvbnRleHQsIExPQ0FUSU9OX1NUQVRVU19MT0NBVElPTl9JTlZBTElEKTsKICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZm9yZWNhc3RKc29uLmhhcyhPV01fQ0lUWV9OQU1FKSkgewogICAgICAgICAgICBpbnQgbWVzc2FnZUNvZGUgPSBmb3JlY2FzdEpzb24uZ2V0SW50KE9XTV9NRVNTQUdFX0NPREUpOwogICAgICAgIH0K</text>
+      <register name="6" type="4">
+        <text>break</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>SERVER_DOWN</text>
       </register>
       <register name="8" type="4">
-        <text>getContext</text>
+        <text>OWM_CITY_NAME</text>
       </register>
       <register name="9" type="4">
-        <text>getBaseContext</text>
+        <text>INVALID_LOCATION</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
