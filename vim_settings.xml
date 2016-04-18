@@ -119,7 +119,12 @@
         <mark key="^" line="22" column="91" />
         <mark key="." line="22" column="92" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1460900979793" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1460974166262">
+        <mark key="[" line="312" column="50" />
+        <mark key="]" line="312" column="65" />
+        <mark key="^" line="312" column="65" />
+        <mark key="." line="312" column="65" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/di/module/ApplicationModule.java" timestamp="1458811867897">
         <mark key="[" line="53" column="5" />
         <mark key="]" line="53" column="13" />
@@ -182,12 +187,12 @@
         <mark key="^" line="45" column="31" />
         <mark key="." line="45" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherUtils.java" timestamp="1460973406682">
-        <mark key="'" line="336" column="8" />
-        <mark key="[" line="359" column="4" />
-        <mark key="]" line="359" column="9" />
-        <mark key="." line="359" column="9" />
-        <mark key="^" line="359" column="9" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherUtils.java" timestamp="1460974681287">
+        <mark key="'" line="352" column="8" />
+        <mark key="[" line="255" column="0" />
+        <mark key="]" line="255" column="0" />
+        <mark key="^" line="261" column="25" />
+        <mark key="." line="255" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/local.properties" timestamp="1458211162800">
         <mark key="[" line="12" column="23" />
@@ -714,44 +719,44 @@
       <jump line="337" column="8" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherUtils.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>getContext</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1lc3NhZ2VDb2RlID09IDQwNCkgewogICAgICAgICAgICAgICAgV2VhdGhlclV0aWxzLnNldExvY2F0aW9uU3RhdHVzKGNvbnRleHQsIExPQ0FUSU9OX1NUQVRVU19MT0NBVElPTl9JTlZBTElEKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="-" type="4">
-        <text>getContext</text>
+        <text>break</text>
       </register>
       <register name="/" type="4">
         <text>onResu</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgZmluYWwgaW50IExPQ0FUSU9OX1NUQVRVU19VTktOT1dOID0gMzsK</text>
+      <register name="0" type="4">
+        <text>LOCATION_STATUS_INVALID</text>
       </register>
-      <register name="1" type="4">
-        <text>getContext</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1lc3NhZ2VDb2RlID09IDQwNCkgewogICAgICAgICAgICAgICAgV2VhdGhlclV0aWxzLnNldExvY2F0aW9uU3RhdHVzKGNvbnRleHQsIExPQ0FUSU9OX1NUQVRVU19MT0NBVElPTl9JTlZBTElEKTsKICAgICAgICAgICAgfQo=</text>
       </register>
       <register name="2" type="4">
-        <text>getBaseContext</text>
+        <text>break</text>
       </register>
       <register name="3" type="4">
-        <text>SettingsActivity</text>
+        <text>SERVER_DOWN</text>
       </register>
       <register name="4" type="4">
-        <text>false</text>
+        <text>OWM_CITY_NAME</text>
       </register>
       <register name="5" type="4">
-        <text>public</text>
+        <text>INVALID_LOCATION</text>
       </register>
-      <register name="6" type="4">
-        <text>private</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZm9yZWNhc3RKc29uLmhhcyhPV01fQ0lUWV9OQU1FKSkgewogICAgICAgICAgICBpbnQgbWVzc2FnZUNvZGUgPSBmb3JlY2FzdEpzb24uZ2V0SW50KE9XTV9NRVNTQUdFX0NPREUpOwogICAgICAgIH0K</text>
       </register>
-      <register name="7" type="4">
-        <text>private</text>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="4">
-        <text>)</text>
+        <text>getContext</text>
       </register>
       <register name="9" type="4">
-        <text>)</text>
+        <text>getBaseContext</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
