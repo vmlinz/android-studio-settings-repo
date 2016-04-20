@@ -119,7 +119,7 @@
         <mark key="^" line="22" column="91" />
         <mark key="." line="22" column="92" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1460974166262">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1461139993654">
         <mark key="[" line="312" column="50" />
         <mark key="]" line="312" column="65" />
         <mark key="^" line="312" column="65" />
@@ -187,12 +187,12 @@
         <mark key="^" line="45" column="31" />
         <mark key="." line="45" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherUtils.java" timestamp="1460974681287">
-        <mark key="'" line="352" column="8" />
-        <mark key="[" line="255" column="0" />
-        <mark key="]" line="255" column="0" />
-        <mark key="^" line="261" column="25" />
-        <mark key="." line="255" column="0" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherUtils.java" timestamp="1461141548720">
+        <mark key="'" line="356" column="8" />
+        <mark key="[" line="264" column="20" />
+        <mark key="]" line="264" column="20" />
+        <mark key="." line="264" column="20" />
+        <mark key="^" line="103" column="22" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/local.properties" timestamp="1458211162800">
         <mark key="[" line="12" column="23" />
@@ -364,7 +364,7 @@
         <mark key="^" line="44" column="62" />
         <mark key="." line="37" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/res/values/strings.xml" timestamp="1461136539851">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/res/values/strings.xml" timestamp="1461139016210">
         <mark key="[" line="118" column="51" />
         <mark key="]" line="118" column="121" />
         <mark key="^" line="118" column="121" />
@@ -507,13 +507,13 @@
         <mark key="^" line="2" column="30" />
         <mark key="." line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/SyncAdapter.java" timestamp="1460897832591" />
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" timestamp="1461136172798">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/SyncAdapter.java" timestamp="1461140480667" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" timestamp="1461140344141">
         <mark key="'" line="64" column="42" />
-        <mark key="[" line="281" column="56" />
-        <mark key="]" line="281" column="94" />
-        <mark key="^" line="281" column="94" />
-        <mark key="." line="281" column="94" />
+        <mark key="[" line="184" column="0" />
+        <mark key="]" line="184" column="0" />
+        <mark key="^" line="279" column="94" />
+        <mark key="." line="184" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout-sw600dp/content_main.xml" timestamp="1457490165397">
         <mark key="[" line="21" column="0" />
@@ -721,10 +721,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text>Bind</text>
@@ -733,31 +733,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJlZmVyZW5jZS5zZXRTdW1tYXJ5KHN0cmluZ1ZhbHVlKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>)</text>
+        <text>.</text>
       </register>
       <register name="2" type="4">
-        <text encoding="base64">Pg==</text>
+        <text>WeatherUtils</text>
       </register>
       <register name="3" type="4">
-        <text>g</text>
+        <text>apply</text>
       </register>
       <register name="4" type="4">
-        <text>:</text>
+        <text>SERVER_DOWN</text>
       </register>
-      <register name="5" type="4">
-        <text>f</text>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text>f</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgV2VhdGhlclV0aWxzLnJlc2V0TG9jYXRpb25TdGF0dXMoY29udGV4dCk7Cg==</text>
       </register>
       <register name="7" type="4">
-        <text>i</text>
+        <text>)</text>
       </register>
       <register name="8" type="4">
-        <text>l</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="9" type="4">
-        <text>x</text>
+        <text>g</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
