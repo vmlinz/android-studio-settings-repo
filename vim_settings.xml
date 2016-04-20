@@ -508,12 +508,12 @@
         <mark key="." line="2" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/SyncAdapter.java" timestamp="1460897832591" />
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" timestamp="1460997036215">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" timestamp="1461134642354">
         <mark key="'" line="83" column="14" />
-        <mark key="[" line="83" column="34" />
-        <mark key="]" line="83" column="34" />
-        <mark key="^" line="83" column="39" />
-        <mark key="." line="83" column="34" />
+        <mark key="[" line="92" column="71" />
+        <mark key="]" line="93" column="130" />
+        <mark key="^" line="93" column="130" />
+        <mark key="." line="93" column="130" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout-sw600dp/content_main.xml" timestamp="1457490165397">
         <mark key="[" line="21" column="0" />
@@ -721,10 +721,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>SERVER_INVALID</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>SERVER_INVALID</text>
       </register>
       <register name="/" type="4">
         <text>onResu</text>
@@ -733,31 +733,31 @@
         <text>LOCATION_STATUS_INVALID</text>
       </register>
       <register name="1" type="4">
-        <text>.</text>
+        <text>SERVER_INVALID</text>
       </register>
       <register name="2" type="4">
-        <text>this</text>
-      </register>
-      <register name="3" type="4">
         <text>.</text>
       </register>
+      <register name="3" type="4">
+        <text>this</text>
+      </register>
       <register name="4" type="4">
+        <text>.</text>
+      </register>
+      <register name="5" type="4">
         <text>SettingsActivity</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">ICAgICAgICAgICAgaWYgKG1lc3NhZ2VDb2RlID09IDQwNCkgewogICAgICAgICAgICAgICAgV2VhdGhlclV0aWxzLnNldExvY2F0aW9uU3RhdHVzKGNvbnRleHQsIExPQ0FUSU9OX1NUQVRVU19MT0NBVElPTl9JTlZBTElEKTsKICAgICAgICAgICAgfQo=</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>break</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>SERVER_DOWN</text>
       </register>
-      <register name="8" type="4">
-        <text>OWM_CITY_NAME</text>
-      </register>
       <register name="9" type="4">
-        <text>INVALID_LOCATION</text>
+        <text>OWM_CITY_NAME</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
