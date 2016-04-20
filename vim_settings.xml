@@ -119,7 +119,7 @@
         <mark key="^" line="22" column="91" />
         <mark key="." line="22" column="92" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1461139993654">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1461143213183">
         <mark key="[" line="312" column="50" />
         <mark key="]" line="312" column="65" />
         <mark key="^" line="312" column="65" />
@@ -187,12 +187,12 @@
         <mark key="^" line="45" column="31" />
         <mark key="." line="45" column="31" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherUtils.java" timestamp="1461141548720">
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherUtils.java" timestamp="1461143613392">
         <mark key="'" line="356" column="8" />
-        <mark key="[" line="264" column="20" />
-        <mark key="]" line="264" column="20" />
-        <mark key="." line="264" column="20" />
-        <mark key="^" line="103" column="22" />
+        <mark key="[" line="374" column="104" />
+        <mark key="]" line="374" column="111" />
+        <mark key="." line="374" column="111" />
+        <mark key="^" line="374" column="111" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/local.properties" timestamp="1458211162800">
         <mark key="[" line="12" column="23" />
@@ -721,10 +721,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>.</text>
+        <text>commit</text>
       </register>
       <register name="-" type="4">
-        <text>.</text>
+        <text>commit</text>
       </register>
       <register name="/" type="4">
         <text>Bind</text>
@@ -733,31 +733,31 @@
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJlZmVyZW5jZS5zZXRTdW1tYXJ5KHN0cmluZ1ZhbHVlKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>.</text>
+        <text>commit</text>
       </register>
       <register name="2" type="4">
-        <text>WeatherUtils</text>
+        <text>.</text>
       </register>
       <register name="3" type="4">
-        <text>apply</text>
+        <text>WeatherUtils</text>
       </register>
       <register name="4" type="4">
+        <text>apply</text>
+      </register>
+      <register name="5" type="4">
         <text>SERVER_DOWN</text>
       </register>
-      <register name="5" type="2">
+      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
+      <register name="7" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgV2VhdGhlclV0aWxzLnJlc2V0TG9jYXRpb25TdGF0dXMoY29udGV4dCk7Cg==</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>)</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">Pg==</text>
-      </register>
       <register name="9" type="4">
-        <text>g</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
