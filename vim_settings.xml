@@ -364,11 +364,11 @@
         <mark key="^" line="44" column="62" />
         <mark key="." line="37" column="19" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/res/values/strings.xml" timestamp="1460891638347">
-        <mark key="[" line="111" column="66" />
-        <mark key="]" line="111" column="66" />
-        <mark key="^" line="111" column="66" />
-        <mark key="." line="111" column="66" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/res/values/strings.xml" timestamp="1461136539851">
+        <mark key="[" line="118" column="51" />
+        <mark key="]" line="118" column="121" />
+        <mark key="^" line="118" column="121" />
+        <mark key="." line="118" column="121" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/essentials/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/remote/MoviesResponse.java" timestamp="1459870810724">
         <mark key="[" line="22" column="21" />
@@ -508,12 +508,12 @@
         <mark key="." line="2" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/SyncAdapter.java" timestamp="1460897832591" />
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" timestamp="1461134642354">
-        <mark key="'" line="83" column="14" />
-        <mark key="[" line="92" column="71" />
-        <mark key="]" line="93" column="130" />
-        <mark key="^" line="93" column="130" />
-        <mark key="." line="93" column="130" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" timestamp="1461136172798">
+        <mark key="'" line="64" column="42" />
+        <mark key="[" line="281" column="56" />
+        <mark key="]" line="281" column="94" />
+        <mark key="^" line="281" column="94" />
+        <mark key="." line="281" column="94" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/SunshineApp/app/src/main/res/layout-sw600dp/content_main.xml" timestamp="1457490165397">
         <mark key="[" line="21" column="0" />
@@ -618,17 +618,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="32" column="25" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
-      <jump line="89" column="10" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
-      <jump line="379" column="15" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
-      <jump line="376" column="15" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
-      <jump line="43" column="14" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
-      <jump line="53" column="30" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
-      <jump line="68" column="42" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
-      <jump line="1" column="31" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
-      <jump line="64" column="19" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
-      <jump line="331" column="14" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
-      <jump line="326" column="15" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
       <jump line="323" column="15" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
       <jump line="62" column="30" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
       <jump line="98" column="31" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/PopularMovies/app/src/main/java/me/zaicheng/app/popularmovies/data/model/Movie.java" />
@@ -718,55 +707,66 @@
       <jump line="273" column="4" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" />
       <jump line="337" column="8" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherUtils.java" />
       <jump line="83" column="14" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" />
+      <jump line="66" column="40" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" />
+      <jump line="248" column="15" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" />
+      <jump line="43" column="51" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" />
+      <jump line="118" column="7" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" />
+      <jump line="124" column="14" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" />
+      <jump line="207" column="15" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" />
+      <jump line="257" column="15" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" />
+      <jump line="284" column="15" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" />
+      <jump line="277" column="77" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" />
+      <jump line="64" column="42" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>SERVER_INVALID</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text>SERVER_INVALID</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text>onResu</text>
+        <text>Bind</text>
       </register>
-      <register name="0" type="4">
-        <text>LOCATION_STATUS_INVALID</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJlZmVyZW5jZS5zZXRTdW1tYXJ5KHN0cmluZ1ZhbHVlKTsK</text>
       </register>
       <register name="1" type="4">
-        <text>SERVER_INVALID</text>
+        <text>)</text>
       </register>
       <register name="2" type="4">
-        <text>.</text>
+        <text encoding="base64">Pg==</text>
       </register>
       <register name="3" type="4">
-        <text>this</text>
+        <text>g</text>
       </register>
       <register name="4" type="4">
-        <text>.</text>
+        <text>:</text>
       </register>
       <register name="5" type="4">
-        <text>SettingsActivity</text>
+        <text>f</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgaWYgKG1lc3NhZ2VDb2RlID09IDQwNCkgewogICAgICAgICAgICAgICAgV2VhdGhlclV0aWxzLnNldExvY2F0aW9uU3RhdHVzKGNvbnRleHQsIExPQ0FUSU9OX1NUQVRVU19MT0NBVElPTl9JTlZBTElEKTsKICAgICAgICAgICAgfQo=</text>
+      <register name="6" type="4">
+        <text>f</text>
       </register>
       <register name="7" type="4">
-        <text>break</text>
+        <text>i</text>
       </register>
       <register name="8" type="4">
-        <text>SERVER_DOWN</text>
+        <text>l</text>
       </register>
       <register name="9" type="4">
-        <text>OWM_CITY_NAME</text>
+        <text>x</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search>onResu</last-search>
+      <last-search>Bind</last-search>
       <last-offset />
-      <last-pattern>onResu</last-pattern>
+      <last-pattern>Bind</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>error</last-substitute>
       <last-dir>1</last-dir>
@@ -774,7 +774,6 @@
     </search>
     <history>
       <history-search>
-        <entry>release</entry>
         <entry>title</entry>
         <entry>movie</entry>
         <entry>poster</entry>
@@ -794,6 +793,7 @@
         <entry>favor</entry>
         <entry>disp</entry>
         <entry>onResu</entry>
+        <entry>Bind</entry>
       </history-search>
       <history-cmd>
         <entry>qw</entry>
