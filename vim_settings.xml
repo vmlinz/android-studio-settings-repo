@@ -9,10 +9,11 @@
         <mark key="." line="15" column="29" />
         <mark key="^" line="15" column="29" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ui/views/LocationEditTextPreference.java" timestamp="1461238200173">
-        <mark key="[" line="55" column="0" />
-        <mark key="]" line="55" column="0" />
-        <mark key="." line="55" column="0" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ui/views/LocationEditTextPreference.java" timestamp="1461239428147">
+        <mark key="[" line="65" column="47" />
+        <mark key="]" line="65" column="47" />
+        <mark key="." line="65" column="47" />
+        <mark key="^" line="65" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/res/values/attrs.xml" timestamp="1461209763704">
         <mark key="[" line="3" column="23" />
@@ -154,11 +155,11 @@
       <jump line="64" column="42" filename="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnZXREaWFsb2coKS5maW5kVmlld0J5SWQoYW5kcm9pZC5SLmlkLikK</text>
+      <register name="&quot;" type="4">
+        <text>;);</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>;);</text>
       </register>
       <register name="/" type="4">
         <text>Bind</text>
@@ -166,32 +167,32 @@
       <register name="0" type="4">
         <text>http://schemas.android.com/apk/res/android&quot;</text>
       </register>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnZXREaWFsb2coKS5maW5kVmlld0J5SWQoYW5kcm9pZC5SLmlkLikK</text>
+      <register name="1" type="4">
+        <text>;);</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICBnZXREaWFsb2coKS5maW5kVmlld0J5SWQoYW5kcm9pZC5SLmlkLikK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
       </register>
       <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAK</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICAgICAgICAgIAo=</text>
       </register>
-      <register name="5" type="4">
+      <register name="6" type="4">
         <text encoding="base64">IA==</text>
       </register>
-      <register name="6" type="4">
+      <register name="7" type="4">
         <text>/res</text>
       </register>
-      <register name="7" type="4">
+      <register name="8" type="4">
         <text>.0</text>
       </register>
-      <register name="8" type="4">
-        <text>.3</text>
-      </register>
       <register name="9" type="4">
-        <text>/23</text>
+        <text>.3</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
