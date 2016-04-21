@@ -24,22 +24,11 @@
         <mark key="." line="312" column="65" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/res/layout/content_detail.xml" timestamp="1460888185378" />
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherUtils.java" timestamp="1461145442779">
-        <mark key="'" line="361" column="8" />
-        <mark key="[" line="161" column="55" />
-        <mark key="]" line="161" column="70" />
-        <mark key="^" line="161" column="70" />
-        <mark key="." line="161" column="70" />
-      </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/res/xml/pref_general.xml" timestamp="1461209739128">
-        <mark key="[" line="1" column="77" />
-        <mark key="]" line="1" column="77" />
-        <mark key="^" line="1" column="15" />
-        <mark key="." line="1" column="77" />
-      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/data/WeatherProvider.java" timestamp="1461211375483" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/utils/Utils.java" timestamp="1461207255878">
         <mark key="[" line="20" column="13" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/utils/WeatherUtils.java" timestamp="1461210945127" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ui/views/LocationEditTextPreferencee.java" timestamp="1461208343376">
         <mark key="[" line="9" column="39" />
         <mark key="]" line="9" column="39" />
@@ -62,14 +51,6 @@
       <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/android/preference/PreferenceFragment.class" timestamp="1460973019557" />
       <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/android/preference/Preference.class" timestamp="1460972838599" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ui/views/MyView.java" timestamp="1461208360249" />
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/SyncAdapter.java" timestamp="1461140480667" />
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" timestamp="1461145512242">
-        <mark key="'" line="64" column="42" />
-        <mark key="[" line="192" column="62" />
-        <mark key="]" line="192" column="72" />
-        <mark key="^" line="192" column="72" />
-        <mark key="." line="192" column="72" />
-      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastAdapter.java" timestamp="1460888085349" />
       <file name="/fragment.java" timestamp="1460898530851">
         <mark key="[" line="0" column="0" />
