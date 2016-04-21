@@ -11,6 +11,12 @@
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/services/FetchWeatherService.java" timestamp="1460886989495" />
       <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/android/content/SharedPreferences.class" timestamp="1460898682864" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/res/values/attrs.xml" timestamp="1461209763704">
+        <mark key="[" line="3" column="23" />
+        <mark key="]" line="3" column="23" />
+        <mark key="^" line="3" column="53" />
+        <mark key="." line="3" column="23" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ForecastFragment.java" timestamp="1461145409067">
         <mark key="[" line="312" column="50" />
         <mark key="]" line="312" column="65" />
@@ -25,8 +31,20 @@
         <mark key="^" line="161" column="70" />
         <mark key="." line="161" column="70" />
       </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/res/xml/pref_general.xml" timestamp="1461209739128">
+        <mark key="[" line="1" column="77" />
+        <mark key="]" line="1" column="77" />
+        <mark key="^" line="1" column="15" />
+        <mark key="." line="1" column="77" />
+      </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/utils/Utils.java" timestamp="1461207255878">
         <mark key="[" line="20" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ui/views/LocationEditTextPreferencee.java" timestamp="1461208343376">
+        <mark key="[" line="9" column="39" />
+        <mark key="]" line="9" column="39" />
+        <mark key="^" line="7" column="67" />
+        <mark key="." line="9" column="39" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/res/values/strings.xml" timestamp="1461145403441">
         <mark key="[" line="118" column="51" />
@@ -35,8 +53,15 @@
         <mark key="." line="118" column="121" />
       </file>
       <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/android/content/ContentResolver.class" timestamp="1461144967249" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ui/views/LocationEditTextPreference.java" timestamp="1461209520783">
+        <mark key="[" line="31" column="23" />
+        <mark key="]" line="31" column="32" />
+        <mark key="." line="31" column="32" />
+        <mark key="^" line="31" column="32" />
+      </file>
       <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/android/preference/PreferenceFragment.class" timestamp="1460973019557" />
       <file name="/usr/local/opt/android-sdk/platforms/android-23/android.jar!/android/preference/Preference.class" timestamp="1460972838599" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ui/views/MyView.java" timestamp="1461208360249" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/sync/SyncAdapter.java" timestamp="1461140480667" />
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/SettingsActivity.java" timestamp="1461145512242">
         <mark key="'" line="64" column="42" />
@@ -154,43 +179,43 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>LOCATION_INVALID</text>
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>LOCATION_INVALID</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>Bind</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgICAgICAgICAgcHJlZmVyZW5jZS5zZXRTdW1tYXJ5KHN0cmluZ1ZhbHVlKTsK</text>
+      <register name="0" type="4">
+        <text>http://schemas.android.com/apk/res/android&quot;</text>
       </register>
       <register name="1" type="4">
-        <text>LOCATION_INVALID</text>
+        <text>e</text>
       </register>
       <register name="2" type="4">
-        <text>UNKNOWN</text>
+        <text>c</text>
       </register>
       <register name="3" type="4">
-        <text>SERVER_INVALID</text>
+        <text>n</text>
       </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="4" type="4">
+        <text>e</text>
       </register>
-      <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="5" type="4">
+        <text>r</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICByb3cgPSBDb250ZW50VXJpcy5wYXJzZUlkKHVyaSk7Cg==</text>
+      <register name="6" type="4">
+        <text>e</text>
       </register>
-      <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="7" type="4">
+        <text>f</text>
       </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB1cmkgPSBjb250ZXh0LmdldENvbnRlbnRSZXNvbHZlcigpLmluc2VydChXZWF0aGVyQ29udHJhY3QuTG9jYXRpb25FbnRyeS5DT05URU5UX1VSSSwgY3YpOwo=</text>
+      <register name="8" type="4">
+        <text>e</text>
       </register>
       <register name="9" type="4">
-        <text encoding="base64">IA==</text>
+        <text>r</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
