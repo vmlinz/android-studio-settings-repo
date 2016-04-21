@@ -30,11 +30,11 @@
         <mark key="^" line="312" column="65" />
         <mark key="." line="312" column="65" />
       </file>
-      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ui/main/ForecastFragment.java" timestamp="1461213313075">
-        <mark key="[" line="51" column="55" />
-        <mark key="]" line="51" column="55" />
-        <mark key="." line="51" column="55" />
-        <mark key="^" line="51" column="55" />
+      <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ui/main/ForecastFragment.java" timestamp="1461225720102">
+        <mark key="[" line="72" column="4" />
+        <mark key="]" line="72" column="10" />
+        <mark key="." line="72" column="10" />
+        <mark key="^" line="72" column="10" />
       </file>
       <file name="$USER_HOME$/Projects/study/engineering/frontend/android/training/fundamentals/SunshineApp/app/src/main/java/com/example/sunshine/app/ui/views/LocationEditTextPreferencee.java" timestamp="1461208343376">
         <mark key="[" line="9" column="39" />
@@ -156,10 +156,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>/res</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text>/res</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>Bind</text>
@@ -168,31 +168,31 @@
         <text>http://schemas.android.com/apk/res/android&quot;</text>
       </register>
       <register name="1" type="4">
-        <text>/res</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="2" type="4">
-        <text>.0</text>
+        <text>/res</text>
       </register>
       <register name="3" type="4">
-        <text>.3</text>
+        <text>.0</text>
       </register>
       <register name="4" type="4">
-        <text>/23</text>
+        <text>.3</text>
       </register>
       <register name="5" type="4">
-        <text>-v7</text>
+        <text>/23</text>
       </register>
       <register name="6" type="4">
-        <text>/appcompat</text>
+        <text>-v7</text>
       </register>
       <register name="7" type="4">
-        <text>.support</text>
+        <text>/appcompat</text>
       </register>
       <register name="8" type="4">
-        <text>.android</text>
+        <text>.support</text>
       </register>
       <register name="9" type="4">
-        <text>/com</text>
+        <text>.android</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
